@@ -1,193 +1,325 @@
-('Jieping Ye', 65)
-('Zoubin Ghahramani', 50)
-('Eric P. Xing', 47)
-('Philip S. Yu', 44)
-('Rong Jin', 43)
-('Michael I. Jordan', 43)
-('Jiawei Han', 43)
-('Lawrence Carin', 42)
-('Masashi Sugiyama', 39)
-('Yoshua Bengio', 37)
-(u'Bernhard Sch\xf6lkopf', 36)
-('Shie Mannor', 35)
-('David M. Blei', 33)
-('Alexander J. Smola', 33)
-('Inderjit S. Dhillon', 33)
-('Huan Xu', 32)
-('Han Liu', 31)
-(u'R\xe9mi Munos', 31)
-('Francis R. Bach', 31)
-('Jun Zhu', 29)
-(u'Csaba Szepesv\xe1ri', 29)
-('Ruslan Salakhutdinov', 29)
-('Kilian Q. Weinberger', 27)
-('Le Song', 27)
-('David B. Dunson', 27)
-('Christos Faloutsos', 26)
-('Ohad Shamir', 25)
-('Andreas Krause', 25)
-('Shai Shalev-Shwartz', 24)
-('Prateek Jain', 24)
-('Steven C. H. Hoi', 23)
-('Jie Tang', 23)
-('Zhi-Hua Zhou', 23)
-('Jeff G. Schneider', 22)
-('Larry A. Wasserman', 22)
-('Yee Whye Teh', 22)
-('Shuicheng Yan', 22)
-('Dacheng Tao', 22)
-('Andrew Y. Ng', 22)
-('Pradeep D. Ravikumar', 22)
-('Wei Fan', 22)
-('Hui Xiong', 22)
-('Tong Zhang', 22)
-('Max Welling', 21)
-('Koby Crammer', 21)
-('Martin J. Wainwright', 21)
-('Ambuj Tewari', 21)
-('Tianbao Yang', 21)
-('Richard S. Zemel', 20)
-('Jeff A. Bilmes', 20)
-('Elad Hazan', 19)
-('Lise Getoor', 19)
-('Aarti Singh', 19)
-('Ping Li', 19)
-('Arindam Banerjee', 19)
-('Yan Liu', 18)
-('Ryan P. Adams', 18)
-(u'Barnab\xe1s P\xf3czos', 18)
-('Nathan Srebro', 18)
-('Lijun Zhang', 17)
-(u'Jos\xe9 Miguel Hern\xe1ndez-Lobato', 17)
-('Daniel Hsu', 17)
-('Neil D. Lawrence', 17)
-('Jun Wang', 17)
-('Hanghang Tong', 17)
-('Mehryar Mohri', 17)
-(u'Hal Daum\xe9 III', 17)
-('Feiping Nie', 17)
-('Arthur Gretton', 17)
-('Jonathan W. Pillow', 17)
-('Fei Sha', 17)
-('Lei Chen', 17)
-('Xiaofei He', 17)
-('Cho-Jui Hsieh', 16)
-('Heng Huang', 16)
-('Michael W. Mahoney', 16)
-('Raquel Urtasun', 16)
-('Yu Zheng', 16)
-('Qiang Yang', 16)
-('Nuno Vasconcelos', 16)
-('Anil K. Jain', 16)
-('Mohammad Ghavamzadeh', 16)
-('Xindong Wu', 16)
-('Fei Wang', 16)
-('John D. Lafferty', 16)
-('Cynthia Rudin', 16)
-('Geoffrey E. Hinton', 16)
-('Pushmeet Kohli', 16)
-('S. V. N. Vishwanathan', 16)
-('Jun Liu', 16)
-('Tamir Hazan', 16)
-('Trevor Darrell', 16)
-('Shenghuo Zhu', 15)
-('Wang-Chien Lee', 15)
-('Shivani Agarwal', 15)
-('Yaoliang Yu', 15)
-('Joydeep Ghosh', 15)
-('Kristen Grauman', 15)
-('Xifeng Yan', 15)
-('Erik B. Sudderth', 15)
-(u'Eyke H\xfcllermeier', 15)
-('Pascal Fua', 15)
-('Ben Taskar', 14)
-('Gert R. G. Lanckriet', 14)
-('Thorsten Joachims', 14)
-('Francesco Orabona', 14)
-('Animashree Anandkumar', 14)
-('Huan Liu', 14)
-('Alessandro Lazaric', 14)
-('Venkatesh Saligrama', 14)
-('Ming-Syan Chen', 14)
-('Peilin Zhao', 14)
-('Taiji Suzuki', 14)
-('Hugo Larochelle', 14)
-('Francesco Bonchi', 13)
-('Jure Leskovec', 13)
-('Sujay Sanghavi', 13)
-('Tommi S. Jaakkola', 13)
-('Alan Fern', 13)
-('Bruno Scherrer', 13)
-('Ivor W. Tsang', 13)
-('Xiaofang Zhou', 13)
-('Karthik Sridharan', 13)
-('Bo Zhang', 13)
-('Jianliang Xu', 13)
-('Yudong Chen', 13)
-('Lei Li', 13)
-('Alekh Agarwal', 13)
-('Jian Pei', 13)
-(u'Nicol\xf2 Cesa-Bianchi', 13)
-('Doina Precup', 13)
-('Ryota Tomioka', 12)
-('Dean P. Foster', 12)
-('Maria-Florina Balcan', 12)
-('Alexander Rakhlin', 12)
-('Jie Zhou', 12)
-('Charu C. Aggarwal', 12)
-('Padhraic Smyth', 12)
-('Shinichi Nakajima', 12)
-('Zhihua Zhang', 12)
-('Guy Lebanon', 12)
-('Emily B. Fox', 12)
-('Tony Jebara', 12)
-('Jie Wang', 12)
-('Stefanie Jegelka', 12)
-('Hongyuan Zha', 12)
-('Carlos Guestrin', 12)
-('Jason Weston', 12)
-('Yann LeCun', 12)
-('Fang Han', 12)
-('Dan Roth', 12)
-('Nando de Freitas', 12)
-('Wei Chen', 12)
-('Sivan Sabato', 12)
-('Claudio Gentile', 12)
-('Chiranjib Bhattacharyya', 11)
-('Joelle Pineau', 11)
-('Gang Chen', 11)
-('Volkan Cevher', 11)
-('Shou-De Lin', 11)
-('Xi Chen', 11)
-('Aristides Gionis', 11)
-('Jimeng Sun', 11)
-('Satyen Kale', 11)
-('Amir Globerson', 11)
-('Deepak Agarwal', 11)
-('Suvrit Sra', 11)
-('Yixin Chen', 11)
-('Mark D. Reid', 11)
-('Odalric-Ambrym Maillard', 11)
-('Aaron C. Courville', 11)
-('Christopher D. Manning', 11)
-('Rama Chellappa', 11)
-('Shih-Fu Chang', 11)
-('Alexander G. Gray', 11)
-(u'Andr\xe1s Gy\xf6rgy', 11)
-('Peter Wonka', 11)
-('Man Lung Yiu', 11)
-('Dale Schuurmans', 11)
-('Chong Wang', 11)
-('Kristian Kersting', 11)
-('Brian Kulis', 11)
-('Ilya Sutskever', 11)
-('Alexandra Carpentier', 11)
-('Daniel Tarlow', 11)
-('Sham M. Kakade', 11)
-('Percy Liang', 11)
-('Kamalika Chaudhuri', 11)
-('Jeffrey Xu Yu', 11)
-('Guillermo Sapiro', 11)
-('Dominik Janzing', 11)
-('Chunhua Shen', 11)
-('Philipp Hennig', 11)
+Philip S. Yu,200
+Michael I. Jordan,169
+Jiawei Han,163
+Zoubin Ghahramani,131
+Bernhard Schölkopf,129
+Jieping Ye,118
+Anil K. Jain,110
+Alexander J. Smola,108
+Rong Jin,106
+Qiang Yang,105
+Yoshua Bengio,98
+Eric P. Xing,97
+Christos Faloutsos,95
+Daphne Koller,94
+Andrew Y. Ng,86
+Geoffrey E. Hinton,85
+Zhi-Hua Zhou,82
+Lawrence Carin,82
+Xindong Wu,81
+Ming-Syan Chen,77
+Wei Wang,75
+Satinder P. Singh,74
+Thomas G. Dietterich,73
+Judea Pearl,71
+Andrew W. Moore,71
+Francis R. Bach,71
+Craig Boutilier,70
+David Heckerman,70
+Hui Xiong,70
+Inderjit S. Dhillon,70
+Masashi Sugiyama,69
+Max Welling,68
+Padhraic Smyth,68
+Michael L. Littman,67
+Pedro M. Domingos,67
+Csaba Szepesvári,66
+Thomas S. Huang,66
+Tong Zhang,66
+Klaus-Robert Müller,66
+David M. Blei,65
+Shie Mannor,65
+Jian Pei,65
+Yoram Singer,65
+John Shawe-Taylor,62
+Tao Li,62
+Chris H. Q. Ding,60
+Andrew McCallum,59
+Rémi Munos,59
+Tommi S. Jaakkola,59
+Dale Schuurmans,58
+Rama Chellappa,57
+Peter Stone,56
+Tuomas Sandholm,56
+Yee Whye Teh,55
+John Langford,55
+Shyi-Ming Chen,55
+Robert E. Schapire,54
+Wei Fan,54
+Sebastian Thrun,53
+Eamonn J. Keogh,53
+Huan Liu,52
+Jeff A. Bilmes,52
+Shuicheng Yan,52
+Charu C. Aggarwal,52
+Richard S. Zemel,52
+Dacheng Tao,51
+Naftali Tishby,51
+Koby Crammer,51
+Peter Dayan,50
+Manfred K. Warmuth,50
+Terrence J. Sejnowski,50
+Fei Wang,50
+Dan Roth,50
+Jeff G. Schneider,50
+Eric Horvitz,49
+Jason Weston,49
+Ruslan Salakhutdinov,49
+John D. Lafferty,48
+Nir Friedman,48
+Christopher Meek,48
+Jie Tang,48
+Adnan Darwiche,48
+Lise Getoor,47
+Bing Liu,47
+Martin J. Wainwright,47
+Shai Shalev-Shwartz,47
+Tzung-Pei Hong,47
+Alan Fern,46
+Jun Zhu,46
+Ke Wang,46
+Doina Precup,45
+Andreas Krause,45
+Stuart J. Russell,45
+Peter L. Bartlett,45
+Le Song,45
+Thorsten Joachims,45
+Arthur Gretton,45
+Richard S. Sutton,44
+Elisa Bertino,44
+Xingquan Zhu,44
+Thomas L. Griffiths,44
+Vincent Conitzer,44
+Joydeep Ghosh,44
+Steven C. H. Hoi,44
+Carlos Guestrin,44
+Nando de Freitas,44
+So Young Sohn,43
+Mehryar Mohri,43
+C. Lee Giles,43
+Rina Dechter,43
+James T. Kwok,43
+Yan Liu,43
+Christopher K. I. Williams,43
+Lawrence K. Saul,43
+Amir Globerson,43
+Kilian Q. Weinberger,43
+Trevor Darrell,43
+Xiaofei He,43
+Volker Tresp,43
+Arindam Banerjee,42
+Brendan J. Frey,42
+Sridhar Mahadevan,42
+Ping Li,42
+Kristian Kersting,42
+Yann LeCun,42
+Prasad Tadepalli,41
+Andrew G. Barto,41
+S. V. N. Vishwanathan,41
+Joshua B. Tenenbaum,41
+Dit-Yan Yeung,41
+David J. Kriegman,40
+Lei Chen,40
+Alan L. Yuille,40
+Raymond J. Mooney,40
+Pat Langley,40
+Zheng Chen,40
+Neil D. Lawrence,40
+Jun Wang,40
+Geoffrey J. Gordon,39
+Vipin Kumar,39
+Yishay Mansour,39
+Tony Jebara,39
+Hongyuan Zha,39
+Geoffrey I. Webb,39
+Feiping Nie,38
+Han Liu,38
+Tobias Scheffer,38
+Sarit Kraus,38
+Michael J. Kearns,38
+Nicolò Cesa-Bianchi,38
+Heng Huang,38
+Dirk Van den Poel,38
+Joachim M. Buhmann,37
+David C. Parkes,37
+Changshui Zhang,37
+Ivor W. Tsang,37
+Shlomo Zilberstein,37
+Nuno Vasconcelos,37
+Jianyong Wang,36
+Jude W. Shavlik,36
+Jeffrey Xu Yu,36
+Leslie Pack Kaelbling,36
+Charles X. Ling,36
+Kevin W. Bowyer,36
+Russell Greiner,36
+Huan Xu,36
+Kai Yu,35
+Chengqi Zhang,35
+Xiaoou Tang,35
+Luc De Raedt,35
+Gérard G. Medioni,35
+David J. Fleet,35
+Olivier Chapelle,35
+Michael R. Lyu,35
+Gregory F. Cooper,35
+William W. Cohen,35
+Loris Nanni,35
+Pradeep D. Ravikumar,35
+Alex Pentland,34
+Deng Cai,34
+Jure Leskovec,34
+Philip M. Long,34
+Alexander T. Ihler,34
+Ross D. Shachter,34
+Michael H. Bowling,34
+Hanghang Tong,34
+Ronald Parr,34
+Yong Yu,34
+Nathan Srebro,34
+Michael P. Wellman,34
+Rich Caruana,34
+Guy Lebanon,34
+Ian Davidson,34
+Massimiliano Pontil,34
+David B. Dunson,34
+Christof Koch,34
+Corinna Cortes,33
+Haixun Wang,33
+Alan S. Willsky,33
+Nikos Mamoulis,33
+Enhong Chen,33
+Hans-Peter Kriegel,33
+Pietro Perona,33
+Claudio Gentile,33
+Naren Ramakrishnan,32
+Carla P. Gomes,32
+Yair Weiss,32
+Manuela M. Veloso,32
+Larry A. Wasserman,32
+Dan Geiger,32
+Ohad Shamir,32
+Nicholas R. Jennings,32
+Lyle H. Ungar,32
+Hisashi Kashima,31
+Barnabás Póczos,31
+Aristides Gionis,31
+Foster J. Provost,31
+Yang Liu,31
+Hal Daumé III,31
+Shashi Shekhar,31
+Jürgen Schmidhuber,31
+Alessandra Lumini,31
+Azriel Rosenfeld,31
+Ambuj Tewari,31
+Xifeng Yan,31
+Larry S. Davis,31
+Shenghuo Zhu,31
+Zhihua Zhang,31
+Yixin Chen,31
+Alexander G. Gray,31
+Michael Mozer,31
+Sam T. Roweis,31
+Prateek Jain,30
+Marina Meila,30
+Thomas Hofmann,30
+Mohammad Ghavamzadeh,30
+Bart Selman,30
+Daphna Weinshall,30
+Sanjoy Dasgupta,30
+Manfred Opper,30
+Jing Gao,30
+Chih-Jen Lin,30
+Carla E. Brodley,30
+Bo Zhang,30
+Jimeng Sun,30
+Wolfgang Maass,30
+Léon Bottou,30
+Kenji Fukumizu,30
+Thore Graepel,30
+David Jensen,30
+Avrim Blum,30
+Gert R. G. Lanckriet,29
+Henri Prade,29
+Toby Walsh,29
+Takeo Kanade,29
+Naonori Ueda,29
+Joelle Pineau,29
+Jin Tian,29
+Narendra Ahuja,29
+Fei Sha,29
+Ralf Herbrich,29
+Irwin King,28
+Ravi Kumar,28
+Heikki Mannila,28
+Erik B. Sudderth,28
+Lei Zhang,28
+Wang-Chien Lee,28
+Wee Sun Lee,28
+David Maxwell Chickering,28
+Kun Zhang,28
+Milind Tambe,28
+Ronen I. Brafman,28
+Moshe Tennenholtz,28
+Pascal Fua,28
+Dominik Janzing,28
+Gwo-Hshiung Tzeng,28
+Ohbyung Kwon,28
+Gunnar Rätsch,28
+Witold Pedrycz,28
+Mario Marchand,28
+Katsushi Ikeuchi,28
+Tianbao Yang,28
+Samy Bengio,27
+Ariel D. Procaccia,27
+Cengiz Kahraman,27
+Hang Li,27
+Francesco Bonchi,27
+Robert C. Williamson,27
+Josef Kittler,27
+Tomaso A. Poggio,27
+King Lun Choy,27
+Jian-Da Wu,27
+Beng Chin Ooi,27
+Nebojsa Jojic,27
+Michael J. Pazzani,27
+Ramesh Jain,27
+Vladimir Vapnik,27
+Yang Wang,27
+Jun Liu,27
+Dimitrios Gunopulos,27
+Wei Chen,27
+V. S. Subrahmanian,27
+Peter A. Flach,26
+Andrew Zisserman,26
+Shi-Jinn Horng,26
+Jennifer Neville,26
+Srinivasan Parthasarathy,26
+Klaus Obermayer,26
+Jian Zhang,26
+Didier Dubois,26
+Elad Hazan,26
+Chiranjib Bhattacharyya,26
+Trevor Hastie,26
+Kian-Lee Tan,26
+Tie-Yan Liu,26
+Pushmeet Kohli,26
+Wei Liu,26
+Felix T. S. Chan,26
+Lihong Li,26
+Eyke Hüllermeier,26
+Daniel D. Lee,26
+Carl Edward Rasmussen,26
+Vincent S. Tseng,26
+Tom Heskes,26
+Edwin R. Hancock,26

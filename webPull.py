@@ -18,23 +18,36 @@ def pubList(start, end, name, JoC):
 	for i in range(start, end):
 		pubs.append([weblink+name+"/"+name+str(i)+".html",name+str(i)])
 
-# Journal of Machine Learning Research (1-16)
-pubList(12, 17, "jmlr", "j")
-# IEEE Transactions on Pattern Analysis and Machine Intelligence (1-38)
-pubList(34, 39, "pami", "j")
-# Machine Learning (1-102)
-pubList(80, 103, "ml", "j")
-# IEEE Transactions on Knowledge and Data Engineering (1-28)
-#pubList(24,29, "tkde", "j")
+# Journal of Machine Learning Research (1-16) 5y(12-16)
+pubList(1, 17, "jmlr", "j")
+# Machine Learning (1-102) 5y(82-102)
+pubList(1, 103, "ml", "j")
+# IEEE Pattern Analysis and Machine Intelligence (1-38) 5y(34-38)
+pubList(1, 39, "pami", "j")
+# IEEE Knowledge and Data Engineering (1-28) 5y(24-28)
+pubList(1,29, "tkde", "j")
+# Expert Systems with Applications 5y(38-51)
+pubList(1, 51, "eswa", "j")
 
-# Neural Information Processing Systems (1987-2014)
-pubList(2010, 2015, "nips", "c")
 # International Conference of Machine Learning (1988-2015)
-pubList(2011, 2016, "icml", "c")
-# ACM Knowledge Discovery and Data Mining (1994-2015)
-pubList(2011, 2016, "kdd", "c")
+pubList(1988, 2016, "icml", "c")
+# Neural Information Processing Systems (1987-2014)
+pubList(1987, 2015, "nips", "c")
+# AAAI Conference on Artificial Intelligence
+pubList(1980, 2016, "aaai", "c")
+# Uncertainty in Artificial Intelligence
+pubList(1985, 2016, "uai", "c")
 # Artificial Intelligence and Statistics (1995-2015)
-#pubList(2011,2016, "aistats", "c")
+pubList(1995, 2016, "aistats", "c")
+# International Joint Conference on Artificial Intelligence
+pubList(1969, 2016, "ijaci", "c")
+
+
+# ACM Knowledge Discovery and Data Mining (1994-2015)
+pubList(1994, 2016, "kdd", "c")
+# IEEE International Conference on Data Mining (ICDM)
+pubList(2001, 2016, "icdm", "c")
+
 
 for pub in pubs:
 
@@ -44,7 +57,8 @@ for pub in pubs:
 	names = tree.xpath('//span[@itemprop="name"]/text()')
 
 	for name in names:
-	    if name[-1] != '.' and len(name) > 5:
+	    name = name.encode('utf-8')
+	    if name[-1] != '.' and len(name) > 5 and "/" not in name:
 	        if name in nameDict:
 	           nameDict[name] += 1
 	           namePubDict[name].append(pub[1])
@@ -66,6 +80,6 @@ sorted_nameDict = sorted(nameDict.items(),
 #print namePubDict["Michael I. Jordan"]
 
 for tuple in sorted_nameDict:
-	if tuple[1] > 10:
-		print tuple
+	if tuple[1] > 25:
+		print tuple[0]+","+str(tuple[1])
 
