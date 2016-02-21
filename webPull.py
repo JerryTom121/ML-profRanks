@@ -5,6 +5,7 @@ import requests
 import operator
 
 nameDict = {}
+namePubDict = {}
 pubs = []
 
 def pubList(start, end, name, JoC):
@@ -15,20 +16,29 @@ def pubList(start, end, name, JoC):
 		weblink += "conf/"
 
 	for i in range(start, end):
-		pubs.append(weblink+name+"/"+name+str(i)+".html")
+		pubs.append([weblink+name+"/"+name+str(i)+".html",name+str(i)])
 
-pubList(7, 17, "jmlr", "j")
-pubList(29, 39, "pami", "j")
-pubList(66, 103, "ml", "j")
-pubList(32, 51, "eswa", "j")
-pubList(2005, 2015, "nips", "c")
-pubList(2006, 2016, "icml", "c")
-pubList(2006, 2016, "kdd", "c")
-pubList(2006, 2016, "cvpr", "c")
+# Journal of Machine Learning Research (1-16)
+pubList(12, 17, "jmlr", "j")
+# IEEE Transactions on Pattern Analysis and Machine Intelligence (1-38)
+pubList(34, 39, "pami", "j")
+# Machine Learning (1-102)
+pubList(80, 103, "ml", "j")
+# IEEE Transactions on Knowledge and Data Engineering (1-28)
+#pubList(24,29, "tkde", "j")
+
+# Neural Information Processing Systems (1987-2014)
+pubList(2010, 2015, "nips", "c")
+# International Conference of Machine Learning (1988-2015)
+pubList(2011, 2016, "icml", "c")
+# ACM Knowledge Discovery and Data Mining (1994-2015)
+pubList(2011, 2016, "kdd", "c")
+# Artificial Intelligence and Statistics (1995-2015)
+#pubList(2011,2016, "aistats", "c")
 
 for pub in pubs:
 
-	page = requests.get(pub)
+	page = requests.get(pub[0])
 	tree = html.fromstring(page.content)
 
 	names = tree.xpath('//span[@itemprop="name"]/text()')
@@ -37,8 +47,13 @@ for pub in pubs:
 	    if name[-1] != '.' and len(name) > 5:
 	        if name in nameDict:
 	           nameDict[name] += 1
+	           namePubDict[name].append(pub[1])
 	        else:
 	            nameDict[name] = 1
+	            namePubDict[name] = [pub[1]]
+
+			
+
 
 #print nameDict 
 
@@ -48,7 +63,9 @@ sorted_nameDict = sorted(nameDict.items(),
 
 #print sorted_nameDict
 
+#print namePubDict["Michael I. Jordan"]
+
 for tuple in sorted_nameDict:
-	if tuple[1] > 25:
+	if tuple[1] > 10:
 		print tuple
 
