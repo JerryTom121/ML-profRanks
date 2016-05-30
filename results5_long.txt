@@ -1,0 +1,8362 @@
+Philip S. Yu,69
+Jieping Ye,67
+Jiawei Han,63
+Eric P. Xing,58
+Zoubin Ghahramani,57
+Rong Jin,55
+Lawrence Carin,47
+Bernhard Schölkopf,46
+Michael I. Jordan,44
+Hui Xiong,42
+Masashi Sugiyama,42
+Zhi-Hua Zhou,41
+Yoshua Bengio,40
+David M. Blei,36
+Alexander J. Smola,36
+Shie Mannor,36
+Jie Tang,36
+Inderjit S. Dhillon,36
+Rémi Munos,34
+Dacheng Tao,34
+Christos Faloutsos,34
+Feiping Nie,33
+Csaba Szepesvári,33
+Xindong Wu,33
+Huan Xu,33
+Han Liu,32
+Kilian Q. Weinberger,32
+Shuicheng Yan,32
+Heng Huang,32
+Jun Zhu,32
+Qiang Yang,31
+Yan Liu,31
+Francis R. Bach,31
+Enhong Chen,31
+Ruslan Salakhutdinov,31
+Steven C. H. Hoi,31
+Le Song,30
+Fei Wang,29
+Jeff G. Schneider,29
+Andreas Krause,29
+Wei Wang,29
+Jun Wang,29
+Chris H. Q. Ding,27
+Jeff A. Bilmes,27
+Wei Fan,27
+David B. Dunson,27
+Max Welling,26
+Xingquan Zhu,26
+Shyi-Ming Chen,26
+Ping Li,26
+Kristian Kersting,26
+Yang Liu,25
+Alan Fern,25
+Tong Zhang,25
+Prateek Jain,24
+Shai Shalev-Shwartz,24
+Tao Li,24
+Ohad Shamir,24
+Barnabás Póczos,24
+Tianbao Yang,24
+Lise Getoor,23
+Huan Liu,23
+Hanghang Tong,23
+Yee Whye Teh,23
+Arindam Banerjee,23
+Koby Crammer,23
+Jian Pei,23
+Pradeep D. Ravikumar,23
+Richard S. Zemel,23
+Wei Chen,23
+Ariel D. Procaccia,22
+Andrew Y. Ng,22
+Peilin Zhao,22
+Ambuj Tewari,22
+Larry A. Wasserman,22
+Lijun Zhang,22
+Yong Ge,21
+Xiaofei He,21
+Alexander T. Ihler,21
+Martin J. Wainwright,21
+Ryan P. Adams,21
+Witold Pedrycz,21
+Arthur Gretton,21
+Doina Precup,20
+Hal Daumé III,20
+Aarti Singh,20
+Ivor W. Tsang,20
+Fei Sha,20
+Neil D. Lawrence,20
+Charu C. Aggarwal,20
+Dirk Van den Poel,20
+Prasad Tadepalli,19
+Jure Leskovec,19
+Daniel Hsu,19
+Mohammad Ghavamzadeh,19
+Joydeep Ghosh,19
+Sarit Kraus,19
+Francesco Bonchi,19
+Anil K. Jain,19
+Jing Gao,19
+Lei Chen,19
+Ming-Syan Chen,19
+Judea Pearl,19
+Milind Tambe,19
+Nathan Srebro,19
+Pushmeet Kohli,19
+Dominik Janzing,19
+Zhihua Zhang,19
+Hongyuan Zha,19
+Naren Ramakrishnan,18
+Mehryar Mohri,18
+Lei Zhang,18
+Yu Zheng,18
+Bo Zhang,18
+Elad Hazan,18
+Peter Stone,18
+Xifeng Yan,18
+Shenghuo Zhu,18
+Yi Yang,18
+Geoffrey E. Hinton,18
+Wei Ding,17
+Thomas G. Dietterich,17
+Yuhong Guo,17
+Chengqi Zhang,17
+Kristen Grauman,17
+Carla P. Gomes,17
+S. V. N. Vishwanathan,17
+Erik B. Sudderth,17
+Michael W. Mahoney,17
+Joelle Pineau,17
+Wang-Chien Lee,17
+Xiaofang Zhou,17
+Yangqiu Song,17
+Yong Yu,17
+Tamir Hazan,17
+Hugo Larochelle,17
+Pedro M. Domingos,17
+Raquel Urtasun,17
+José Miguel Hernández-Lobato,17
+Jingrui He,17
+Jonathan W. Pillow,17
+Dale Schuurmans,17
+Wei Liu,17
+Lei Li,17
+Trevor Darrell,17
+Cho-Jui Hsieh,17
+Tzung-Pei Hong,17
+Michael Bowling,17
+Dan Roth,17
+Longbing Cao,17
+Yaoliang Yu,17
+Nicholas R. Jennings,17
+Jun Liu,17
+Hisashi Kashima,16
+Deng Cai,16
+Craig Boutilier,16
+Kwangsoo Kim,16
+Gao Cong,16
+Ryota Tomioka,16
+Hua Wang,16
+Eyke Hüllermeier,16
+Shou-De Lin,16
+Nicolò Cesa-Bianchi,16
+King Lun Choy,16
+Amir Globerson,16
+Nuno Vasconcelos,16
+Yixin Chen,16
+Loris Nanni,16
+Nando de Freitas,16
+Ning Chen,16
+Cynthia Rudin,15
+George T. S. Ho,15
+Taiji Suzuki,15
+Eamonn J. Keogh,15
+Ben Taskar,15
+David C. Parkes,15
+Guy Van den Broeck,15
+Vincent Conitzer,15
+Feng Chen,15
+Hao Wang,15
+Jimeng Sun,15
+Yu Zhang,15
+John D. Lafferty,15
+Tony Jebara,15
+Alessandro Lazaric,15
+Ian Davidson,15
+Daniel Tarlow,15
+Pascal Fua,15
+Tomoharu Iwata,15
+Vincent S. Tseng,15
+Shivani Agarwal,15
+Thorsten Joachims,15
+Francesco Orabona,15
+Animashree Anandkumar,15
+Yang Yang,15
+Geoffrey I. Webb,15
+Gert R. G. Lanckriet,14
+Gang Chen,14
+Jun Guo,14
+Ming Zhou,14
+Shi-Jinn Horng,14
+Stefano Ermon,14
+James T. Kwok,14
+Dean P. Foster,14
+Ping Luo,14
+Jiliang Tang,14
+Venkatesh Saligrama,14
+Kun Zhang,14
+Tommi S. Jaakkola,14
+Jeffrey Xu Yu,14
+Chiranjib Bhattacharyya,14
+Nan Du,14
+Tie-Yan Liu,14
+Dit-Yan Yeung,14
+Padhraic Smyth,14
+Guy Lebanon,14
+Sriraam Natarajan,14
+Bart Selman,14
+Quanquan Gu,14
+Xi Chen,14
+Claudia Plant,14
+Ling Wang,14
+Emily B. Fox,14
+Shlomo Zilberstein,14
+Tuomas Sandholm,14
+Alekh Agarwal,14
+Nizar Bouguila,14
+Toby Walsh,13
+Sujay Sanghavi,13
+Aristides Gionis,13
+Xing Xie,13
+Jie Wang,13
+Vibhav Gogate,13
+Jason J. Jung,13
+Yizhou Sun,13
+Alexander G. Gray,13
+Scott Sanner,13
+Lirong Xia,13
+Stefanie Jegelka,13
+Shih-Fu Chang,13
+Peng Zhang,13
+Alessandra Lumini,13
+Xinhua Zhang,13
+Ken-ichi Kawarabayashi,13
+Volkan Cevher,13
+Li Zhang,13
+Bruno Scherrer,13
+Suvrit Sra,13
+Carlos Guestrin,13
+Chong Wang,13
+Thomas S. Huang,13
+Felix T. S. Chan,13
+Roman Garnett,13
+Jason Weston,13
+Branislav Kveton,13
+Karthik Sridharan,13
+Jianliang Xu,13
+Stephan Günnemann,13
+Yudong Chen,13
+Qiang Liu,13
+Kenji Fukumizu,13
+Lei Shi,13
+Stuart J. Russell,13
+Rishabh K. Iyer,12
+David P. Wipf,12
+Xiaoou Tang,12
+Aaron C. Courville,12
+Kevin Swersky,12
+Chunhua Shen,12
+Zhi-Hong Deng,12
+Wenlin Chen,12
+Alexander Rakhlin,12
+Jie Zhou,12
+Satyen Kale,12
+Christopher D. Manning,12
+Vipin Kumar,12
+Peng Cui,12
+Elisa Bertino,12
+Fang Han,12
+Xiangnan Kong,12
+Philipp Hennig,12
+David Sontag,12
+Bin Li,12
+Jaewook Lee,12
+Leandro dos Santos Coelho,12
+Guandong Xu,12
+Nikos Mamoulis,12
+Man Lung Yiu,12
+Jie Zhang,12
+David A. Knowles,12
+Alex Kulesza,12
+Jan Peters,12
+Shinichi Nakajima,12
+Jianmin Wang,12
+Yun Fu,12
+Adnan Darwiche,12
+Thomas L. Griffiths,12
+Sivan Sabato,12
+Haesun Park,12
+Liang Gao,12
+Yann LeCun,12
+Claudio Gentile,12
+Wei Wu,11
+Irwin King,11
+Aram Galstyan,11
+Maria-Florina Balcan,11
+So Young Sohn,11
+Sheryl Brahnam,11
+Chao Zhang,11
+Adil Baykasoglu,11
+Slobodan Vucetic,11
+Corinna Cortes,11
+Hady Wirawan Lauw,11
+Miguel Delgado,11
+Wei Zhang,11
+Odalric-Ambrym Maillard,11
+Rama Chellappa,11
+Peter Wonka,11
+Naonori Ueda,11
+Michael L. Littman,11
+Lihong Li,11
+Jennifer Neville,11
+Dirk Thorleuchter,11
+Brian Kulis,11
+Ilya Sutskever,11
+Piyush Rai,11
+Jing Li,11
+Andrea Montanari,11
+Guillermo Sapiro,11
+Haixun Wang,11
+Weiming Hu,11
+Jiajun Bu,11
+Jianyong Wang,11
+Johan A. K. Suykens,11
+Thomas Seidl,11
+Chuanren Liu,11
+Qi Liu,11
+Jamal Bentahar,11
+Gülçin Büyüközkan,11
+András György,11
+Kewen Wang,11
+Tao Xiang,11
+Deepak Agarwal,11
+Jinfeng Yi,11
+Percy Liang,11
+Yi-Dong Shen,11
+Dong Xu,11
+Samuel Kaski,11
+Changshui Zhang,11
+Linli Xu,11
+Ji Liu,11
+Chih-Jen Lin,11
+Jing Zhang,11
+Harikrishna Narasimhan,11
+Sancho Salcedo-Sanz,11
+Xuemin Lin,11
+Bo Liu,11
+Alexandra Carpentier,11
+Mark D. Reid,11
+Ashish Sabharwal,11
+John Langford,11
+Michael R. Lyu,11
+Chi Wang,11
+Yevgeniy Vorobeychik,11
+Peter L. Bartlett,11
+Mehrdad Mahdavi,11
+Hua Xu,11
+Jiayu Zhou,11
+Xueqi Cheng,11
+Yang Wang,11
+Sham M. Kakade,11
+Hiroshi Nakagawa,11
+Kamalika Chaudhuri,11
+François Laviolette,11
+Julien Mairal,10
+Amos Azaria,10
+Kee-Eung Kim,10
+Andrew Zisserman,10
+Ryohei Fujimaki,10
+Cengiz Kahraman,10
+B. Aditya Prakash,10
+Matthew D. Hoffman,10
+Satinder P. Singh,10
+Eric Horvitz,10
+Tobias Scheffer,10
+Shaogang Gong,10
+Hui Li,10
+Longin Jan Latecki,10
+Boi Faltings,10
+Janghyeok Yoon,10
+Bharath K. Sriperumbudur,10
+Michael Kearns,10
+Ashish Kapoor,10
+Ravi Kumar,10
+Luc De Raedt,10
+Foster J. Provost,10
+Evimaria Terzi,10
+Ee-Peng Lim,10
+Amr Ahmed,10
+Shusen Wang,10
+Constantine Caramanis,10
+Wee Sun Lee,10
+Bernhard Pfahringer,10
+Wen-Chih Peng,10
+Bing Liu,10
+Hengshu Zhu,10
+Honglak Lee,10
+Amos J. Storkey,10
+Lorenzo Rosasco,10
+Edith Elkind,10
+James Bailey,10
+Gang Wang,10
+Daphne Koller,10
+Daniil Ryabko,10
+Jesse Davis,10
+Raman Arora,10
+Wei Lu,10
+Amin Karbasi,10
+Chun Chen,10
+Mingyuan Zhou,10
+Min Wang,10
+Jilles Vreeken,10
+Manuela M. Veloso,10
+Kian-Lee Tan,10
+Karsten M. Borgwardt,10
+John Shawe-Taylor,10
+Wu-Jun Li,10
+Elias Bareinboim,10
+Michal Valko,10
+Joshua B. Tenenbaum,10
+Yisong Yue,10
+Bo Chen,10
+Li Guo,10
+Svetha Venkatesh,10
+Sridhar Mahadevan,10
+Qirong Ho,10
+Chao Xu,10
+Stéphan Clémençon,10
+Jui-Sheng Chou,10
+Sanjiv Kumar,10
+Gonzalo Pajares,10
+John C. Duchi,10
+Sungzoon Cho,10
+Ulrike von Luxburg,10
+Xiang Wang,10
+Greg Ver Steeg,10
+Massimiliano Pontil,10
+Pietro Perona,10
+Guoliang Li,10
+Yi Chang,10
+Pradeep K. Ravikumar,10
+Junjie Wu,10
+Aurelie C. Lozano,10
+Xiaoyong Du,10
+Tibério S. Caetano,10
+César Hervás-Martínez,10
+Ichiro Takeuchi,10
+Manuel Gomez-Rodriguez,10
+Aryeh Kontorovich,10
+Arthur Choi,9
+Ashutosh Saxena,9
+John E. Laird,9
+Alex Rogers,9
+Lei Wang,9
+Hong Cheng,9
+Piotr Faliszewski,9
+Sethuraman Panchanathan,9
+Jennifer G. Dy,9
+Joris M. Mooij,9
+Andrew G. Barto,9
+Antonio Torralba,9
+Marcello Restelli,9
+Hang Li,9
+Matthias Hein,9
+Cun-Hui Zhang,9
+Andrew Gordon Wilson,9
+Xiang Zhang,9
+Yong Deng,9
+Yueting Zhuang,9
+Xin Li,9
+Yu-Xiang Wang,9
+Vikas Sindhwani,9
+Liang Du,9
+Manfred Opper,9
+Jonas Peters,9
+Alan S. Willsky,9
+Jianzhong Zhou,9
+Jiming Liu,9
+David Silver,9
+Liwei Wang,9
+Richard S. Sutton,9
+Jürgen Schmidhuber,9
+Leonid Sigal,9
+Bo Zhao,9
+Claudia Perlich,9
+Marek Petrik,9
+Ickjai Lee,9
+David A. Forsyth,9
+Ryan Prescott Adams,9
+Nati Srebro,9
+Nicolas Vayatis,9
+Kyong Joo Oh,9
+Robert E. Schapire,9
+Reza Tavakkoli-Moghaddam,9
+George Konidaris,9
+Yanjie Fu,9
+Changhe Yuan,9
+Benjamin Schrauwen,9
+Jialei Wang,9
+Kevin Leyton-Brown,9
+Abdeslam Boularias,9
+Yoshinobu Kawahara,9
+Laks V. S. Lakshmanan,9
+José M. Merigó,9
+Fei-Fei Li,9
+Ofer Dekel,9
+Deepak Venugopal,9
+Ronen I. Brafman,9
+Nebojsa Jojic,9
+Daniel Lowd,9
+Róbert Busa-Fekete,9
+Ruoming Jin,9
+Yong Seog Kim,9
+Li Wang,9
+Sung-Bae Cho,9
+Moshe Tennenholtz,9
+David E. Carlson,9
+Maneesh Sahani,9
+Frank Wood,9
+Sinno Jialin Pan,9
+Bart Baesens,9
+Vinayak Rao,9
+Nemanja Djuric,9
+Bert Huang,9
+Eunho Yang,9
+Sotirios P. Chatzis,9
+Purushottam Kar,9
+Daniel D. Lee,9
+Klaus-Robert Müller,9
+Issei Sato,9
+Avrim Blum,9
+Yuxin Chen,9
+Ohbyung Kwon,9
+Makoto Yamada,9
+Nicola Gatti,9
+David K. Duvenaud,9
+Cheng-Wei Wu,9
+Yuxin Peng,9
+Kenneth D. Forbus,9
+Xiaojin Zhu,9
+Minmin Chen,9
+Novi Quadrianto,9
+Dursun Delen,9
+Tom Heskes,9
+Chee Peng Lim,9
+Haibo Hu,9
+Shiqiang Yang,9
+Tommy W. S. Chow,9
+Milos Hauskrecht,9
+Antonio Fernández-Caballero,9
+Bay Vo,9
+Ali Azadeh,9
+Eric Eaton,9
+Chunyan Miao,9
+Mario Marchand,9
+Anton van den Hengel,9
+Yunjun Gao,9
+Madjid Tavana,9
+Ming Yang,8
+Qi Tian,8
+Christian Böhm,8
+Rui Zhang,8
+Takashi Washio,8
+Kenji Yamanishi,8
+Kotaro Hirasawa,8
+Deguang Kong,8
+Xiaogang Wang,8
+Huahua Wang,8
+Pascal Poupart,8
+Zhe Wang,8
+Mikko Koivisto,8
+Shashi Shekhar,8
+Edwin V. Bonilla,8
+John P. Cunningham,8
+Kai Yu,8
+Zhi-Ping Fan,8
+Miguel Á. Carreira-Perpiñán,8
+Qing Li,8
+Victor Gabillon,8
+Matti Järvisalo,8
+George D. C. Cavalcanti,8
+Ali Jalali,8
+Wray L. Buntine,8
+Maya R. Gupta,8
+Byron J. Gao,8
+Marc Pollefeys,8
+Maryam Fazel,8
+Shingo Mabu,8
+Marius Kloft,8
+Jie Yang,8
+Clayton Scott,8
+Nitesh V. Chawla,8
+Cassio Polpo de Campos,8
+Jianying Hu,8
+Guo-Jun Qi,8
+Dengyong Zhou,8
+Aidong Zhang,8
+Malik Magdon-Ismail,8
+Liang Zhao,8
+Justin Domke,8
+Seung-won Hwang,8
+Jiafeng Guo,8
+Lei Yuan,8
+Matthieu Geist,8
+Jesús Ariel Carrasco-Ochoa,8
+Samory Kpotufe,8
+Yi Wang,8
+Akshay Krishnamurthy,8
+Christian S. Jensen,8
+Sergey Levine,8
+Jiebo Luo,8
+Martin Ester,8
+Juan M. Corchado,8
+Alexander G. Schwing,8
+Nick Bassiliades,8
+Yutian Chen,8
+Maosong Sun,8
+Sanjoy Dasgupta,8
+Volker Roth,8
+Jian Zhang,8
+Xiangliang Zhang,8
+Tuo Zhao,8
+Xia Hu,8
+Antanas Verikas,8
+Krikamol Muandet,8
+Yuchen Zhang,8
+Marc'Aurelio Ranzato,8
+Nicholas Roy,8
+Johannes Gehrke,8
+Richard E. Korf,8
+José Francisco Martínez Trinidad,8
+Zhouchen Lin,8
+Karol Gregor,8
+Rafael Valencia-García,8
+Ronald Parr,8
+Kwai-Sang Chin,8
+Shengrui Wang,8
+Furu Wei,8
+Vikas Singh,8
+Jonathan P. How,8
+Noah A. Smith,8
+Jin Tian,8
+Alan L. Yuille,8
+Weiwei Cheng,8
+Wei Li,8
+Emmanuel Müller,8
+Liang Wang,8
+Nina Narodytska,8
+Jianzhong Li,8
+Byron Choi,8
+Shai Ben-David,8
+Amir Massoud Farahmand,8
+Benjamin Van Roy,8
+Abhishek Kumar,8
+Tat-Seng Chua,8
+René Vidal,8
+Pradeep Varakantham,8
+Frederick Eberhardt,8
+Bhavani M. Thuraisingham,8
+Liefeng Bo,8
+Stefan Kramer,8
+Seungjin Choi,8
+Zenglin Xu,8
+Hiroshi Sawada,8
+Vladlen Koltun,8
+Quoc V. Le,8
+Anshumali Shrivastava,8
+Sarvapali D. Ramchurn,8
+David Zhang,8
+Martial Hebert,8
+Yuh-Min Chen,8
+Dinh Q. Phung,8
+Shixia Liu,8
+Rayid Ghani,8
+Yoram Bachrach,8
+Philip S. Thomas,8
+Fei Wu,8
+Kui Yu,8
+Zhixiang Eddie Xu,8
+Jie Liu,8
+Min-Yuan Cheng,8
+Ambuj K. Singh,8
+Jian Ma,8
+Javier Ramírez,8
+Roland Memisevic,8
+Chang-Tien Lu,8
+Janardhan Rao Doppa,8
+Jui-Lin Lai,8
+Gwo-Hshiung Tzeng,8
+Marco Cuturi,8
+Zheng Chen,8
+Umar Syed,8
+Antti Hyttinen,8
+Yiling Chen,8
+Stefan Szeider,8
+Devavrat Shah,8
+Ming Zhang,8
+Greg Mori,8
+Laurens van der Maaten,8
+Mehmet Gönen,8
+Dirk Husmeier,8
+David Page,8
+Daniel Sheldon,8
+Cristian Sminchisescu,8
+Jun Zhang,8
+Albert Bifet,8
+Christoph H. Lampert,8
+U. Kang,8
+De-Nian Yang,8
+Oscar Castillo,8
+Emile Richard,8
+Patricia Melin,8
+Zheng Wen,8
+Jian-Bo Yang,8
+Nicholas Jing Yuan,8
+Seoung Bum Kim,8
+Chang Xu,8
+Yan Wang,8
+Antoine Bordes,8
+Kareem Amin,8
+John W. Fisher III,8
+Guillaume Obozinski,8
+Philip H. S. Torr,8
+Alessandro Rinaldo,8
+Lin Xiao,8
+François Fleuret,8
+Alexander G. Hauptmann,8
+Jordan L. Boyd-Graber,8
+Edmundas Kazimieras Zavadskas,8
+Matt J. Kusner,8
+Flora S. Tsai,8
+Zhongzhi Shi,8
+Hong Wang,8
+Chee Seng Chan,7
+Ling Chen,7
+Balázs Szörényi,7
+Feida Zhu,7
+Joachim M. Buhmann,7
+Wouter M. Koolen,7
+Il Memming Park,7
+Xinyu Li,7
+S. Derin Babacan,7
+Zhengdong Lu,7
+Ling Liu,7
+Yu-Feng Li,7
+Xiaodong Liu,7
+Nikolaj Tatti,7
+Roger B. Grosse,7
+Peter A. Flach,7
+Borja Balle,7
+Rob Law,7
+Pieter Abbeel,7
+Sanjay Chawla,7
+J. Zico Kolter,7
+Djemel Ziou,7
+Vicente Milanés,7
+Leman Akoglu,7
+Alexandros G. Dimakis,7
+Sungjoo Lee,7
+Saeid Nahavandi,7
+Rong Ge,7
+Joel Veness,7
+José Antonio Portilla-Figueras,7
+Nitish Srivastava,7
+Richard G. Baraniuk,7
+David Balduzzi,7
+K. I. Ramachandran,7
+Wei Bi,7
+Daniel Hernández-Lobato,7
+Yasin Abbasi-Yadkori,7
+Maja Pantic,7
+Vladan Radosavljevic,7
+Manik Varma,7
+Yi-Ping Phoebe Chen,7
+Brian Eriksson,7
+Kai Zheng,7
+Bo Yang,7
+Chai Quek,7
+Gal Chechik,7
+Philip M. Long,7
+José J. Pazos Arias,7
+Daniel S. Weld,7
+Reshef Meir,7
+Yasuyuki Matsushita,7
+Pedro Antonio Gutiérrez,7
+Takanori Maehara,7
+Zhongfei (Mark) Zhang,7
+Shuiwang Ji,7
+Vittorio Murino,7
+Ziyu Guan,7
+Neil Burch,7
+Luis E. Ortiz,7
+Rong-Jian Chen,7
+Bin Yu,7
+Ross B. Girshick,7
+Jin Huang,7
+James Cheng,7
+Mladen Kolar,7
+Jaakko Peltonen,7
+Binbin Lin,7
+Juanzi Li,7
+Jasper Snoek,7
+Ivor Wai-Hung Tsang,7
+Douglas C. Creighton,7
+Bo Dai,7
+Deyu Meng,7
+Nicolas Heess,7
+Amit Dhurandhar,7
+Aoying Zhou,7
+Woojin Chang,7
+Geoff Holmes,7
+M. Alamgir Hossain,7
+Koray Kavukcuoglu,7
+John Atkinson,7
+Alfred O. Hero III,7
+ErHeng Zhong,7
+Hanqing Lu,7
+Jude W. Shavlik,7
+Rodolphe Jenatton,7
+Dieter Fox,7
+Kyoung Mu Lee,7
+Lidan Shou,7
+Robert D. Nowak,7
+John V. Guttag,7
+Mathieu Salzmann,7
+Tianyi Zhou,7
+Indre Zliobaite,7
+Buyue Qian,7
+Antonio Moreno,7
+Mostafa Zandieh,7
+Yishay Mansour,7
+Yong Rui,7
+Christopher K. I. Williams,7
+Sivaraman Balakrishnan,7
+Ameet Talwalkar,7
+Cheng-Lin Liu,7
+Mathias Niepert,7
+Mihajlo Grbovic,7
+Michalis K. Titsias,7
+Huan Sun,7
+Meng Fang,7
+David Sánchez,7
+Carla E. Brodley,7
+Feng Yan,7
+Yongtae Park,7
+Vladimir Kolmogorov,7
+Emma Brunskill,7
+Olivier Chapelle,7
+Katherine A. Heller,7
+M. Pawan Kumar,7
+Alain Yee-Loong Chong,7
+Katsumi Inoue,7
+Alessandro Cimatti,7
+Adrian Weller,7
+Léon Bottou,7
+Timothy M. Hospedales,7
+Guilin Qi,7
+Rob Fergus,7
+Li Zheng,7
+Joshué Pérez,7
+Yexiang Xue,7
+Jian-Da Wu,7
+Nicolas Usunier,7
+Qing Wang,7
+Siyuan Liu,7
+Qing He,7
+Beng Chin Ooi,7
+Qian Sun,7
+Hsuan-Tien Lin,7
+Matthijs T. J. Spaan,7
+Baihua Zheng,7
+David P. Woodruff,7
+Min Xiao,7
+Aditya Krishna Menon,7
+Kohei Hayashi,7
+Hendrik Blockeel,7
+Nir Ailon,7
+Dan Zhang,7
+Wenliang Zhong,7
+Brendan J. Frey,7
+Jun Huan,7
+Michael Thielscher,7
+Alexandre Bouchard-Côté,7
+Krzysztof Dembczynski,7
+Lyle H. Ungar,7
+Xiangyang Xue,7
+Shakir Mohamed,7
+Tran Cao Son,7
+Jason D. Lee,7
+Jean Honorio,7
+Robert C. Williamson,7
+Jörg Lücke,7
+Larry S. Davis,7
+Alexander M. Bronstein,7
+Wenwu Zhu,7
+Qihang Lin,7
+Alexandros Kalousis,7
+Muhammad Khurram Khan,7
+Iain Murray,7
+Chen Chen,7
+Ambedkar Dukkipati,7
+Min Xu,7
+Cookhwan Kim,7
+Pinghua Gong,7
+Franz Pernkopf,7
+Jianhua Feng,7
+Nathan R. Sturtevant,7
+Daan Wierstra,7
+Roni Khardon,7
+Lior Rokach,7
+David Sarne,7
+Takafumi Kanamori,7
+Yolanda Blanco-Fernández,7
+Alejandro Rodríguez González,7
+Flavius Frasincar,7
+Kaile Su,7
+Yangqing Jia,7
+Russell Greiner,7
+Ray-Shine Run,7
+Amaury Habrard,7
+Zhongfei Zhang,7
+Afshin Rostamizadeh,7
+Sewoong Oh,7
+Danushka Bollegala,7
+Gang Niu,7
+Tao Qin,7
+Patrick Jaillet,7
+Ke Wang,7
+Patrik O. Hoyer,7
+Liam Paninski,7
+Edoardo Airoldi,7
+Martín López Nores,7
+Jae Kwon Bae,7
+Dong-Ling Xu,7
+Shouyang Wang,7
+V. Sugumaran,7
+Hwanjo Yu,7
+Mohammad Taha Bahadori,7
+Dhruv Batra,7
+Nisarg Shah,7
+José Carlos Castillo,7
+Takayuki Osogami,7
+Hao Huang,7
+Kai Zhang,7
+Robert Sabourin,7
+Yingyu Liang,7
+Yiming Yang,7
+Nate Derbinsky,7
+Xianchao Zhang,7
+Wilfred Ng,7
+Emilio Soria-Olivas,6
+H. Brendan McMahan,6
+Cathy H. Y. Lam,6
+Xiao He,6
+Zhuowen Tu,6
+Fanhua Shang,6
+Jiquan Ngiam,6
+Misha Denil,6
+Mubarak Shah,6
+Jinhui Tang,6
+Gal Elidan,6
+Yi Sun,6
+Stephen J. Wright,6
+Renato A. Krohling,6
+Xian-Sheng Hua,6
+Qiang Cheng,6
+Sungchul Choi,6
+Byron Boots,6
+Wenjie Zhang,6
+Rui Liu,6
+Liva Ralaivola,6
+Javier Bajo,6
+Amparo Alonso-Betanzos,6
+Jiaya Jia,6
+Prem Gopalan,6
+Martin Wehrle,6
+Laurent Charlin,6
+Luiz Antonio Nogueira Lorena,6
+Geoffrey J. Gordon,6
+Florent Teichteil-Königsbuch,6
+Sébastien Bubeck,6
+Zhenhui Li,6
+Wenyu Liu,6
+Matus Telgarsky,6
+David J. Fleet,6
+Ariel Felner,6
+Enrique Onieva,6
+Seyed Taghi Akhavan Niaki,6
+Le Hoang Son,6
+Yuri Grinberg,6
+Javad Azimi,6
+Joshua T. Vogelstein,6
+Luis Alfonso Ureña López,6
+Ganapati Panda,6
+Nikos Karampatziakis,6
+Sing Bing Kang,6
+Fabian L. Wauthier,6
+JMLR Proceedings,6
+Fernando Díaz,6
+Fernando De la Torre,6
+James Martens,6
+Faustino J. Gomez,6
+Shaowei Cai,6
+Piotr Dollár,6
+Patrick Butler,6
+Charles Blundell,6
+Xiaoqin Zhang,6
+Zhiwu Lu,6
+Kin Keung Lai,6
+Daphna Weinshall,6
+Angappa Gunasekaran,6
+Junsong Yuan,6
+Jorge Villagra,6
+Florent Perronnin,6
+Tijl De Bie,6
+Lin Wang,6
+Sang-goo Lee,6
+Siegfried Nijssen,6
+Ying Chen,6
+Máté Lengyel,6
+Marc Toussaint,6
+Franz J. Király,6
+Bee-Chung Chen,6
+Yang Zhou,6
+Zhiguo Gong,6
+Huaiqing Wang,6
+Wonchul Seo,6
+Rina Dechter,6
+Neil Houlsby,6
+Paul Ruvolo,6
+Murat Kantarcioglu,6
+Tsang Ing Ren,6
+Abdullah Mueen,6
+Guo-Cheng Lan,6
+Jakob H. Macke,6
+Naiyan Wang,6
+Qi Mao,6
+Ali Ghodsi,6
+Richard Socher,6
+Thanawin Rakthanmanon,6
+Haim Avron,6
+Joshua Zhexue Huang,6
+Adas Gelzinis,6
+Consolación Gil,6
+Song-Chun Zhu,6
+Jae Joon Ahn,6
+James Sharpnack,6
+Xiao Yu,6
+Pingzhi Fan,6
+Zoran Obradovic,6
+Cheng Soon Ong,6
+Oliver Schulte,6
+David F. Gleich,6
+Hossein Azari Soufiani,6
+Ya Zhang,6
+Zeeshan Syed,6
+Steffen Grünewälder,6
+J. M. Górriz,6
+Lawrence K. Saul,6
+John M. Winn,6
+Yan Zhang,6
+Marija Bacauskiene,6
+Akiko Takeda,6
+Yuan Qi,6
+Jie Cao,6
+Enrico Zio,6
+Ying Zhang,6
+Erik Talvitie,6
+Zhihua Cai,6
+Matthew B. Blaschko,6
+Denis Deratani Mauá,6
+John William Paisley,6
+Bin Luo,6
+Nuno Horta,6
+Ricardo Henao,6
+Alfredo Vellido,6
+Zhiwen Yu,6
+Michael A. Osborne,6
+Ian Horrocks,6
+Ji-Rong Wen,6
+Kaizhu Huang,6
+João Gama,6
+Mahdi Milani Fard,6
+Ryan Kiros,6
+Stephen J. Roberts,6
+James Petterson,6
+Vaishak Belle,6
+Sinead Williamson,6
+Pasi Luukka,6
+Jie Sun,6
+Cordelia Schmid,6
+Paramveer S. Dhillon,6
+Troy Raeder,6
+Elena Ferrari,6
+Brandon M. Malone,6
+Weinan Zhang,6
+Akshat Kumar,6
+John Wright,6
+Alex Beutel,6
+Jean-Philippe Vert,6
+Changyou Chen,6
+Willem Waegeman,6
+Dino Sejdinovic,6
+Tomaso A. Poggio,6
+Gilles Blanchard,6
+Manoj Kumar Tiwari,6
+Christian Bauckhage,6
+Yufei Tao,6
+Ig Ibert Bittencourt,6
+Tushar Khot,6
+José Bento,6
+Qiaozhu Mei,6
+Gaurav Pandey,6
+Subbarao Kambhampati,6
+Tina Eliassi-Rad,6
+Jianguo Xiao,6
+Yu Wang,6
+Rich Caruana,6
+Iain A. Matthews,6
+David Barber,6
+Jianjiang Feng,6
+Simon X. Yang,6
+Kai Ming Ting,6
+Hu-Chen Liu,6
+Mao Ye,6
+Lei Han,6
+Oluwasanmi Koyejo,6
+Martin Mladenov,6
+Nan Ding,6
+Pascal Vincent,6
+I. Burhan Türksen,6
+Bin Wu,6
+Singa Wang Chiu,6
+Yan Chen,6
+T. C. Poon,6
+Zohar Shay Karnin,6
+Rong-Hua Li,6
+Sebastian Nowozin,6
+María Guijarro,6
+Francisco García Sánchez,6
+Juan Francisco de Paz,6
+Martha White,6
+Daniel M. Roy,6
+Chowdhury Farhan Ahmed,6
+Çagdas Hakan Aladag,6
+Long Liu,6
+Themis Palpanas,6
+Ioannis Tsamardinos,6
+Joaquín Abellán,6
+Aviv Tamar,6
+Xun Zheng,6
+Mikhail Belkin,6
+Christos Boutsidis,6
+Fuzhen Zhuang,6
+Aapo Hyvärinen,6
+Nicholas J. Foti,6
+Po-Ling Loh,6
+Anand D. Sarwate,6
+Wheeler Ruml,6
+Jaewon Yang,6
+Miroslav Dudík,6
+Anastasios T. Kyrillidis,6
+Tim van Erven,6
+Drew Bagnell,6
+Yasuhiro Fujiwara,6
+Balaji Lakshminarayanan,6
+Qinbao Song,6
+Heng Ji,6
+Luo Si,6
+Fred A. Hamprecht,6
+Shu-hsien Liao,6
+Marc Lanctot,6
+Shie-Jue Lee,6
+Richard D. Lawrence,6
+Ran El-Yaniv,6
+Guiguang Ding,6
+Junzhou Huang,6
+Mohammad Gheshlaghi Azar,6
+Mingsheng Long,6
+Meng Wang,6
+Tieniu Tan,6
+Hannes Nickisch,6
+Marthinus Christoffel du Plessis,6
+Shanlin Yang,6
+Sebastian Tschiatschek,6
+Sheng-Jun Huang,6
+Jesse Read,6
+Diane J. Cook,6
+Zhoujun Li,6
+Brian D. Ziebart,6
+Christian K. Machens,6
+Bing Li,6
+Robert Holte,6
+Gregoris Mentzas,6
+Yong Liu,6
+Miguel Lázaro-Gredilla,6
+Ebru Akcapinar Sezer,6
+Zinovi Rabinovich,6
+Jianhui Chen,6
+Mikio L. Braun,6
+Rui Chen,6
+Xiaoli Li,6
+Masaru Kitsuregawa,6
+Tzong-Wann Kao,6
+Chih-Hua Tai,6
+Sebastian Ordyniak,6
+Xiaolong Wang,6
+Zongben Xu,6
+Vijay Mahadevan,6
+Paulo Cortez,6
+James Hensman,6
+Lorenzo Torresani,6
+Nikhil Rasiwasia,6
+Chuan Zhou,6
+Byron C. Wallace,6
+Vittorio Ferrari,6
+Ke Chen,6
+Mausam,6
+Marc Peter Deisenroth,6
+Ying Wang,6
+Shiguang Shan,6
+Anuj Srivastava,6
+Sheng-hua Zhong,6
+Bernardete Ribeiro,6
+Chengkai Li,6
+Marina Danilevsky,6
+Fredrik Lindsten,6
+Hilbert J. Kappen,6
+Carlos M. Travieso,6
+Petros Drineas,6
+Ian J. Goodfellow,6
+Xiaoming Jin,6
+Anna Maria Gil Lafuente,6
+J. L. Castro,6
+Jia Wu,6
+Xiaohua Liu,6
+Balázs Kégl,6
+David Suter,6
+Heng Tao Shen,6
+Analía Amandi,6
+Avi Rosenfeld,6
+Haris Aziz,6
+Francesco Gullo,6
+Jacob Abernethy,6
+Xiaoli Z. Fern,6
+Rakesh Agrawal,6
+Shaul Markovitch,6
+Brian Dalessandro,6
+Sumit Gulwani,6
+Siddharth Gopal,6
+Xin Yao,6
+V. S. Subrahmanian,6
+Jaime G. Carbonell,6
+Mingkui Tan,6
+Emanuele Coviello,6
+Yevgeny Seldin,6
+Joonseok Lee,6
+Yanyan Lan,6
+Zhirong Yang,6
+Kyungmi Lee,5
+Isabel Valera,5
+Karthika Mohan,5
+Yingjian Wang,5
+David A. McAllester,5
+Jie Chen,5
+Seungyeon Kim,5
+Lev Reyzin,5
+Stephen J. Maybank,5
+Weichang Li,5
+Yichuan Tang,5
+Gergely Neu,5
+Jesualdo Tomás Fernández-Breis,5
+Manfred K. Warmuth,5
+Ron Meir,5
+Sören Laue,5
+Ting Liu,5
+Marina Meila,5
+Jian Yin,5
+Aki Vehtari,5
+Luc J. Van Gool,5
+Ricardo Soto,5
+Eleni Sgouritsa,5
+Andrew McCallum,5
+Li Chen,5
+Tsuhan Chen,5
+Todd E. Zickler,5
+Shu-Hsien Liao,5
+Carlos León,5
+Gerhard Neumann,5
+José David Martín-Guerrero,5
+Bac Le,5
+Eyal Amir,5
+Pilsung Kang,5
+Hui Qin,5
+Martin Müller,5
+Parag C. Pendharkar,5
+José M. Perea-Ortega,5
+Danilo Jimenez Rezende,5
+Henry A. Kautz,5
+Carmel Domshlak,5
+Yanping Chen,5
+Sham Kakade,5
+Bernt Schiele,5
+Charalampos E. Tsourakakis,5
+Alessandro Perina,5
+Jiang Bian,5
+Terran Lane,5
+Dalibor Petkovic,5
+Vladimir Vovk,5
+Yuanyuan Liu,5
+Baba C. Vemuri,5
+Wei Bian,5
+Hongfei Lin,5
+Stefano Soatto,5
+Sourav S. Bhowmick,5
+Bart De Moor,5
+Sashank Jakkam Reddi,5
+Xiaohui Yu,5
+Dijun Luo,5
+Luis González Abril,5
+Sen Wu,5
+Haitham Bou-Ammar,5
+Hui Zhang,5
+William W. Cohen,5
+Noah D. Goodman,5
+Jennifer Wortman Vaughan,5
+Amit Goyal,5
+Wei Sun,5
+Jens Perch Nielsen,5
+Jue Wang,5
+Chi-Hua Chen,5
+Ni Lao,5
+Serge J. Belongie,5
+Konstantina Palla,5
+Ting Wang,5
+Zhifeng Hao,5
+Sung Ju Hwang,5
+Xin Wang,5
+Zi Huang,5
+Masatoshi Sakawa,5
+Shuo Xiang,5
+Yan Yan,5
+Shengbo Guo,5
+Patrick Gallinari,5
+Ali Dasdan,5
+Angela J. Yu,5
+Albert Xin Jiang,5
+Christopher Re,5
+Erik Cuevas,5
+Meng Jiang,5
+Candan Gokceoglu,5
+Matthias Scheutz,5
+C. Seshadhri,5
+Zhiyuan Liu,5
+Honglei Zhuang,5
+Richard Jayadi Oentaryo,5
+Liqing Zhang,5
+Geert Wets,5
+Ekrem Duman,5
+Vincent Y. F. Tan,5
+Zhou Zhao,5
+Hui Qian,5
+Philippe Fournier-Viger,5
+Jacob Steinhardt,5
+Rina Foygel,5
+Evan Archer,5
+Matthew Hatem,5
+Simo Särkkä,5
+Makoto Yokoo,5
+Su-In Lee,5
+Andrea Vedaldi,5
+Philip Bachman,5
+Boris Motik,5
+Jitendra Malik,5
+Sai Wu,5
+Elad Eban,5
+Ali Emrouznejad,5
+Michalis Raptis,5
+Patrick Lucey,5
+W. H. Ip,5
+Antoni B. Chan,5
+Tzu-Liang (Bill) Tseng,5
+Jiashi Feng,5
+Lars Schmidt-Thieme,5
+Hoong Chuin Lau,5
+Stefania Montani,5
+James R. Foulds,5
+Gary Doran,5
+Bo-Suk Yang,5
+Bikramjit Banerjee,5
+Simon Lacoste-Julien,5
+Devi Parikh,5
+Szu-Wei Yang,5
+Yi Mao,5
+Sanmay Das,5
+Qiang Ji,5
+Marc G. Bellemare,5
+Enrico Pontelli,5
+Ying-Ming Wang,5
+Zhiqiang Zhuang,5
+Parikshit Ram,5
+Hyunchul Ahn,5
+M. K. Tiwari,5
+Alejandro Figueroa,5
+Georgios Paliouras,5
+Quan Yuan,5
+Giovanni Zappella,5
+Daniel Keren,5
+Mark Johnson,5
+Ramin Zabih,5
+Andrew Gelfand,5
+Andreas Pfandler,5
+Sashank J. Reddi,5
+Julie A. Shah,5
+In-So Kweon,5
+Qi Zhang,5
+Zhao Zhang,5
+Bing Hu,5
+Shimon Whiteson,5
+Yung-Kyun Noh,5
+Byung-In Kim,5
+Zhiyuan Chen,5
+Andrea Micheli,5
+Aaron Defazio,5
+Wenjun Zhou,5
+W. M. Wang,5
+Xiaotong Shen,5
+Christoph Sawade,5
+Yi Zhang,5
+Vahab S. Mirrokni,5
+Junyi Chai,5
+Min Zhang,5
+Duane Szafron,5
+Carsten Rother,5
+Andrew Cotter,5
+Yichao Lu,5
+Adel Javanmard,5
+Jian-Huang Lai,5
+Aleksandr Y. Aravkin,5
+Kaiming He,5
+Vagelis Hristidis,5
+Charles A. Sutton,5
+Kun Chang Lee,5
+Eric A. Hansen,5
+Katsuhiko Ishiguro,5
+Aaditya Ramdas,5
+Adam Coates,5
+Duen Horng Chau,5
+Pasi Jylänki,5
+Rocco A. Servedio,5
+Thomas J. Walsh,5
+Pauli Miettinen,5
+Jianping Zeng,5
+Hadi Otrok,5
+P. Balasubramaniam,5
+Henry C. W. Lau,5
+Tzu-Kuo Huang,5
+Kuiyu Chang,5
+Bartek Rajwa,5
+Yuichi Yoshida,5
+Pengtao Xie,5
+Rajesh Ranganath,5
+Luca Cagliero,5
+Zhiang Wu,5
+Mijung Park,5
+Andrew Beng Jin Teoh,5
+David Poole,5
+Ramiz M. Aliguliyev,5
+Quanshi Zhang,5
+Zhaosong Lu,5
+Avinava Dubey,5
+Jascha Sohl-Dickstein,5
+Wenzhuo Yang,5
+Yao Zhao,5
+Victor S. Lempitsky,5
+Quoc Tran-Dinh,5
+Andreas C. Damianou,5
+Xiang Lian,5
+Radu Marinescu,5
+Jian Peng,5
+Stephen H. Bach,5
+Wei-Shi Zheng,5
+Malte Helmert,5
+Duoqian Miao,5
+Ran Gilad-Bachrach,5
+Kotagiri Ramamohanarao,5
+Paolo Terenziani,5
+Kevin P. Murphy,5
+Gaël Varoquaux,5
+Bin Cui,5
+Guoren Wang,5
+Andrew W. Fitzgibbon,5
+Yifeng Zeng,5
+Liu Yang,5
+Vincent Lepetit,5
+Yuan (Alan) Qi,5
+Jun-Geol Baek,5
+Yavor Nenov,5
+Chao Shen,5
+Hao-Chen Huang,5
+Jian Tang,5
+Manuel Lopes,5
+Sungsik Park,5
+John P. Dickerson,5
+Hongfu Liu,5
+Chew Lim Tan,5
+Sheila A. McIlraith,5
+Der-Chiang Li,5
+Madasu Hanmandlu,5
+Petri Myllymäki,5
+Jian Yang,5
+Ming-Huwi Horng,5
+Kwiseok Kwon,5
+Michèle Sebag,5
+Alexander Clark,5
+Ronan Collobert,5
+Jesús B. Alonso,5
+Myong K. Jeong,5
+Yew-Soon Ong,5
+João Manuel R. S. Tavares,5
+Xiao Cai,5
+Ender Özcan,5
+Daniel B. Neill,5
+C. K. Kwong,5
+Jian Xu,5
+Weiran Wang,5
+Yeesock Kim,5
+Liang Xiong,5
+Ben London,5
+Tetsuro Morimura,5
+Dawei Yin,5
+Nan Ye,5
+James Tin-Yau Kwok,5
+Forrest Sheng Bao,5
+Brahim Chaib-draa,5
+Xiaoxiao Shi,5
+Alberto Gil-Solla,5
+Meir Kalech,5
+Xuezhi Wang,5
+Lan Du,5
+Emilie Morvant,5
+Reza Boostani,5
+Viviana Cocco Mariani,5
+Gautam Das,5
+Takeshi Matsui,5
+Chao Liu,5
+Pekka Parviainen,5
+Sahand Negahban,5
+Thomas B. Schön,5
+Andriy Mnih,5
+Hado van Hasselt,5
+Nicola Barbieri,5
+Stephen Becker,5
+Xuan Li,5
+Carey E. Priebe,5
+Ori Stitelman,5
+Aron Culotta,5
+Manuel Ramos Cabrer,5
+Jinbo Xu,5
+Sangjae Lee,5
+Hong-Dar Lin,5
+Ngoc Thanh Nguyen,5
+Meng-Hui Wang,5
+Tianqi Chen,5
+Chao Fu,5
+Chandan K. Reddy,5
+Serge Gaspers,5
+Jing Liu,5
+William Yeoh,5
+Hongbin Zha,5
+Eero P. Simoncelli,5
+Timothy Arthur Mann,5
+Marcus Hutter,5
+Latifur Khan,5
+J. Romeo,5
+Guni Sharon,5
+Markus Brill,5
+Surya Ganguli,5
+Ronald Ortner,5
+Deva Ramanan,5
+Richard P. Wildes,5
+Leonidas J. Guibas,5
+Abdul Sattar,5
+Andrzej Cichocki,5
+James Bergstra,5
+Aurélien Bellet,5
+Luis E. Zárate,5
+Sen Yang,5
+Ann Nowé,5
+José Miguel Guerrero,5
+Wojciech Kotlowski,5
+Jiye Liang,5
+Mei-Chi Lai,5
+Khaled S. Refaat,5
+Juan D. Velásquez,5
+Jan Vanthienen,5
+Frank Hutter,5
+Pat Langley,5
+María Dolores Ruíz Lozano,5
+Volodymyr Mnih,5
+Niels Landwehr,5
+S. S. Mahapatra,5
+Christopher Meek,5
+Benjamin I. P. Rubinstein,5
+Christian Bessiere,5
+Anthony K. H. Tung,5
+Meinolf Sellmann,5
+Edmund H. Durfee,5
+M. Montalvo,5
+Manish Gupta,5
+C. Lee Giles,5
+Minghao Yin,5
+Arto Klami,5
+Mohammad Emtiyaz Khan,5
+Xuan Song,5
+Ye Chen,5
+Dotan Di Castro,5
+Deepayan Chakrabarti,5
+Maria Teresa Martín-Valdivia,5
+Robert J. Woodward,5
+Parag Singla,5
+Kuo-Liang Chung,5
+Leandro Soriano Marcolino,5
+Jiahai Wang,5
+Chin-Yew Lin,5
+Uzay Kaymak,5
+Peter Bühlmann,5
+David Martens,5
+Tyler Lu,5
+Peng Sun,5
+Oren Etzioni,5
+Jianchao Yang,5
+Prabhanjan Kambadur,5
+Dong Wang,5
+Jian Sun,5
+Senjuti Basu Roy,5
+Jiri Matas,5
+Silvio Savarese,5
+Yann Dauphin,5
+Jianke Zhu,5
+Philippe Preux,5
+Jing Wang,5
+Yexi Jiang,5
+Shiyu Chang,5
+Ofer Meshi,5
+Li-Wei Lee,5
+Angelika Kimmig,5
+Qibin Zhao,5
+Berthe Y. Choueiry,5
+Pascal Van Hentenryck,5
+Jae Yeol Lee,5
+Javier Del Ser,5
+Jing Yuan,5
+Bao-Gang Hu,5
+Mathieu Sinn,5
+Joel Oren,5
+Derek Hoiem,5
+Antti Ukkonen,5
+Peter Key,5
+Lale Özbakir,5
+Lixin Duan,5
+Jie Hu,5
+Mohammad J. Saberian,5
+Kai-Wei Chang,5
+Roni Stern,5
+Ricardo Colomo Palacios,5
+Michael H. Bowling,5
+Xiaojun Wan,5
+Victor Hugo C. de Albuquerque,5
+Yong Shi,5
+Mark W. Schmidt,5
+Martin Lackner,5
+Gábor Bartók,5
+Freddy Lécué,5
+Alain Rakotomamonjy,5
+Alessio Benavoli,5
+Liang Tang,5
+Türkay Dereli,5
+Ryosuke Shibasaki,5
+Jesin Zakaria,5
+Rafael M. Frongillo,5
+Krishnakumar Balasubramanian,5
+Dimitris Apostolou,5
+Tomer Koren,5
+Can Wang,5
+Giner Alor-Hernández,5
+Peng Li,5
+Luiza de Macedo Mourelle,5
+Lin Li,5
+Yining Wang,5
+Bai Wang,5
+Arturo Montejo Ráez,5
+Shiau Hong Lim,5
+Chaokun Wang,5
+Lauren Hannah,5
+Ludmila Dymova,5
+Debarghya Ghoshdastidar,5
+Willie Neiswanger,5
+Chedy Raïssi,5
+James Andrew Bagnell,5
+Hui-Chuan Chu,5
+Thomas S. Richardson,5
+Samuel Barrett,5
+Tat-Jun Chin,5
+Javier Medina,5
+Jianhua Z. Huang,5
+Hiroshi Mamitsuka,5
+Hirotaka Hachiya,5
+Deepak S. Turaga,5
+Manish Marwah,5
+Broderick Crawford,5
+Yuan-Shyi Peter Chiu,5
+Dario Maio,5
+Lionel M. Ni,5
+Claudia V. Goldman,5
+Nadia Nedjah,5
+James Robert Lloyd,5
+Yong Hu,5
+Kyomin Jung,5
+Yu-Wei Wu,5
+Stanislaw Osowski,5
+Peter I. Frazier,5
+Ian N. Davidson,4
+Mariya Ishteva,4
+Sandra Zilles,4
+Aizeng Wang,4
+Gang Zhao,4
+Yifei Ma,4
+Guan Wang,4
+Liang-Chih Chen,4
+Yuri Malitsky,4
+Ram Bilas Pachori,4
+Haichao Zhang,4
+Jonas Poelmans,4
+Peter Dayan,4
+Giuseppe Manco,4
+Andres Muñoz Medina,4
+Jin Qi,4
+György J. Simon,4
+Yulan He,4
+Trung V. Nguyen,4
+Akihiro Yamamoto,4
+Fabio Ramos,4
+Huiji Gao,4
+Sheng Chen,4
+Chiun-Chieh Hsu,4
+Tian Lan,4
+Klemens Böhm,4
+Lei Wu,4
+Maria Fasli,4
+Mihaela van der Schaar,4
+Harish G. Ramaswamy,4
+Rong-Kwei Li,4
+Jeff Donahue,4
+Tamara Broderick,4
+Nan Cao,4
+Francisco Louzada,4
+Roni Tzvi Stern,4
+Brijesh Verma,4
+Chongjie Zhang,4
+Vivekanand Gopalkrishnan,4
+Brian Gallagher,4
+Eric Monfroy,4
+Finale Doshi-Velez,4
+A. Robert Calderbank,4
+Valentin Robu,4
+Phuong Nguyen,4
+Peter E. D. Love,4
+Sihong Xie,4
+Emrah Bulut,4
+Justin Li,4
+Jesús Cerquides,4
+Kian Ming Adam Chai,4
+John Paisley,4
+Rui Ferreira Neves,4
+Seyed Jafar Sadjadi,4
+Rui Wang,4
+Vijayan Sugumaran,4
+Gianmarco De Francisci Morales,4
+Ashwin Machanavajjhala,4
+Varun Kanade,4
+Ling Huang,4
+Chang Wook Ahn,4
+Jorge Godoy,4
+Samy Bengio,4
+Anastasia Paparrizou,4
+Jeffrey Dean,4
+Danai Koutra,4
+Aditya G. Parameswaran,4
+K. Vaisakh,4
+Jiwen Lu,4
+Wenzhao Lian,4
+Chenxia Jin,4
+Michael Lindenbaum,4
+Sheng Wang,4
+Gerhard Weikum,4
+Risi Kondor,4
+Vasant Honavar,4
+William B. March,4
+Karthik Raman,4
+Benjamin Recht,4
+Kevin W. Li,4
+Peder A. Olsen,4
+Fabio Vitale,4
+Ke Sun,4
+Xiaoling Wang,4
+Daniel R. Schlegel,4
+Zhuang Wang,4
+Shirui Pan,4
+Daniel Golovin,4
+Pedro Ponce,4
+Karthik Mohan,4
+Sunita Sarawagi,4
+Yu-Chuan Chang,4
+Jingdong Wang,4
+Weng-Keen Wong,4
+Adi Botea,4
+Richard I. Hartley,4
+Marc Plantevit,4
+Hua Lu,4
+Jian Lu,4
+Zhandong Liu,4
+Dimitris S. Papailiopoulos,4
+Kazuho Watanabe,4
+Xiaoli Fern,4
+Guy Lever,4
+Shipeng Yu,4
+Dusan Teodorovic,4
+Chung-Hong Lee,4
+John E. Hopcroft,4
+Devdatt P. Dubhashi,4
+Azin Ashkan,4
+Reynold Cheng,4
+Guido Dedene,4
+Hai Wan,4
+Ying Wu,4
+Arturo Molina,4
+Vladimir Pavlovic,4
+Christian Igel,4
+Sungjin Ahn,4
+Panayiotis Tsaparas,4
+Carl E. Rasmussen,4
+Zhi-Jie Zhou,4
+Pengcheng Wu,4
+Dmitri B. Chklovskii,4
+Chiwoo Park,4
+Yi Zhen,4
+Michal Feldman,4
+Charles L. Isbell,4
+Makoto Nakatsuji,4
+Pascal Germain,4
+Truyen Tran,4
+Lu Qin,4
+Qiang Zhang,4
+Dimitris N. Metaxas,4
+Mathieu Blondel,4
+Jianmin Li,4
+Ho-Jin Choi,4
+Spiros Papadimitriou,4
+Fei Gao,4
+Pedro F. Felzenszwalb,4
+Michael J. Black,4
+Antonio Criminisi,4
+Kyoungok Kim,4
+Jeh-Nan Pan,4
+Haiqin Yang,4
+Juan Gómez-Sanchís,4
+Alessandro L. Koerich,4
+Blai Bonet,4
+Bohyung Han,4
+Fernando Pérez-Cruz,4
+Lu Liu,4
+Hao Cheng,4
+Shyr-Shen Yu,4
+Stéphane Ross,4
+Keng-Boon Ooi,4
+Oliver Stegle,4
+Hairong Liu,4
+Zheng Zhao,4
+Wei Shen,4
+Peng Wang,4
+Wangmeng Zuo,4
+Ankit Agrawal,4
+Andreas Ruttor,4
+Seth A. Myers,4
+Bernardino Romera-Paredes,4
+Gustavo E. A. P. A. Batista,4
+Okan Duru,4
+Ron Kohavi,4
+Tom Claassen,4
+Christopher Leckie,4
+Jin Wang,4
+Yan Pan,4
+Pang Wei Koh,4
+Julian J. McAuley,4
+Jiangjiao Duan,4
+Oriol Vinyals,4
+Gracián Triviño,4
+Alan A. Stocker,4
+Tomas Mikolov,4
+Gavin Brown,4
+David C. Kale,4
+Ruth Urner,4
+Elad Gilboa,4
+Huilong Duan,4
+Paulo Shakarian,4
+Esra Erdem,4
+Guangcan Liu,4
+Josef Kittler,4
+Carlos Castillo,4
+Maxim Likhachev,4
+Y. Narahari,4
+Peter J. Haas,4
+Xu Sun,4
+George Karypis,4
+Jing Jiang,4
+Shaojun Wang,4
+Xiaoming Li,4
+Oscar Fontenla-Romero,4
+Kai Chen,4
+Jörg Hoffmann,4
+Vincent Ng,4
+Nikos Paragios,4
+Hiroaki Shiokawa,4
+Alexander C. Berg,4
+Nassir Navab,4
+Seunghak Lee,4
+Armand Joulin,4
+Mingxing He,4
+Richard L. Lewis,4
+Benjamin C. M. Fung,4
+Jun Yu,4
+Guido Sanguinetti,4
+Henrik Höglund,4
+Razvan Pascanu,4
+David Fernández Llorca,4
+Oncel Tuzel,4
+Wayne Xin Zhao,4
+Sazali Yaacob,4
+Francisco Flórez-Revuelta,4
+Feng Liang,4
+Yong Luo,4
+Shuai Huang,4
+Xinran He,4
+Wolfram Burgard,4
+Michael Gutmann,4
+Yongsub Lim,4
+Marco César Goldbarg,4
+Boaz Nadler,4
+Steve Hanneke,4
+Kate Larson,4
+Víctor Parada,4
+José Luis Rojo-Álvarez,4
+Jeffrey S. Rosenschein,4
+Qing Zhang,4
+Jun Li,4
+Caleb Chen Cao,4
+Ashique Rupam Mahmood,4
+Laura E. Brown,4
+Min Wu,4
+Hyunseok Park,4
+Jun Yan,4
+Shimon Y. Nof,4
+Dragan Pamucar,4
+Murat Dundar,4
+Xuejun Liao,4
+Silvan Sievers,4
+Haytham Elghazel,4
+Michael Katz,4
+Yong Zhang,4
+Yubin Park,4
+Babita Majhi,4
+Mátyás A. Sustik,4
+Vikas C. Raykar,4
+Lars Buesing,4
+Fevrier Valdez,4
+Narayan Bhamidipati,4
+Shayok Chakraborty,4
+Salah Rifai,4
+Ching-Kuo Wei,4
+See-Kiong Ng,4
+Peter Christen,4
+Jon M. Kleinberg,4
+Ingo Steinwart,4
+Mingxuan Yuan,4
+Evangelos Markakis,4
+Jeffrey Mark Siskind,4
+Yunchao Gong,4
+Xavier Carreras,4
+Cédric Archambeau,4
+Yoshihide Sekimoto,4
+Samuel Gershman,4
+Ines Färber,4
+Satinder Singh,4
+Noa Agmon,4
+Xiang Cheng,4
+Yair Weiss,4
+Joachim Giesen,4
+Tieh-Min Yen,4
+Anthony Man-Cho So,4
+Arjan Kuijper,4
+Ariadna Quattoni,4
+Olivier Buffet,4
+Arun Tejasvi Chaganty,4
+Rasim M. Alguliev,4
+Anitha Kannan,4
+Saeed Amizadeh,4
+Stefanos Zafeiriou,4
+Ce Liu,4
+Marie-Christine Rousset,4
+Montserrat Guillen,4
+Amar Shah,4
+Jason C. H. Chen,4
+Wojciech Zaremba,4
+Nilesh N. Dalvi,4
+Jian Wu,4
+Joshua Letchford,4
+Nihit Desai,4
+Jinbo Bi,4
+Yongxin Tong,4
+Rami N. Khushaba,4
+Pablo Sprechmann,4
+Daniel Zaldivar,4
+Yin Lou,4
+Raphael Sznitman,4
+Stefan Wager,4
+Quan-Ke Pan,4
+Hélène Fargier,4
+Alon Gonen,4
+Jussi Rintanen,4
+Gerard de Melo,4
+Siwei Lyu,4
+Rómer Rosales,4
+Kian Hsiang Low,4
+Wolfgang Ketter,4
+Qi Zhao,4
+Tolga Kaya,4
+Martin Jaggi,4
+James N. K. Liu,4
+Esther Salazar,4
+Abhimanyu Das,4
+Chia-Hoang Lee,4
+Ahmed El-Kishky,4
+Marco A. Pérez Cisneros,4
+Chunming Zhang,4
+Nagarajan Natarajan,4
+James H. Faghmous,4
+Satoshi Oyama,4
+Francesc Serratosa,4
+Patrice Perny,4
+Huy L. Nguyen,4
+Abhijin Adiga,4
+Zhongqi Lu,4
+Rongrong Ji,4
+Greg Corrado,4
+Mirjana Ivanovic,4
+Francisco Herrera,4
+Teresa Wu,4
+Tamara L. Berg,4
+Junseok Kwon,4
+Walid G. Aref,4
+Guang-Feng Deng,4
+Weizhu Chen,4
+Yiannis Demiris,4
+Arthur Zimek,4
+Maarten van Someren,4
+Alexandre Gramfort,4
+Yuan Shi,4
+Dahua Lin,4
+Xuening Chu,4
+Aleksandrs Slivkins,4
+Wei Pan,4
+Stratis Ioannidis,4
+Nathaniel Korda,4
+Gérard G. Medioni,4
+Abhinav Gupta,4
+Hector Garcia-Molina,4
+Raja Hafiz Affandi,4
+Yair Wiener,4
+Antonio Fernández,4
+Gianluigi Pillonetto,4
+Dae Il Kim,4
+Alessio Ishizaka,4
+Matthew E. Taylor,4
+Tianrui Li,4
+Ognjen Arandjelovic,4
+Ángel García-Crespo,4
+Chuan Luo,4
+Jialu Liu,4
+Marcelo Zanchetta do Nascimento,4
+Genevera I. Allen,4
+Georgios Chalkiadakis,4
+Ganesh Ramakrishnan,4
+Udi Apsel,4
+Jason Pazis,4
+Pratik Jawanpuria,4
+Leonidas Lefakis,4
+Siddharth Srivastava,4
+Chia-Hua Ho,4
+Chen Change Loy,4
+Stefan Funke,4
+Naftali Tishby,4
+Yukino Baba,4
+Fabian Gieseke,4
+Uri Shalit,4
+Daniel J. Lizotte,4
+Miguel Ángel Sotelo,4
+Nenad D. Pavlovic,4
+Giuseppe Aiello,4
+João Falcão e Cunha,4
+Paolo Remagnino,4
+Ilya Shpitser,4
+Deepti Pachauri,4
+Yasushi Sakurai,4
+Feng Li,4
+Paul Weng,4
+Jie Yin,4
+Min-Ling Zhang,4
+Zhang Yi,4
+Dayou Liu,4
+Mark Steyvers,4
+Giada La Scalia,4
+Timothy T. Rogers,4
+Yasuko Matsubara,4
+Dong Ha Kim,4
+Ying-hong Peng,4
+Wenjie Li,4
+M. Amparo Vila,4
+Jian Cheng,4
+Sabine Storandt,4
+Yada Zhu,4
+Jason Eisner,4
+Joseph Keshet,4
+Wen-Chin Chen,4
+Vineeth Nallure Balasubramanian,4
+Francesco Dinuzzo,4
+Annalisa Franco,4
+Yun Sing Koh,4
+Giuseppe De Giacomo,4
+Jianqiu Ji,4
+Dantong Yu,4
+Shant Karakashian,4
+Madhav V. Marathe,4
+Hai Wang,4
+Kush R. Varshney,4
+Weihua Xiong,4
+Li Da Xu,4
+Qiang Zou,4
+Bogdan Gabrys,4
+Mohamed M. Mostafa,4
+Sameer Kumar,4
+Yuchen Zhao,4
+Phillip Odom,4
+Stephen Tyree,4
+Jason J. Corso,4
+Wen Li,4
+Andrey Kolobov,4
+Harry K. H. Chow,4
+Francesca Rossi,4
+Guofei Jiang,4
+Ehsan Elhamifar,4
+Florentino Fdez-Riverola,4
+Daniela M. Witten,4
+Wai Keung Wong,4
+Xiang Ren,4
+Rafael Ferreira,4
+Ying Liu,4
+Marcello Pelillo,4
+Guillermo Ricardo Simari,4
+Qi Qian,4
+Fabrizio Angiulli,4
+Rina Panigrahy,4
+Diego H. Milone,4
+Bin Wang,4
+Ira Assent,4
+Asrar Ahmed,4
+W. Scott Spangler,4
+Russel Pears,4
+Jian Li,4
+Christian Wojek,4
+Selim Zaim,4
+Shinjae Yoo,4
+Anil Kumar S. Vullikanti,4
+Peter Auer,4
+Rita Chattopadhyay,4
+Songbo Tan,4
+Zhiyong Shen,4
+Anthony J. Yezzi,4
+Bong-Jin Yum,4
+Sean Gerrish,4
+KyungHyun Cho,4
+David Hsu,4
+Shing-Chung Ngan,4
+Soumya Ray,4
+Jia Xu,4
+Adam Kalai,4
+Ming-Bo Zhao,4
+Hassan Khosravi,4
+Gowtham Bellala,4
+Tae Yoon Kim,4
+Zhenghao Chen,4
+Junier B. Oliva,4
+Zhong Su,4
+Ming Dong,4
+David Loker,4
+Wei-Wen Wu,4
+Nishant A. Mehta,4
+Christian J. Muise,4
+Moncef Gabbouj,4
+Vicenç Gómez,4
+Benjamin M. Marlin,4
+Ming Ji,4
+Noelia Sánchez-Maroño,4
+Hongliang Fei,4
+Avigdor Gal,4
+Yu Ding,4
+Guojie Song,4
+Yanchun Zhang,4
+Erik Cambria,4
+Liam MacDermed,4
+Liang Zhang,4
+Tian Xia,4
+Christopher M. Jermaine,4
+Yehuda Koren,4
+Richard Hoshino,4
+Ihsan Kaya,4
+Joseph L. Austerweil,4
+Aude Oliva,4
+Jin-Kao Hao,4
+Ke Zhou,4
+Cyrus Shahabi,4
+Byeong-Soo Jeong,4
+Michael Collins,4
+Mrinal Kanti Das,4
+Songcan Chen,4
+Liangda Li,4
+Anmol Bhasin,4
+Dou Shen,4
+Shahram Ebadollahi,4
+Yarin Gal,4
+Gül E. Okudan Kremer,4
+Pingzhong Tang,4
+Kate Saenko,4
+Paulo Novais,4
+Rolando J. Praga-Alejo,4
+Bart Goethals,4
+Serkan Kiranyaz,4
+Diederik P. Kingma,4
+Jiangwen Sun,4
+David Belanger,4
+Eryun Liu,4
+Jianxiong Xiao,4
+Dawei Wang,4
+Hai Leong Chieu,4
+Fabrício Enembreck,4
+Hadi Sadoghi Yazdi,4
+Zijun Yao,4
+Pierre Baldi,4
+Sida I. Wang,4
+Madalina Fiterau,4
+Robin Cohen,4
+Michalis Vazirgiannis,4
+Ricardo de A. Araújo,4
+Holger H. Hoos,4
+Mi-Yen Yeh,4
+Jonathan Schaeffer,4
+Hung-Min Sun,4
+Soon Cheol Park,4
+Jin Yu,4
+Kunqing Xie,4
+Mudhakar Srivatsa,4
+Yan Zhu,4
+Yang Li,4
+Warren B. Powell,4
+Victor S. Sheng,4
+Seiji Isotani,4
+Subhransu Maji,4
+Antonio Augusto Chaves,4
+Dingming Wu,4
+Seung-Ho Yang,4
+Andre Wibisono,4
+Johannes Textor,4
+José Hernández-Orallo,4
+Chun-Wei Lin,4
+Alex Graves,4
+Dongil Kim,4
+Aïda Valls,4
+Zeshui Xu,4
+Jian-Yun Nie,4
+Zhao Xu,4
+Chih-Hung Tsai,4
+Hector Geffner,4
+Russell A. Poldrack,4
+Li Dong,4
+Wouter Duivesteijn,4
+Sridha Sridharan,4
+Theodoros Lappas,4
+Sean Gilpin,4
+Yi Chai,4
+Yong Wang,4
+Ting-Yu Chen,4
+Qianmu Li,4
+Robert C. Holte,4
+Rabeb Mizouni,4
+Myra Spiliopoulou,4
+Jiuyong Li,4
+Vítor Santos Costa,4
+Gungor Polatkan,4
+Junming Shao,4
+Richard Nock,4
+Sheng-Yuan Yang,4
+Guangzhong Sun,4
+Filip Zelezný,4
+XianXing Zhang,4
+Chi Fai Cheung,4
+Edo Liberty,4
+Mohammed Bennamoun,4
+Yueh-Min Huang,4
+Hongdong Li,4
+Carl Edward Rasmussen,4
+Christos Dimitrakakis,4
+Bertrand Thirion,4
+Bernardo Cuenca Grau,4
+Li-Ping Liu,4
+Partha Pratim Talukdar,4
+William Dabney,4
+Victor Bittorf,4
+Svetlana Obraztsova,4
+S. M. Ali Eslami,4
+Hadi Hosseini,4
+Thore Graepel,4
+Krithi Ramamritham,4
+Guillaume Bouchard,4
+David Jensen,4
+Yin Zhu,4
+Zaïd Harchaoui,4
+Artur Dubrawski,4
+Kristina Lerman,4
+Sarath Kodagoda,4
+Brendan Lucier,4
+Xiaofeng Ren,4
+Hsiang-Fu Yu,4
+Xilin Chen,4
+Juergen Gall,4
+Yang Chen,4
+Roi Weiss,4
+Xin Jin,4
+Abbas Khosravi,4
+Jun Yang,4
+Xingjie Liu,4
+Juan Gabriel Brida,4
+Zheng Wang,4
+Johannes Fürnkranz,4
+Evangelos E. Papalexakis,4
+Fachao Li,4
+Stephen C. H. Leung,4
+Lucas Theis,4
+Sarah Jane Delany,4
+Zechao Li,4
+Torben Bach Pedersen,4
+Gilles Stoltz,4
+Jinoh Oh,4
+Mehrdad Farajtabar,4
+Grigorios Loukides,4
+Xin Gao,4
+Kihyuk Sohn,4
+Jacob R. Gardner,4
+Jinhui Xu,4
+Christophe Mues,4
+Christopher Berlind,4
+Arjun Mukherjee,4
+Sergio Gil-Lopez,4
+Wenfei Fan,4
+Joseph Kelly Barker,4
+Sven Koenig,4
+David Wingate,4
+Dehua Cheng,4
+Xike Xie,4
+Ankur P. Parikh,4
+Thomas Eiter,4
+Thomas Brox,4
+Anoop Korattikara Balan,4
+Carlos García Puntonet,4
+Shenghua Liu,4
+Jeff Z. Pan,4
+Josef Sivic,4
+Matthias Bethge,4
+Aini Hussain,4
+Xiang Bai,4
+Michael Brückner,4
+Alexandros Nanopoulos,4
+Flavio Chierichetti,4
+Maurizio Filippone,4
+Yuanqing Lin,4
+Bertha Guijarro-Berdiñas,4
+Samuel Rota Bulò,4
+Alok N. Choudhary,4
+Nika Haghtalab,4
+Dino Isa,4
+Alexandre Passos,4
+Israel González-Carrasco,4
+Teemu Roos,4
+Anthony Stentz,4
+Eric W. T. Ngai,4
+Bojun Tu,4
+Kang Li,4
+Takayuki Ito,4
+Elizabeth Ferreira Gouvea Goldbarg,4
+Chengfei Liu,4
+Zhenjie Zhang,4
+Shu-Chu Liu,4
+Byron M. Yu,4
+Gilad Lerman,4
+Georgios Theocharous,4
+Yannis Marinakis,4
+GeunSik Jo,4
+Yuan Yao,4
+Marta Disegna,4
+Virginia Smith,4
+Christopher DuBois,4
+Harsh H. Pareek,4
+Matteo Pirotta,4
+Martin Zinkevich,4
+Liang Lin,4
+James F. Allen,4
+Simina Brânzei,4
+Aixin Sun,4
+Tossapon Boongoen,4
+Sterling C. Johnson,4
+Hanna M. Wallach,4
+Marco Roveri,4
+Xiaoping Chen,4
+James A. Rodger,4
+Seppo Virtanen,4
+Fernando Paredes,4
+Divyanshu Vats,4
+Hongbo Deng,4
+M. Güray Güler,4
+Chien-Liang Liu,4
+Hyun Oh Song,4
+David W. Cheung,4
+Michael C. Hughes,4
+Nenghai Yu,4
+David Isern,4
+Ya'akov Gal,4
+Amitava Chatterjee,4
+Margareta Ackerman,4
+Richard G. Gibson,4
+Maayan Harel,4
+Feng Xu,4
+Yan Zhou,4
+Thomas Gärtner,4
+Mahito Sugiyama,4
+Jeffrey Chan,4
+Pierre Marquis,4
+Xin Lin,4
+Ernestina Menasalvas Ruiz,4
+Behzad Golshan,4
+Jiawei Zhang,4
+Saharon Rosset,4
+Indrajit Bhattacharya,4
+Christian R. Shelton,4
+Kaveh Khalili Damghani,4
+Boqing Gong,4
+Zhengxing Huang,4
+Michael E. Houle,4
+Chitta Baral,4
+Bistra N. Dilkina,4
+Hong Qin,4
+Yizhou Wang,4
+Liangjie Hong,4
+David M. Mimno,4
+Laurent Itti,4
+Hau Chan,4
+Francisco Fernández-Navarro,4
+Dejing Dou,4
+Fosca Giannotti,4
+Nicholas Ruozzi,4
+Peng Yu,4
+Xavier Glorot,4
+Iñigo Monedero,4
+Bokai Cao,4
+Peggy L. Peissig,3
+Chun-Fei Hsu,3
+Anton Osokin,3
+Jianping Zhang,3
+Seungchul Lee,3
+María José del Jesús,3
+Bingsheng Wang,3
+José Ramon Méndez,3
+Peter Richtárik,3
+Manish Jain,3
+Yu-Wang Chen,3
+Fabrice Clérot,3
+Alexandre Pouget,3
+Josif Grabocka,3
+Jennifer Gillenwater,3
+Stephen Gould,3
+Tamara G. Kolda,3
+Jeffrey M. Beck,3
+Enrico H. Gerding,3
+Gao Huang,3
+Karteek Alahari,3
+Lingbo Li,3
+Van Tung Tran,3
+Christian Theobalt,3
+Chang-Hua Hu,3
+Andrea Passerini,3
+Gheorghe Comanici,3
+Christopher Kiekintveld,3
+Abdul-Saboor Sheikh,3
+Jay Lee,3
+Kostas Stergiou,3
+Kuan-Yu Chen,3
+Rick Lawrence,3
+Xinyu Shao,3
+Rehan Sadiq,3
+Concha Bielza,3
+Adnan Yazici,3
+Joseph Wang,3
+Marcelo Fiori,3
+François Petitjean,3
+David Soler,3
+Bela A. Frigyik,3
+Lenka Zdeborová,3
+Prakash Ishwar,3
+Song Liu,3
+João Carreira,3
+Aaron Wilson,3
+Ana S. Camanho,3
+Chi-Keung Tang,3
+Joseph Salmon,3
+Svetlana Lazebnik,3
+Tameem Adel,3
+Ramayya Krishnan,3
+Karthikeyan Shanmugam,3
+Sujith Ravi,3
+Yrjö Hiltunen,3
+Hong Zhang,3
+Stathes Hadjiefthymiades,3
+Minlie Huang,3
+Dongjin Song,3
+Fahiem Bacchus,3
+Wenzhu Tong,3
+Joel A. Tropp,3
+Babak Shahbaba,3
+Mohammad Mehdi Sepehri,3
+Zhiyong Liu,3
+Beatrice Lazzerini,3
+Yair Zick,3
+Omar López-Ortega,3
+Yadong Zhu,3
+Pei-hui Chu,3
+Morteza Saberi,3
+Morteza Zadimoghaddam,3
+Tien-Chin Wang,3
+Dayong Wang,3
+Robert Selkowitz,3
+Adrijan Baric,3
+Ali Borji,3
+Sung Hoon Na,3
+Lin Liu,3
+Wulfram Gerstner,3
+Marco Zaffalon,3
+Kwanghoon Sohn,3
+Ting-Wei Lin,3
+Myung Jin Choi,3
+Assaf Glazer,3
+Jia Yuan Yu,3
+Bin Gao,3
+Xiaolei Huang,3
+Adams Wei Yu,3
+Jeong-Min Yun,3
+Anjali Awasthi,3
+David Lopez-Paz,3
+Aäron Van Den Oord,3
+Mohammad Norouzi,3
+Xiongfei Li,3
+Guy Bresler,3
+Yang Mu,3
+Erik G. Learned-Miller,3
+Roberto Battiti,3
+Hu Ding,3
+Jérémie Mary,3
+Wei Song,3
+Radu-Emil Precup,3
+Been Kim,3
+David J. Kriegman,3
+Cheng Sheng,3
+C. K. H. Lee,3
+Loris Bazzani,3
+Zhiting Hu,3
+Fangbo Tao,3
+Donald Goldfarb,3
+Nick G. Duffield,3
+Bin Fang,3
+Yalin Wang,3
+Limsoon Wong,3
+Lu Zhen,3
+Tianlin Shi,3
+Makoto Onizuka,3
+Tom Gunter,3
+Guiming Luo,3
+Stan Sclaroff,3
+Giuseppe Bruno,3
+Torsten Schaub,3
+Teppo Niinimaki,3
+Haifeng Xu,3
+Xiaoqian Jiang,3
+Milos Radovanovic,3
+Neil Shah,3
+Vera L. Miguéis,3
+Guosheng Lin,3
+Wann-Yih Wu,3
+José Carlos Príncipe,3
+Gianluca Bontempi,3
+Yinghui Wu,3
+Olli-Pekka Hilmola,3
+Huayu Wu,3
+Hui Wang,3
+Aswin C. Sankaranarayanan,3
+Sreangsu Acharyya,3
+Joaquín Bautista,3
+I-Cheng Yeh,3
+A. Hadi-Vencheh,3
+Noriko Takaya,3
+Jafar Rezaei,3
+Debprakash Patnaik,3
+Ata Kaban,3
+Jieh-Haur Chen,3
+Chris T. Kiranoudis,3
+Adam Woznica,3
+Ran He,3
+Javier Jaén Martínez,3
+Seokho Kang,3
+Salvatore Scellato,3
+Soumen Chakrabarti,3
+Engin Avci,3
+Carlos González,3
+Chaoming Song,3
+Zoran Popovic,3
+Marie desJardins,3
+George Katsirelos,3
+Yihong Gong,3
+Zhengming Ding,3
+Viorel Milea,3
+Xavier Cortés,3
+María N. Moreno García,3
+Yuan Yan Tang,3
+Montserrat Batet,3
+Paul R. Schrater,3
+Wook-Shin Han,3
+Peter V. Gehler,3
+Isabelle Bichindaritz,3
+Akisato Kimura,3
+M. Elangovan,3
+Tan Yigitcanlar,3
+Junming Yin,3
+Jaideep Vaidya,3
+Alborz Geramifard,3
+Xiang Li,3
+Zhe Lin,3
+Yuke Zhu,3
+Faith-Michael E. Uzoka,3
+Kaiquan Xu,3
+Feng-Chang Gu,3
+Aditya Bhaskara,3
+Duy Tin Truong,3
+Alessandro Bergamo,3
+Weixiong Zhang,3
+José Hernández Palancar,3
+Elad Mezuman,3
+Adish Singla,3
+Mika Liukkonen,3
+Dev Oliver,3
+Sylvain Robbiano,3
+H. V. Jagadish,3
+Rob Hall,3
+Konrad Schindler,3
+Anselmo Peñas,3
+Shuo Wang,3
+Xiaofei Zhao,3
+Jorge Batista,3
+Yuan Hao,3
+Chonghui Guo,3
+Seyoung Kim,3
+Eric E. Schadt,3
+David A. Elizondo,3
+Dan Suciu,3
+Francesca Mangili,3
+Özlem Aslan,3
+Gilles Trombettoni,3
+Gregory Valiant,3
+C. K. M. Lee,3
+Ahmed M. Elgammal,3
+Claudia Schulz,3
+Yao Hu,3
+Martin Kronegger,3
+Kaushik Subramanian,3
+Juan Manuel Montero,3
+Da Yan,3
+Krishnendu Chatterjee,3
+Matthew Le,3
+Marinka Zitnik,3
+Yao Zhang,3
+Shigeru Yoshida,3
+Eric Reiman,3
+Haojun Zhang,3
+María Dolores Rodríguez-Moreno,3
+Ibrahim Eksin,3
+David Wai-Lok Cheung,3
+Roi Livni,3
+Alessandro Verri,3
+M. Romero,3
+Juan Antonio Hernández Tamames,3
+Eugenio Martínez-Cámara,3
+Aris Gkoulalas-Divanis,3
+Rachida Dssouli,3
+Srikrishna Sridhar,3
+Zhiyong Li,3
+Qiang Zhu,3
+Shandian Zhe,3
+Davy Janssens,3
+Joseph Y. Halpern,3
+Srinivasan Parthasarathy,3
+Erkki Oja,3
+Seyed Hamid Reza Pasandideh,3
+Fuyuan Cao,3
+Peter W. Li,3
+Pranjal Awasthi,3
+A. I. Marqués,3
+Alberto Pérez García-Plaza,3
+Alfredo A. Kalaitzis,3
+Chih-Chun Chia,3
+Azah Mohamed,3
+Daniel Gildea,3
+Clayton D. Scott,3
+Weihong Deng,3
+Araceli Sanchis,3
+Adem Karahoca,3
+Alberto Fernández,3
+Fermín L. Cruz,3
+Dino Pedreschi,3
+Harold Pashler,3
+Arturas Kaklauskas,3
+Jukka Corander,3
+Sreenivas Gollapudi,3
+Unil Yun,3
+Pavel V. Sevastjanov,3
+Maurizio Lenzerini,3
+Girish Kumar Singh,3
+Florent Krzakala,3
+Sotirios Chatzis,3
+Toshiharu Sugie,3
+Steven Li,3
+Mathias Drton,3
+James J. H. Liou,3
+Pádraig Cunningham,3
+Khairuddin Omar,3
+Yajuan Zhang,3
+Adith Swaminathan,3
+Ahmed K. Farahat,3
+Sangkeun Lee,3
+Petko Bogdanov,3
+Hongxia Yang,3
+Grigorios Tsoumakas,3
+Arno J. Knobbe,3
+Manuel Palomar,3
+Byungwhan Kim,3
+Ju Sun,3
+Hongxia Jin,3
+Raymond Chi-Wing Wong,3
+Vitaly Kuznetsov,3
+Clément Calauzènes,3
+Yuhong Xiong,3
+Yuta Tsuboi,3
+T. N. Wong,3
+Matthew Richardson,3
+Hamed Valizadegan,3
+Laiwan Chan,3
+Yuxiao Dong,3
+Giulio Di Gravio,3
+Gregory M. Provan,3
+Zhaoran Wang,3
+Puja Das,3
+Ching-Yung Lin,3
+Fatih Porikli,3
+Wei Cao,3
+Mélanie Rey,3
+Shaodan Zhai,3
+W. B. Lee,3
+Inmaculada Medina-Bulo,3
+Greet Vanden Berghe,3
+Bai-En Shie,3
+Alexander Feldman,3
+Dan Lin,3
+Lu Jiang,3
+Chong Wu,3
+Arunava Banerjee,3
+Tanguy Urvoy,3
+B. Latha Shankar,3
+Guohua Liang,3
+Hermann Ney,3
+Levi Boyles,3
+Mithun Chakraborty,3
+Cheng Jin,3
+Ching-Chin Chern,3
+Jingbo Xia,3
+Eduardo C. Xavier,3
+Cheng-Hong Yang,3
+Jing Feng,3
+Maria Vanina Martinez,3
+Avshalom Elmalech,3
+Christos Giatsidis,3
+Marco Rocco,3
+Hideki Katagiri,3
+Pericles A. Mitkas,3
+Jinhwa Kim,3
+Sheng-Tzong Cheng,3
+Carlotta Domeniconi,3
+Yin Zhang,3
+Elliot Anshelevich,3
+Luis M. Torres-Treviño,3
+Giorgio Patrini,3
+Kevin S. Tickle,3
+Weilong Yang,3
+Tor Lattimore,3
+Peifa Jia,3
+Dóra Erdös,3
+Laurenz Wiskott,3
+Ke Deng,3
+Jun Chen,3
+Mark Riedl,3
+Marco Gori,3
+Jenna Wiens,3
+Milos Nikolic,3
+Mário A. T. Figueiredo,3
+Jie Luo,3
+Xiaohuan Wang,3
+Michael S. Brown,3
+Walter J. Scheirer,3
+Marion Neumann,3
+Ko Nishino,3
+Guiwu Wei,3
+Nathan Self,3
+Frank Nielsen,3
+Yang Zhang,3
+Manuel G. Penedo,3
+Paolo Garza,3
+Sanja Fidler,3
+Jing-Ming Guo,3
+Yu Zhao,3
+S. Palanivel,3
+Wei-Hung Lin,3
+Cun Mu,3
+Azuraliza Abu Bakar,3
+James M. Kang,3
+Nicolas Le Roux,3
+Cheol-Han Kim,3
+Oliver Kramer,3
+Divesh Srivastava,3
+Yi Chen,3
+Luís C. Lamb,3
+Bin Yang,3
+Dewan Md. Farid,3
+Bilal Alatas,3
+Yuhua Qian,3
+Wenting Tu,3
+Kyu-Han Kim,3
+Li Shen,3
+M. Kamran,3
+Sundeep Rangan,3
+Klaus Obermayer,3
+Julia Hockenmaier,3
+Miguel R. D. Rodrigues,3
+Wei Cheng,3
+Jayadev Acharya,3
+Min Liu,3
+Kris De Brabanter,3
+Usha Ramanathan,3
+Chris Dyer,3
+Mohamed Nadif,3
+Robert Peharz,3
+Shay B. Cohen,3
+Freddy Chong Tat Chua,3
+James Cussens,3
+Juho Rousu,3
+Zheng Liu,3
+Mengling Feng,3
+Son T. Mai,3
+Owen T. Carmichael,3
+Mark A. Girolami,3
+Ming-Hsuan Yang,3
+Sander M. Bohte,3
+Desney S. Tan,3
+Miguel-Ángel Sicilia,3
+Yu-Gang Jiang,3
+James Neufeld,3
+Wenlu Zhang,3
+Ali Selamat,3
+Célia Ghedini Ralha,3
+Newton José Vieira,3
+Lester W. Mackey,3
+Hai Jin,3
+Shamanth Kumar,3
+Zhi-Quan Luo,3
+Amin Mantrach,3
+Novruz Allahverdi,3
+Ming Lin,3
+Hassan B. Kazemian,3
+Sankaran Mahadevan,3
+Shan-Hung Wu,3
+Lei Tang,3
+Rolf Niedermeier,3
+Gaurav Aggarwal,3
+Claire A. Montgomery,3
+Bernadette Sharp,3
+Sergei O. Kuznetsov,3
+Márcio Dorn,3
+Ross D. Shachter,3
+Alex Deng,3
+Majid Janzamin,3
+Fernando Fernández-Martínez,3
+Jie Wu,3
+Arbee L. P. Chen,3
+Yuh-Rau Wang,3
+David Kurokawa,3
+Daniel Urieli,3
+Yuanlin Zhang,3
+Brian C. Williams,3
+Tobias Glasmachers,3
+Christopher Ré,3
+Shuang-Hong Yang,3
+Wei-Yen Hsu,3
+Emmanuel Duflos,3
+Oluwasanmi O. Koyejo,3
+Junming Liu,3
+Robert V. Lindsey,3
+Akihiro Kishimoto,3
+Tim Brys,3
+Abdollah Hadi-Vencheh,3
+Ole Winther,3
+Mohamed Nabeel,3
+Seungmin Lee,3
+Jing Qian,3
+David A. Meyer,3
+Aditya V. Nori,3
+Alex Gittens,3
+David Newman,3
+Teresa Bernarda Ludermir,3
+Kostas Tsioutsiouliklis,3
+Chuen-Horng Lin,3
+Natthakan Iam-on,3
+Pietro Manzoni,3
+Matthias W. Seeger,3
+Qiang Wu,3
+Luis Enrique Sucar,3
+Ruimin Hu,3
+Valentín Osuna-Enciso,3
+Loan T. T. Nguyen,3
+Wei Wei,3
+Rong Yang,3
+Hongyu Su,3
+Yijun Sun,3
+Jialie Shen,3
+Shaobo Han,3
+Antonio Arauzo-Azofra,3
+Michael K. Ng,3
+Jesse Hostetler,3
+Matthieu Cord,3
+Zhen Wang,3
+Giorgos Borboudakis,3
+Suha Kwak,3
+KwangSoo Yang,3
+Suresh Venkatasubramanian,3
+Milorad Vidovic,3
+Yichuan Zhang,3
+Shipra Agrawal,3
+Jouni Hartikainen,3
+Robert Gens,3
+Tomás Pajdla,3
+Tom Schaul,3
+Chao Chen,3
+Gengxin Miao,3
+K. S. Chin,3
+Daniel Bryce,3
+Kiyana Zolfaghar,3
+Anirban Dasgupta,3
+Jugal K. Kalita,3
+Francesc Moreno-Noguer,3
+Ian Osband,3
+Chandan Chakraborty,3
+Konstantinos Blekas,3
+Zhuolin Jiang,3
+Branislav Bosanský,3
+Mara Abel,3
+Alexander Shleyfman,3
+Yulai Zhang,3
+Abdulkadir Çevik,3
+Ming-Der Yang,3
+Dharmashankar Subramanian,3
+Samuel Ieong,3
+Byung Soo Kim,3
+Junfeng He,3
+Qiang Chen,3
+Yingzi Wang,3
+Ting-Kuei Li,3
+Xueqing Liu,3
+Sung-Kwun Oh,3
+Rodolphe Sepulchre,3
+Mehdi Mirza,3
+Stéphane Gaïffas,3
+Nozomi Nori,3
+Fei Tian,3
+Mahsa Baktashmotlagh,3
+Assaf Schuster,3
+Xiaorong Huang,3
+Kewei Chen,3
+Stephen M. Chu,3
+Vikas K. Garg,3
+Niranjan A. Subrahmanya,3
+Marina V. Sokolova,3
+Nicholas Mattei,3
+Peng Xu,3
+Omar M. Ashour,3
+Patrick MacAlpine,3
+Jacquelyn A. Shelton,3
+Shiwali Mohan,3
+Anima Anandkumar,3
+Christian Lebiere,3
+Hsiang-Chuan Liu,3
+Young-In Song,3
+Zaili Yang,3
+Yuekai Sun,3
+Tom M. Mitchell,3
+Yunming Ye,3
+Masaaki Nagata,3
+Yali Wang,3
+Bo Jiang,3
+Satish C. Sharma,3
+Minjie Xu,3
+Ido Leichter,3
+John K. Lai,3
+Guillaume Desjardins,3
+Yonnim Lee,3
+Nisheeth Srivastava,3
+Jaewoo Lee,3
+Chao Li,3
+Lihui Chen,3
+Mahyar Salek,3
+Santiago Eibe,3
+Jie Lu,3
+K. P. S. Rana,3
+Yan Xu,3
+Hui Fang,3
+Vinicius Veloso de Melo,3
+Giorgio Corani,3
+Daniel R. Sheldon,3
+Lam Hong Lee,3
+Hong-Gee Kim,3
+Enrique J. Gómez,3
+Xia Ning,3
+Xue Li,3
+Hui-Ling Chen,3
+Cristina Savin,3
+Mauricio A. Álvarez,3
+Olivier Pietquin,3
+Eric Lo,3
+Li-Yeh Chuang,3
+Ali Pinar,3
+Raquel Martínez,3
+Fabrizio Sebastiani,3
+Keke Cai,3
+Sanghamitra Bandyopadhyay,3
+Alina Bialkowski,3
+Dehua Liu,3
+Chunhong Pan,3
+Thomas A. Trikalinos,3
+Ariel Fuxman,3
+Maurice Pagnucco,3
+Dmitry I. Ignatov,3
+Heung-Nam Kim,3
+Jian Dong,3
+Somdeb Sarkhel,3
+Nan Jiang,3
+Leong Hou U,3
+Amy McGovern,3
+Qingxiong Yang,3
+Jianxin Li,3
+Rafael Corchuelo,3
+Yueguo Chen,3
+Md. Samiullah,3
+Angkoon Phinyomark,3
+M. A. Hakim Newton,3
+Mingjun Zhong,3
+David Menotti,3
+Oscar Cordón,3
+Ming Li,3
+Jianmin Ji,3
+Li Deng,3
+Hankz Hankui Zhuo,3
+Mohammad Ali Nematbakhsh,3
+Antonio R. Anaya,3
+Nevin Lianwen Zhang,3
+Özgür Kisi,3
+Mario Cools,3
+Nesreen K. Ahmed,3
+Mourad Debbabi,3
+Ricardo B. C. Prudêncio,3
+Hadi Amiri,3
+Subramanian Ramamoorthy,3
+Amir Ahmad,3
+Chyou-Hwa Chen,3
+Guo-Xun Yuan,3
+William Ho,3
+Rahime Ceylan,3
+Hyeonju Seol,3
+Manjeevan Seera,3
+Joyce Jiyoung Whang,3
+George Michailidis,3
+Feng Liu,3
+Thomas Lukasiewicz,3
+Graham Cormode,3
+Pawan Goyal,3
+Masayuki Karasuyama,3
+Ufuk Yolcu,3
+Matt Wytock,3
+Jianwen Zhang,3
+Yutaka Matsuo,3
+Suhas Ranganath,3
+Keunho Choi,3
+Zhikun Wang,3
+Yi Zhou,3
+Diego Calvanese,3
+Enrique Herrera-Viedma,3
+Huan Li,3
+Yoichi Sato,3
+Yossiri Adulyasak,3
+Cecilia Mascolo,3
+Shenghua Bao,3
+Michal Kruk,3
+Xiaoyu Wang,3
+Mark Crovella,3
+David Vallejo,3
+Dimitris E. Koulouriotis,3
+Feifei Li,3
+Yi-Kuei Lin,3
+Eric Sodomka,3
+Byungun Yoon,3
+Johan Ugander,3
+Francisco Manzano-Agugliaro,3
+Nello Cristianini,3
+Vincent Charles,3
+Sriram K. Rajamani,3
+Peng He,3
+Silvio Lattanzi,3
+Teng Zhang,3
+Abner Guzmán-Rivera,3
+Sicco Verwer,3
+Xinyang Deng,3
+Xiao-Tong Yuan,3
+Haim Schweitzer,3
+Achmad Widodo,3
+Christopher H. Lin,3
+Wei-ming Wang,3
+Vinay Jethava,3
+Reza Ebrahimpour,3
+Nihar B. Shah,3
+Zarko Cojbasic,3
+Qinming He,3
+Wei Dai,3
+Andrew Guillory,3
+Koen Vanhoof,3
+Hacer Özyurt,3
+Mingqiang Xue,3
+Shouyuan Chen,3
+Dani Yogatama,3
+Ignacio Parra,3
+Ashwin Srinivasan,3
+Ahmed Shaban,3
+Miroslaw Truszczynski,3
+Yinglong Ma,3
+Yong Tang,3
+Frank Dondelinger,3
+Tuyen N. Huynh,3
+Qionghai Dai,3
+Cédric Févotte,3
+Ayan Chakrabarti,3
+James C. Chen,3
+Victor R. Lesser,3
+Xinghao Pan,3
+Roberta Costa,3
+Aristidis Likas,3
+Yuichi Nagata,3
+Nicholas Johnson,3
+D. A. Wahab,3
+Chulhyun Kim,3
+Caiming Xiong,3
+Cristian Molinaro,3
+Dashun Wang,3
+Meritxell Vinyals,3
+Tingting Mu,3
+Shohei Shimizu,3
+Masashi Shimbo,3
+Wen-Tsai Sung,3
+Shulong Tan,3
+Graham W. Taylor,3
+Bo Wang,3
+Laurent El Ghaoui,3
+Hailong Sun,3
+Mayank Kejriwal,3
+Chuangyin Dang,3
+Zoltán Szabó,3
+Saeed Reza Aghabozorgi,3
+Jia-Ching Ying,3
+Luiz S. Oliveira,3
+ChengXiang Zhai,3
+Emanuel Todorov,3
+Ehsan Abbasnejad,3
+Yanfang Deng,3
+Huayi Li,3
+Theja Tulabandhula,3
+Harm van Seijen,3
+Roque Marín,3
+Jan-Ming Ho,3
+Sujian Li,3
+Anthony R. Dick,3
+Eric Tsui,3
+Chien-Chang Hsu,3
+Hao Zhong,3
+Huanhuan Cao,3
+Carlos Javier Mantas,3
+Michel Ballings,3
+Yitan Li,3
+William L. Hamilton,3
+Alexei A. Efros,3
+David Kempe,3
+Ariel Kleiner,3
+Vivian F. López Batista,3
+Dan Feldman,3
+Martin Kiefel,3
+Hong-Han Shuai,3
+Praneeth Netrapalli,3
+Nicolas Gillis,3
+Abdulmotaleb El-Saddik,3
+Jianlin Feng,3
+Motoki Shiga,3
+Baharan Mirzasoleiman,3
+Shiva Prasad Kasiviswanathan,3
+Chien-Chih Chen,3
+Yang Gao,3
+David Adametz,3
+Armando Vieira,3
+Shiv Prasad Yadav,3
+Liudmila Ulanova,3
+Honggang Zhang,3
+Christopher J. C. Burges,3
+Yadong Mu,3
+Meng Chang Chen,3
+Andrew D. Bagdanov,3
+Rui Mao,3
+José A. Castellanos-Garzón,3
+Peter Haider,3
+Jens Witkowski,3
+G. Peter K. Carr,3
+Tapio Pahikkala,3
+Sebastián Moreno,3
+Joseph E. Gonzalez,3
+Maciej Liskiewicz,3
+Çetin Elmas,3
+Alina Beygelzimer,3
+Pannaga Shivaswamy,3
+Cong Liu,3
+ShuiGuang Deng,3
+Mariano Alcañiz Raya,3
+Alejandro Moreo,3
+Ioannis Caragiannis,3
+Kostas Kolomvatsos,3
+Xiangrui Meng,3
+Babak Abbasi,3
+Dong Liu,3
+Prasenjit Mitra,3
+Rémi Bardenet,3
+Luca Baldassarre,3
+Mark Dredze,3
+Peter B. Walker,3
+Claudio Lucchese,3
+Kristen Brent Venable,3
+Tuan M. V. Le,3
+Ha Quang Minh,3
+Feng Wang,3
+Daniel Gómez-Lorente,3
+Stuart C. Shapiro,3
+Gerhard Lakemeyer,3
+Grégoire Montavon,3
+Junfu Yin,3
+Ah-Hwee Tan,3
+Gholamreza Haffari,3
+Amol Ghoting,3
+Chunlai Zhou,3
+Jörg Bornschein,3
+Sungin Lee,3
+Fan Xie,3
+Abhishek B. Sharma,3
+Fereidoon Moghadas Nejad,3
+Kevin G. Jamieson,3
+Trevor Hastie,3
+Shike Mei,3
+Esther Galbrun,3
+Sanghack Lee,3
+Kumar Sricharan,3
+Zhongliang Yue,3
+Anselmo Cardoso de Paiva,3
+Benny C. F. Cheung,3
+Qifa Ke,3
+Francesco Costantino,3
+Anil Kumar,3
+Dan Garber,3
+Tengke Xiong,3
+Zijiang Yang,3
+Jianfeng Du,3
+Marios Savvides,3
+Özcan Özyurt,3
+Adli Mustafa,3
+Virginia Yannibelli,3
+Edith Cohen,3
+Prithwish Chakraborty,3
+Yuefeng Li,3
+Liqun Gao,3
+Kiri L. Wagstaff,3
+Kilho Shin,3
+Rubén González Crespo,3
+Qiang Zhou,3
+Xuan Hong Dang,3
+Yu-Wing Tai,3
+Nasser Ghasem-Aghaee,3
+Cagatay Catal,3
+Fikret S. Gürgen,3
+Firdaus Janoos,3
+Dougal J. Sutherland,3
+Frank Puppe,3
+Mohamed El-Menshawy,3
+Sergio Guadarrama,3
+Xiannian Fan,3
+Fuxin Li,3
+André da Motta Salles Barreto,3
+Sunil Kumar Gupta,3
+Pedro A. Ortega,3
+Matthew F. Der,3
+Joshua T. Abbott,3
+Juan A. Rodríguez-Aguilar,3
+Dragan Gasevic,3
+Robert P. Goldman,3
+Leslie Pack Kaelbling,3
+Belle L. Tseng,3
+Yue Zhao,3
+Luis Montesano,3
+Marco Aurélio de Oliveira,3
+Kirthevasan Kandasamy,3
+Wei Yang,3
+Chunqiu Zeng,3
+Yanchi Liu,3
+Meng Qu,3
+Qingshan Jiang,3
+Ming-Kuen Wang,3
+Ping Tan,3
+Cristóbal J. Carmona,3
+Matteo Riondato,3
+Nan Li,3
+Cornelia Caragea,3
+Panagiotis Papadimitriou,3
+Ángel M. Pérez-Bellido,3
+Liang Chen,3
+Urbano Nunes,3
+Hidekazu Oiwa,3
+Michael Fink,3
+Blaz Zupan,3
+Joon-Young Lee,3
+Jinha Kim,3
+Peter Triantafillou,3
+Mitsuru Ishizuka,3
+Charles X. Ling,3
+José Antonio Iglesias,3
+Peter Kissmann,3
+Landon Kraemer,3
+Pei Yang,3
+Jimmy Lin,3
+Michael G. Pecht,3
+Bruno Jedynak,3
+Nishikant Mishra,3
+Francesca Spezzano,3
+Hristo S. Paskov,3
+An-Pin Chen,3
+Yuening Hu,3
+Shi-Jen Lin,3
+Ryszard Kowalczyk,3
+Onur Dikmen,3
+João P. Papa,3
+Julio B. Clempner,3
+Jae Mun Sim,3
+Bruno D. Abrahao,3
+Mikhail Sizintsev,3
+Nico Görnitz,3
+Masatoshi Yoshikawa,3
+Abhimanu Kumar,3
+Niket Tandon,3
+Daniele Durante,3
+Andrea Genovese,3
+Jing Yang,3
+Bo Zong,3
+Xinwang Liu,3
+Anqi Liu,3
+Ming Shao,3
+Xuegang Hu,3
+Marco Grzegorczyk,3
+C. V. Jawahar,3
+Sungroh Yoon,3
+Jorge A. Baier,3
+Zhixu Li,3
+Bo Feng,3
+Jingu Kim,3
+Duc Thien Nguyen,3
+Shimon Ullman,3
+Hamzeh Zakeri,3
+Ben Recht,3
+Zhenfei Zhang,3
+Goran Cirovic,3
+Chen Zhu,3
+Martin Takác,3
+Sen Su,3
+Andrzej Z. Grzybowski,3
+Haipeng Luo,3
+Fangtao Li,3
+N. R. Sakthivel,3
+Charles Kemp,3
+Bogdan Alexe,3
+Ali Farhadi,3
+Jaedeug Choi,3
+Lori Tavasszy,3
+Masato Okada,3
+Emil M. Petriu,3
+Enrique Romero,3
+Mingming Gong,3
+Lars Otten,3
+Arnak S. Dalalyan,3
+Sonia Mendoza,3
+Leonard K. M. Poon,3
+Woo-Tsong Lin,3
+Frans A. Oliehoek,3
+Hua Ouyang,3
+Mykola Pechenizkiy,3
+Shiming Xiang,3
+Zhenming Liu,3
+Alberto Del Bimbo,3
+John Yannis Goulermas,3
+Ananda Theertha Suresh,3
+Ulf Brefeld,3
+Mehmet A. Orgun,3
+Jelena Jovanovic,3
+Kyunghyun Cho,3
+Jie Xu,3
+Francisco J. Liébana-Cabanillas,3
+Arun Rajkumar,3
+Ken C. K. Lee,3
+Indraneel Mukherjee,3
+Chun-Nam Yu,3
+Hsing-Chih Tsai,3
+Giorgio Leonardi,3
+Jean-Marie Lagniez,3
+Daniel Vainsencher,3
+Amit Daniely,3
+Vianney Perchet,3
+Xiaojin (Jerry) Zhu,3
+Michael Wooldridge,3
+Brian Charles Williams,3
+Ahmed Al-Ani,3
+Balakrishnan Narayanaswamy,3
+Christos Anagnostopoulos,3
+Na Dong,3
+René Cumplido,3
+Adeel Mumtaz,3
+Crystal Maung,3
+Anastasios Noulas,3
+Saso Dzeroski,3
+Tapio Frantti,3
+Ehud Rivlin,3
+Alejandro Peña Ayala,3
+Palaiahnakote Shivakumara,3
+Hanzi Wang,3
+Jaesik Choi,3
+Jingxuan Li,3
+Chen Hajaj,3
+Guannan Liu,3
+Rodrigo Fernandes de Mello,3
+Chiyuan Zhang,3
+Jean-Francis Roy,3
+Sehun Kim,3
+Pedro U. Lima,3
+John C. Mitchell,3
+Christopher Zach,3
+Tao Chen,3
+Odemir Martinez Bruno,3
+Jonathan S. Yedidia,3
+M. Bilginer Gülmezoglu,3
+Evan Wei Xiang,3
+Onno Zoeter,3
+David Pfau,3
+Wei-Lun Chao,3
+Juan de Oña,3
+Xiangyu Wang,3
+Marcelino Martínez-Sober,3
+Amy Greenwald,3
+Tengyu Ma,3
+Chang-Dong Wang,3
+Congcong Li,3
+Leliane Nunes de Barros,3
+Yu Cao,3
+Jinwei Gu,3
+Rajesh P. N. Rao,3
+Morteza Alamgir,3
+Myoung-Jong Kim,3
+Yousef Saad,3
+Miles Lopes,3
+J. A. Ortega,3
+Dafna Shahaf,3
+Alan S. Abrahams,3
+Wei-Shinn Ku,3
+Brian Mac Namee,3
+Xi Alice Gao,3
+Hannaneh Hajishirzi,3
+Brandon Malone,3
+Michela Milano,3
+Jingyi Yu,3
+Yajun Wang,3
+Sabine Süsstrunk,3
+Xin Xu,3
+Jia Zeng,3
+Oscar Montiel,3
+Stan Z. Li,3
+Dingyi Han,3
+Mohammed J. Zaki,3
+Qingqi Long,3
+Soumya Ghosh,3
+Albert Gordo,3
+Song Wang,3
+Rajeshwar S. Kadadevaramath,3
+Viet-An Nguyen,3
+Vibhor Rastogi,3
+Daniela Godoy,3
+Cong Yu,3
+Alexis Marcano-Cedeño,3
+Mircea-Bogdan Radac,3
+Jonathan Huang,3
+Mohammad M. Masud,3
+Susan A. Murphy,3
+Yang Yu,3
+Snigdhansu Chatterjee,3
+Raul Baños,3
+Guillaume Alain,3
+Peter Jonsson,3
+Sundararajan Sellamanickam,3
+Xia Hong,3
+Siqi Sun,3
+Colin de la Higuera,3
+Man Ho Au,3
+Xian Wu,3
+Lili Dworkin,3
+Sanjeev Arora,3
+Agus Trisnajaya Kwee,3
+Charless C. Fowlkes,3
+Yuan Jiang,3
+Anil Vullikanti,3
+Quan Z. Sheng,3
+Ying Wah Teh,3
+Haijie Gu,3
+Peng Zhou,3
+Raymond J. Mooney,3
+Bharath Ramsundar,3
+Zhen He,3
+Fernando García,3
+Christopher R. Dance,3
+Yong-Huai Huang,3
+Yong-Bin Kang,3
+Luke Zettlemoyer,3
+Dian Gong,3
+Ashraf Labib,3
+Hao Zhang,3
+Avinatan Hassidim,3
+Jan-Willem van de Meent,3
+Ad Feelders,3
+Shouhong Wang,3
+Hailin Li,3
+Wolfgang Nejdl,3
+Victor R. L. Shen,3
+Hung-Chang Liao,3
+Kai Cao,3
+Vicente García,3
+Marcus A. Brubaker,3
+Tomás Kocák,3
+Martí Navarro,3
+Junbin Gao,3
+Peter Sollich,3
+Nicu Sebe,3
+F. Javier Ortega,3
+Matthew W. Hoffman,3
+Khalid El-Arini,3
+Aharon Ben-Tal,3
+Juan Antonio Ortega-Ramírez,3
+Eric Price,3
+Pankaj K. Agarwal,3
+Azlan Mohd Zain,3
+Yujie He,3
+Hongnian Yu,3
+Ian En-Hsu Yen,3
+Hongliang Yu,3
+Maria Virvou,3
+Hakyeon Lee,3
+Alex Aussem,3
+K. Y. Michael Wong,3
+Amir Hossein Gandomi,3
+Bin Zhang,3
+Yun-Fu Liu,3
+Ankan Saha,3
+Hongmei Chen,3
+E. Ertugrul Karsak,3
+Michael Zhu,3
+Qifan Wang,3
+David Ruano-Ordás,3
+Alexandre d'Aspremont,3
+Elena Baralis,3
+Fan Yang,3
+Jilei Tian,3
+Sinisa Todorovic,3
+Sangkyun Lee,3
+Marcelo Campo,3
+Laurent Najman,3
+Jesmin Nahar,3
+Daniel Zoran,3
+Kunle Olukotun,3
+Xiaojun Chang,3
+Kathryn Roeder,3
+Kevin P. Hwang,3
+Mehmet Sevkli,3
+Umut Öztok,3
+Dae-Ki Kang,3
+Seppe K. L. M. vanden Broucke,3
+Yonatan Halpern,3
+Marius Pachitariu,3
+Aiqing Huang,3
+Edward Moroshko,3
+Francois Caron,3
+Miao Xu,3
+Kuan Yew Wong,3
+Battista Biggio,3
+Yiqun Liu,3
+Richard Yi Da Xu,3
+Simon Setzer,3
+Yap-Peng Tan,3
+Yinzhi Zhou,3
+Luca Calderoni,3
+Feng-xia Fei,3
+Kevin S. McKelvey,3
+Jin Zhang,3
+Jaime Ramírez,3
+Sai Ho Chung,3
+Gautam Kunapuli,3
+Liang Hu,3
+George E. Dahl,3
+Benjamin Letham,3
+César Cáceres,3
+Xiaolin Huang,3
+Rui Araújo,3
+Radoslaw Rudek,3
+Wangren Qiu,3
+Hema Swetha Koppula,3
+Claudia Eckert,3
+Rasaratnam Logendran,3
+Ivo Grosse,3
+Bruno Castro da Silva,3
+Philippe Lenca,3
+Drazen Popovic,3
+Karen Simonyan,3
+Garvesh Raskutti,3
+Javier Salvador Sánchez,3
+Guillermo D. Cañas,3
+Fábio Gagliardi Cozman,3
+Yanwei Fu,3
+Camille Couprie,3
+Lijun Wang,3
+Jasmina Bogojeska,3
+Cindy Xide Lin,3
+Takuya Akiba,3
+Xinyue Liu,3
+Yu Cheng,3
+Chenguang Wang,3
+Adam Fleisher,3
+Jamie Morgenstern,3
+Michel Besserve,3
+Pang-Ning Tan,3
+Matthew Botvinick,3
+Tamir Tassa,3
+Xianghang Liu,3
+Huayou Chen,3
+Fabio Roli,3
+Smriti Bhagat,3
+Francisco G. Montoya,3
+Takashi Kuremoto,3
+Wei Jiang,3
+Pornchai Phukpattaranont,3
+Saehoon Kim,3
+Sergei Vassilvitskii,3
+Mehrtash Tafazzoli Harandi,3
+Qiang Fu,3
+Joel W. Burdick,3
+Vanja Josifovski,3
+Tak W. Yan,3
+Felipe Meneguzzi,3
+Susanne Biundo,3
+Wenxing Hong,3
+Josip Djolonga,3
+Igor Kononenko,3
+Mario Lucic,3
+Leandro Alves Neves,3
+Xiaoyi Li,3
+Jose María Álvarez Rodríguez,3
+Tom Minka,3
+Joohyung Lee,3
+Pier Luca Lanzi,3
+Alyson K. Fletcher,3
+Zhibin Jiang,3
+David W. Hogg,3
+Jinwoo Shin,3
+Lijun Chang,3
+ChangTaek Hyun,3
+Elena Lloret,3
+James Y. Zou,3
+Martin A. Riedmiller,3
+Feng Wu,3
+Byeong-Keun Choi,3
+Canhong Lin,3
+Jyh-Horng Chou,3
+Avelino J. Gonzalez,3
+Russell Bent,3
+Tanya Y. Berger-Wolf,3
+Kedar Bellare,3
+Roman Slowinski,3
+Bin Shen,3
+Matteo Ferrara,3
+Martin Wistuba,3
+Arthur U. Asuncion,3
+Andrew McGregor,3
+Vladimir Ceperic,3
+J. Andrew Bagnell,3
+Kohei Ogawa,3
+Aniruddh Nath,3
+Philipp Geiger,3
+Jun Sun,3
+Ofra Amir,3
+Yin-ju Chen,3
+Cheng Fang,3
+Diego Peteiro-Barral,3
+Pablo M. Granitto,3
+Shobeir Fakhraei,3
+Hengjie Song,3
+Belén Ruíz-Mezcua,3
+Taiki Todo,3
+Jonathan Gratch,3
+Kai Wei,3
+Nikolaos Tziortziotis,3
+Ruben Heradio,3
+Hans-Peter Kriegel,3
+Jiehua Chen,3
+Yingzhen Yang,3
+Vicente Julián,3
+Dominique Decouchant,3
+Shuang Cang,3
+Fangzhen Lin,3
+Brian Litt,3
+Ponnuthurai N. Suganthan,3
+G. S. Mahapatra,3
+Ashish Kumar Bhandari,3
+Purnamrita Sarkar,3
+Marc Sebban,3
+Jason Baldridge,3
+Scott Niekum,3
+Yelong Shen,3
+Jun Zhao,3
+Euiho Suh,3
+Junya Honda,3
+Sérgio M. Dias,3
+Alon Orlitsky,3
+Balaraman Ravindran,3
+Yaliang Li,3
+M. Ghiassi,3
+Jin Kyu Kim,3
+Andreas Argyriou,3
+Qian Zhao,3
+Gui-Rong Xue,3
+Max Vladymyrov,3
+Andrea Pugliese,3
+Mohsen Moghaddam,3
+Ning Zhang,3
+Vahit Kaplanoglu,3
+Alexander Gammerman,3
+Sebastian Riedel,3
+Jagarlapudi Saketha Nath,3
+Wen Gao,3
+Binshan Lin,3
+Hao Hu,3
+Keith C. C. Chan,3
+Guanfeng Liu,3
+Sergio Damas,3
+Akimichi Takemura,3
+Taifeng Wang,3
+Xun Zhou,3
+Rifat Sonmez,3
+Dawei Zhou,3
+Chaochao Chen,3
+Fabio Panozzo,3
+XuanLong Nguyen,3
+Sylvain Arlot,3
+Yue Wu,3
+Shuyang Lin,3
+Chris J. Maddison,3
+Marc E. Maier,3
+Shaohua Tan,3
+Zengqiang Chen,3
+János Abonyi,3
+Mikhail Bilenko,3
+Babak Khosravifar,3
+Gui-Wu Wei,3
+Furong Huang,3
+Xiaokang Yang,3
+Maksims Volkovs,3
+Bala Rajaratnam,3
+Peng Liu,3
+Zhi Qiao,3
+Weiming Shen,3
+Wei Wan,3
+Toby Hocking,3
+Stephen Boyd,3
+Shaoping Ma,3
+Vikas Kumar,3
+Salvador García,3
+XiaoJian Wu,3
+Yuancheng Zhu,3
+Zhenlin Wang,3
+Xiaoran Yan,3
+Defu Lian,3
+Sayan Ranu,3
+Chih-Hung Wu,3
+Jeongsoo Lee,3
+Jian Cao,3
+Aswin Raghavan,3
+Richard T. Snodgrass,3
+Tasadduq Imam,3
+Alice H. Oh,3
+Arturo de la Escalera,3
+Mohammad Hossein Rohban,3
+Alexandros André Chaaraoui,3
+Jose Manuel Zurita,3
+Kaleem Siddiqi,3
+Zhang Xiong,3
+Suk-Ho Kang,3
+Alina Ene,3
+Kevin Chen-Chuan Chang,3
+Kiyohito Nagano,3
+Younghoon Kim,3
+Hachem Kadri,3
+Rongjian Li,3
+Sarah S. Lam,3
+Jonathan Masci,3
+Xiaolin Zheng,3
+Arkadi Nemirovski,3
+John Collins,3
+Arnaud Doucet,3
+Alexandre Lacoste,3
+Michael M. Bronstein,3
+Inmar E. Givoni,3
+Fariborz Jolai,3
+David Martínez-Rego,3
+Ronan LeBras,3
+Ioannis P. Vlahavas,3
+Liang Lan,3
+Jörg Sander,3
+Zhaojun Zhang,3
+Fabrizio Riguzzi,3
+Marco Cristani,3
+Erol Egrioglu,3
+Faisal Kamiran,3
+Chris Hinrichs,3
+Rainer Gemulla,3
+María Pérez-Ortiz,3
+Esin Dogantekin,3
+Amir Hussain,3
+George K. Georgoulas,3
+Trevor J. Hastie,3
+José Jaime Ruz,3
+Hyun Woo Byun,3
+Da Ruan,3
+Peiquan Jin,3
+M. Hariharan,3
+Orlando Durán,3
+Cheng-Jian Lin,3
+Azzam Mourad,3
+Kevin Chiew,3
+Noah Lee,3
+Zhaohui Wu,3
+Mohamed S. Kamel,3
+Shiqian Ma,3
+Suresh K. Bhavnani,3
+Gunhee Kim,3
+William Stafford Noble,3
+Wai Lam Hoo,3
+Kirill Trapeznikov,3
+Zhenfeng Zhu,3
+Guimei Liu,3
+Bum-Shick Shin,3
+Eli Upfal,3
+Patricia Iglesias Sanchez,3
+J. Maiti,3
+Ali Moeini,3
+Michael A. Gelbart,3
+Stephen Lin,3
+Masanao Obayashi,3
+Cheol Min Joo,3
+Tsuyoshi Idé,3
+Burkay Orten,3
+A. Srinivasa Reddy,3
+Chih-Ya Shen,3
+Komate Amphawan,3
+Søren Hauberg,3
+Thanh Hong Nguyen,3
+Prashant P. Reddy,3
+Paul Compton,3
+Garth A. Gibson,3
+Marc Lelarge,3
+Weicong Ding,3
+Stefan Preitl,3
+Mingdong Ou,3
+Lu Zheng,3
+Lars Kai Hansen,3
+Kustaa Kangas,3
+Yanan Cao,3
+Hong Qiao,3
+Ruitong Huang,3
+Massimo Tronci,3
+Tomasz P. Michalak,3
+Wentao Fan,3
+Evaldas Vaiciukynas,3
+Mario Fritz,3
+Jun-Seok Kim,3
+Pan Du,3
+Elizabeth S. Burnside,3
+Vishnu Naresh Boddeti,3
+Jia-Huai You,3
+Lloyd Allison,3
+Anthony S. Atkins,3
+Pierre-Yves Oudeyer,3
+Trung Thanh Nguyen,3
+Antonino Freno,3
+Hyungsul Kim,3
+Terrance E. Boult,3
+Lei Ji,3
+Robert Chen,3
+Bo Xie,3
+Bo Xin,3
+Dik Lun Lee,3
+Fei Fang,3
+Zhaoshi Meng,3
+Lena Zentner,3
+Jianfei Chen,3
+Roberto Sepúlveda,3
+Trapit Bansal,3
+Raviv Raich,3
+S. Ramathilagam,3
+Dimitrios M. Thilikos,3
+Hiroaki Sasaki,3
+Rong Pan,3
+Jimmy S. J. Ren,3
+Hsu-Yang Kung,3
+Mingxuan Sun,3
+Félix Biscarri,3
+Stéphane Marchand-Maillet,3
+Stefan Edelkamp,3
+Vladimir Vapnik,3
+Jessica Davies,3
+Joseph K. Bradley,3
+Ricardo Silveira Cabral,3
+Kweku-Muata Osei-Bryson,3
+Xue Liu,3
+Matti Pietikäinen,3
+Stacy Marsella,3
+Joshua Ignatius,3
+Christopher Durugbo,3
+Rosalía Laza,3
+Clément Farabet,3
+Robert Nishihara,3
+Do-kyum Kim,3
+Jacob Scharcanski,3
+Long Jiang,3
+C. C. Alan Fung,3
+Toon Calders,3
+Jesse Hoey,3
+Lubor Ladicky,3
+Atish Das Sarma,3
+Michael Nett,3
+Adnan Baki,3
+Wee Siong Ng,3
+Yüksel Özbay,3
+Shivaram Kalyanakrishnan,3
+Bo Thiesson,3
+Marloes H. Maathuis,3
+Bhiksha Raj,3
+George J. Vachtsevanos,3
+Asil Oztekin,3
+Xiaohui Shen,3
+David Fernández-Amorós,3
+Eric Moulines,3
+Ludmila I. Kuncheva,3
+Yongmoo Suh,3
+Paul Mineiro,3
+Evgeniy Gabrilovich,3
+Lee-Hsuan Lin,3
+Rossitza Setchi,3
+Juan F. Jiménez,3
+Jason Chang,3
+Wei Zeng,3
+Hyejin Park,3
+Long Tran-Thanh,3
+Ifeoma Nwogu,3
+Tamraparni Dasu,3
+Changyong Lee,3
+Chris J. Kuhlman,3
+Alessandro Chiuso,3
+Tomasz Trzcinski,3
+Michael K. Schwartz,3
+Alan Malek,3
+Dimitrios Gunopulos,3
+Mantas Simkus,3
+Souhaib Ben Taieb,3
+Jérôme Lang,3
+Krishna V. Shenoy,3
+Adriano L. I. Oliveira,3
+Han Yu,3
+James M. Robins,3
+Oren Rippel,3
+Pradeep Ravikumar,3
+Fan-Chen Tseng,3
+Xiaowei Huang,3
+Yun Zhou,3
+C. Mario Christoudias,3
+Ligang Zhou,3
+José Ramón Cano,3
+Gizem Çifçi,3
+Moritz Hardt,3
+Jian Chen,3
+Fabian Hadiji,3
+Mirna Issa,3
+Wenchao Yi,3
+Peter D. Grünwald,3
+Jingjing Wang,3
+Cees Witteveen,3
+Alexander S. Poznyak,3
+Ozan Kocadagli,3
+Cheng-Hao Tsai,3
+Carlos Alberto Flesch,3
+Syama Sundar Rangapuram,3
+Yifan Fu,3
+Josep M. Tormos,3
+Katsushi Ikeuchi,3
+Philip Resnik,3
+Chenlei Leng,3
+Goran Radanovic,3
+Charles Elkan,3
+Boris Lesner,3
+Mohammad Al Hasan,3
+U. Rajendra Acharya,3
+Paul Beame,3
+Kshitij Judah,3
+Sophie Denève,3
+Murat Sensoy,3
+Bin He,3
+Myunghwan Kim,3
+Ce Zhang,3
+Lingqiao Liu,3
+Cosma Rohilla Shalizi,3
+Shunsheng Guo,3
+Mehdi Samadi,3
+Jolly Puri,3
+Qinli Yang,3
+Bilal Piot,3
+Daniel Russo,3
+Aijun An,3
+Venu Govindaraju,3
+Hao Lin,3
+Volker Tresp,3
+Frederik Hogenboom,3
+Edwin R. Hancock,3
+S. I. Lao,3
+Peter Sunehag,3
+Vijil Chenthamarakshan,3
+Raghu Ramakrishnan,3
+Chengxiang Zhai,3
+José Luis López Cuadrado,3
+Cheng-Te Li,3
+José Cristóbal Riquelme Santos,2
+Kuo-Chen Hung,2
+Ohad Ben-Shahar,2
+Stefano Lonardi,2
+B. García-Domingo,2
+Dimitris Achlioptas,2
+Syaheerah L. Lutfi,2
+Jan Ramon,2
+Linda Kato,2
+Scott Kuindersma,2
+Ling-Yuan Hsu,2
+Weixuan Xu,2
+Georg Krempl,2
+Emilio Esposito,2
+Larisa Shwartz,2
+Serhat Selcuk Bucak,2
+Chih-Hung Jen,2
+Arkaitz Zubiaga,2
+Alexander Artikis,2
+Shu Wu,2
+Ravi Shankar,2
+Daniel Bartz,2
+Machiko Toyoda,2
+Kee-Sung Lee,2
+Jerome Yen,2
+Yuya Yoshikawa,2
+Hung H. Bui,2
+Babak Shakibi,2
+Jeffrey W. Miller,2
+Gunnar Kedenburg,2
+Robi Polikar,2
+Kyoung-Yun Kim,2
+Yiannis Verginadis,2
+Hongbin Yan,2
+Nathan Parrish,2
+Brian McWilliams,2
+Varun R. Embar,2
+Yannig Goude,2
+Boyang Li,2
+Ying Wen,2
+James Cox,2
+Ilan Shimshoni,2
+Haifeng Chen,2
+Ikumi Suzuki,2
+David García-Soriano,2
+Tze-Yun Leong,2
+Yen-Lin Chen,2
+Deqing Sun,2
+Mohammad Babaesmailli,2
+Elankovan Sundararajan,2
+Jia Li,2
+Rudinei Martins de Oliveira,2
+Shao-I. Chiu,2
+Yanbing Ju,2
+Hoyoung Jeung,2
+Charles Mathy,2
+Zhe Fan,2
+Jouni Lampinen,2
+Wen-Hwa Liao,2
+Ayan Acharya,2
+Claudia Feregrino Uribe,2
+Á. Pastor-Sánchez,2
+Hongyu Guo,2
+Danqi Chen,2
+Chieh-Yuan Tsai,2
+Ioana Mihu,2
+Anderson Ara,2
+Vural Aksakalli,2
+Namho Lee,2
+José Manuel Benítez,2
+Albert-László Barabási,2
+Hongbin Kim,2
+Wei-Ying Ma,2
+Pinar Tapkan,2
+Zhonghui Wang,2
+Alejandro Fernández-Montes,2
+P. Thomas Fletcher,2
+Jose Soria,2
+Ramazan Sahin,2
+Chun-Ho Wu,2
+Sheeraz Ahmad,2
+Rui Ding,2
+Vishy Karri,2
+Wenhao Zhang,2
+Ruiguang Hu,2
+Jurgen Van Gael,2
+Lefei Zhang,2
+Warda El Kholy,2
+Blaine Nelson,2
+Matthew T. Harrison,2
+Alfredo Muñoz-Briseño,2
+Ziyan Wu,2
+Xin Geng,2
+Sathappan Muthiah,2
+Luis M. Álvarez-Sabucedo,2
+D. Marlow,2
+Scott McCloskey,2
+Liang Liang,2
+Roger Frigola,2
+Erik Dovgan,2
+Ramiro Concepción,2
+Paulo César Cortez,2
+Andrew R. Mills,2
+Ho-fung Leung,2
+Junho Shim,2
+Xuemei Zhao,2
+Noam Hazon,2
+John M. Gregoire,2
+Sam Patterson,2
+Zahid Pervaiz,2
+Xin Yu,2
+Manish Kumar Goyal,2
+Fei Zheng,2
+Makrufa S. Hajirahimova,2
+Prasoon Goyal,2
+Hongtao Lu,2
+Shide Sadat Hashemi,2
+Wesley Nunes Gonçalves,2
+Chiung-Tsiung Liu,2
+Alexandros Ntoulas,2
+Ralph Birkenhead,2
+M. Hidayath Ansari,2
+Qiong Wu,2
+Animesh Mukherjee,2
+Chad Scherrer,2
+Javed A. Aslam,2
+Chulin Likasiri,2
+Xavier Bresson,2
+Yaoyao He,2
+Antonio Hernando,2
+Andreas Karwath,2
+Chien-Hua Lee,2
+Pierre Machart,2
+Zhiping Gu,2
+Jun Ni,2
+Debing Zhang,2
+Quanhong Jiang,2
+Youngjung Geum,2
+Xiao Jiang,2
+Geetha Sivaraman,2
+Gerben Klaas Dirk de Vries,2
+Marcos R. S. Borges,2
+Jennifer D'Souza,2
+Bryan R. Gibson,2
+Ilias Flaounas,2
+Claude-Guy Quimper,2
+Feng Tang,2
+Jennifer Elisabeth Buehler,2
+Christer Bäckström,2
+Saman Hassanzadeh Amin,2
+Allen Lavoie,2
+Man Lan,2
+Xiaomin Fang,2
+Saurabh Kataria,2
+Yantao Jia,2
+Evan A. Krause,2
+Nikolaos A. Laskaris,2
+Senzhang Wang,2
+Chao Yuan,2
+Christian Albers,2
+Llanos Mora López,2
+Pedro Martins,2
+Thomas Geier,2
+Chun-Che Huang,2
+Amit Kumar,2
+Victor B. Kreng,2
+Jialin Zhang,2
+Jaakko Riihimäki,2
+Debarun Bhattacharjya,2
+Konstantin Voevodski,2
+Guillem Rigaill,2
+Nadia Payet,2
+Umut Orhan,2
+Ernesto C. Martínez,2
+Dietmar Jannach,2
+Roger Longbotham,2
+Kai-Leung Yung,2
+Shirin Sohrabi,2
+Mansour Zarrin,2
+Wamberto Weber Vasconcelos,2
+Denis Borenstein,2
+Juan Sánchez-Fernández,2
+Keli Xiao,2
+Bruno Pelletier,2
+Farid Melgani,2
+Martin C. Cooper,2
+Wei Fang,2
+Zoran Budimac,2
+Nikolaos Papanikolopoulos,2
+Xaq Pitkow,2
+Susana M. Vieira,2
+Komal Kapoor,2
+Levi Lelis,2
+Baoping Cai,2
+Yang Bao,2
+Noam Brown,2
+Ondrej Kuzelka,2
+Kuei-Hu Chang,2
+Sergey Kirshner,2
+Pedro Pedrosa Rebouças Filho,2
+Zhanhao Xiao,2
+Baining Guo,2
+Dejan Rancic,2
+Zhongwu Zhai,2
+Ranulfo Romo,2
+Chuanxi Zhu,2
+Gerhard-Wilhelm Weber,2
+A. Golmohammadi,2
+Justin Pearson,2
+Zitao Liu,2
+Jasjit S. Suri,2
+Mark James Carman,2
+James V. Burke,2
+Sanjoy K. Mitter,2
+Hastagiri P. Vanchinathan,2
+Andrzej Handkiewicz,2
+Hakan Ferhatosmanoglu,2
+Klaus Pawelzik,2
+Jinqiu Hu,2
+Xingye Qiao,2
+Peng-Jui Tseng,2
+Minhoe Huh,2
+Bolei Zhou,2
+Wojciech Marian Czarnecki,2
+Hoang Chi Thanh,2
+Bryan Kian Hsiang Low,2
+Sang-Hyeun Park,2
+Beihong Jin,2
+Rahul Savani,2
+Jeongsam Yang,2
+Wanli Zuo,2
+Rustam M. Vahidov,2
+Jafar Razmi,2
+Viet Cuong Nguyen,2
+Suk Jun Lee,2
+Alex Pentland,2
+Yong Li,2
+Paolo Frasconi,2
+Emerson Cabrera Paraiso,2
+Gregory R. Ganger,2
+Benno Stein,2
+Sohan Seth,2
+Jacob W. Crandall,2
+Rami Al-Hmouz,2
+Joan Albert López-Vallverdú,2
+Qin Lv,2
+Aaron Clauset,2
+Min Xie,2
+P. Hernández,2
+Jing Zhao,2
+Daniel Soudry,2
+Rubén San Segundo,2
+Vahid Golmah,2
+Keun Ho Ryu,2
+Jun-Shuw Lin,2
+Yingxia Shao,2
+Xiaohui Yan,2
+Xudong Lu,2
+Ruixuan Li,2
+Deqing Wang,2
+Stanley H. Chan,2
+Stefan J. Witwicki,2
+Seung-kyung Lee,2
+Tea Tusar,2
+Anthony Wirth,2
+Pedro M. Q. Aguiar,2
+Andrés Ortiz,2
+Ricardo Bezerra de Andrade e Silva,2
+Khurram Shehzad,2
+Fan-Yun Pai,2
+Ji Meng Loh,2
+Santiago Muelas,2
+Joey Tianyi Zhou,2
+Wenxin Liang,2
+Christopher J. Pal,2
+Thanh Tran,2
+Shan Jiang,2
+Paul Wagner,2
+Yongdong Zhang,2
+Linpeng Tang,2
+Sang-Sung Park,2
+Niklas Lavesson,2
+Vera Hofer,2
+Priyank Thakkar,2
+Bi-Min Hsu,2
+Silvia Villa,2
+Pietro Cerri,2
+Wenjia Niu,2
+Athman Bouguettaya,2
+Pawel Sniatala,2
+Jakob J. Verbeek,2
+Emanuele Menegatti,2
+Ali Punjani,2
+Nicolas Drougard,2
+Emilio Serrano,2
+Mustafa Bilgic,2
+Wen Lea Pearn,2
+Changbo Zhu,2
+Keke Chen,2
+Stephen Pasteris,2
+Lukasz Kaiser,2
+Chun-Liang Li,2
+Motonobu Kanagawa,2
+Trong Hai Duong,2
+Weihao Kong,2
+Dorothy Ndedi Monekosso,2
+Yuhai Zhao,2
+Steven M. LaValle,2
+Yusuke Sugano,2
+Asim Karim,2
+Aviv Zohar,2
+Otto Cerman,2
+Uri Heinemann,2
+Thanh-Lam Nguyen,2
+Zhenfeng Yuan,2
+Ashwinkumar Badanidiyuru,2
+Xiaoyi Jiang,2
+Alper Kursat Uysal,2
+Jose Santamaría,2
+Maciej Jaworski,2
+Trevor Campbell,2
+Lingpo Li,2
+Dong Yu,2
+Rachel Ward,2
+Carlos Blanco,2
+Shirley Ho,2
+Yuping Wang,2
+Ziwei Huo,2
+Ming-Yen Chen,2
+Bernabé Linares-Barranco,2
+Ece Kamar,2
+Eva Onaindia,2
+Du Tran,2
+Shafiqul Islam,2
+Guang-Tong Zhou,2
+Pedro J. Muñoz Merino,2
+Jui-Pin Wang,2
+Richardson Ribeiro,2
+Nakul Verma,2
+Asaf Shabtai,2
+Carlo Vercellis,2
+Yucheng Low,2
+Haijin Fan,2
+Li Pheng Khoo,2
+Daoqiang Zhang,2
+Zongyang Ma,2
+Brian D. Davison,2
+Olga Veksler,2
+Ling Yan,2
+Thomas Deselaers,2
+R. Paliskiene,2
+Sergio Rodríguez-Vaamonde,2
+Ming Yin,2
+Nithin V. George,2
+Jian Huang,2
+Nagiza F. Samatova,2
+Tsutomu Hirao,2
+Víctor Gutiérrez-Basulto,2
+Richang Hong,2
+Christian Szegedy,2
+Priscilla Alpízar,2
+Satoru Iwata,2
+Sushil Mittal,2
+Guoqiang Zhong,2
+Yeqing Li,2
+Shiliang Sun,2
+Dickson K. W. Chiu,2
+Thang N. Dinh,2
+Diane Oyen,2
+Yekeun Jeong,2
+Jean-Loup Farges,2
+Oliver Niggemann,2
+Qinghua Zheng,2
+Christos D. Tarantilis,2
+Duc-Son Pham,2
+Wei-Lan Suo,2
+Kah Phooi Seng,2
+Shaoxu Song,2
+Kui Tang,2
+Robert Moskovitch,2
+Andrew Longstaff,2
+Michael J. Franklin,2
+Paulo Félix,2
+David F. Barrero,2
+Yuanhua Lv,2
+Adriana Santarosa Vivacqua,2
+Julian Yarkony,2
+Rui Abreu,2
+Tai Sing Lee,2
+Rie Johnson,2
+Chuck Zhang,2
+Ashok N. Srivastava,2
+Takeo Kanade,2
+Hyoung-Joo Kim,2
+Paul M. Thompson,2
+Takeshi Yamada,2
+Mark Klein,2
+David Miller,2
+Kevin Small,2
+Haoqi Zhang,2
+Martin Chmelik,2
+Biswajeet Pradhan,2
+Nicola Di Mauro,2
+Mehdi Bijari,2
+Dianhuan Lin,2
+Chuan Shi,2
+Alejandro Pazos,2
+Sumit Basu,2
+John Bertetto,2
+Amip Shah,2
+Zhao Song,2
+My T. Thai,2
+Ignacio Araya,2
+Lei Xu,2
+Peter Karsmakers,2
+Fu-Kwun Wang,2
+Rosa Chaves,2
+Timothée Cour,2
+Lek-Heng Lim,2
+Saptarshi Mandal,2
+Cèsar Ferri Ramirez,2
+Miriam Clemente,2
+Mingzhi Dong,2
+Xiao Yang,2
+Feng Zhao,2
+Ramón Ferreiro García,2
+Anton Trpin,2
+Shahriar Shariat,2
+Simon Urbanek,2
+Xiuzhen Zhang,2
+Amit K. Roy-Chowdhury,2
+Krishnamurthy Dvijotham,2
+Cheston Tan,2
+Einoshin Suzuki,2
+Mohamed Daoudi,2
+Qian Xiao,2
+David Uminsky,2
+Sam Regenbogen,2
+Yuichi Takano,2
+Jean-Jacques E. Slotine,2
+Bin Feng,2
+Andrew Mao,2
+Umut A. Acar,2
+Takuro Fukunaga,2
+Dong Huang,2
+Daby M. Sow,2
+Fatimah Ibrahim,2
+Norberto Fernández García,2
+Yunhao Liu,2
+Iván García-Magariño,2
+Kurniawan Tanuwijaya,2
+Abhishek Gupta,2
+Yasuhiro Sogawa,2
+Ian E. Perera,2
+Keren Fu,2
+Frans Adriaan Oliehoek,2
+Pavel P. Kuksa,2
+Etsushi Fujita,2
+Nimar S. Arora,2
+Qichao Que,2
+Lei Zou,2
+Daniel Fuentes,2
+Shen-Lung Tung,2
+Piedad Garrido,2
+M. Emin Emiroglu,2
+Sinisa Srbljic,2
+Feyzullah Temurtas,2
+Hossein Hamooni,2
+Minsuk Kahng,2
+Kevin S. Xu,2
+Christoph Redl,2
+Xiaofei Xu,2
+Soheil Davari,2
+Stephen N. Robinovitch,2
+Guo H. Huang,2
+Bongseok Kim,2
+Siddhartha S. Srinivasa,2
+Haim Sompolinsky,2
+Shuhui Wang,2
+Graham Kendall,2
+Reza Jafari,2
+Gonzalo A. Ruz,2
+Yongke Yuan,2
+Patrick H. S. Brito,2
+Federico Barrero,2
+Hanna Kamyshanska,2
+Wei Ping,2
+Ioan Dumitrache,2
+Dongwoo Kim,2
+Hassen Drira,2
+Ali Shojaie,2
+Han Zhao,2
+Neel Sundaresan,2
+Ali Fuat Güneri,2
+Vicente J. Botti,2
+Quanming Yao,2
+Jae-Yoon Jung,2
+Navid Zolghadr,2
+Gyunyoung Heo,2
+Yo-Sub Han,2
+Misael Mongiovì,2
+Shree K. Nayar,2
+Qiang Lou,2
+Kun He,2
+Ani Nenkova,2
+Peng Xiao,2
+Wenyin Tang,2
+Shengcai Liao,2
+Hannu Toivonen,2
+Paris Smaragdis,2
+Matthew J. Streeter,2
+Sven Behnke,2
+Seong-Hwan Jun,2
+Christoph Dann,2
+Georg M. Goerg,2
+Maria Fox,2
+Jae Pil Hwang,2
+Amrita Saha,2
+Byoungsoo Kim,2
+T. K. Satish Kumar,2
+Emanuele Gatti,2
+Kai Liu,2
+Lihi Zelnik-Manor,2
+Jesús S. Aguilar-Ruiz,2
+Nikos Komodakis,2
+Yunliang Jiang,2
+Jing Lei,2
+Dimitrios Settas,2
+Alan Ritter,2
+Georgia Koutrika,2
+Chi-Hyuck Jun,2
+Vincent F. Yu,2
+Chris D. Nugent,2
+Xiangyang Wang,2
+Ernest Monga,2
+François Schnitzler,2
+Ophir Frieder,2
+Youfang Huang,2
+Qianlu Lin,2
+Chang Eun Kim,2
+Raffaele Scuderi,2
+Tao Yang,2
+Fuzheng Zhang,2
+Beatriz López,2
+Mourad Abed,2
+Frédéric Chazal,2
+Guang Ling,2
+Yanyan Du,2
+Klemo Vladimir,2
+Omer Levy,2
+Kenneth D. Lawrence,2
+Sungho Mun,2
+Jens Teubner,2
+Chien-Lung Hsu,2
+Jesper Haga,2
+William Austin Webb,2
+Shih-Fen Cheng,2
+Thomas Martin McGinnity,2
+John C. Platt,2
+Jian Yu,2
+Alok Watve,2
+Naoto Ohsaka,2
+Carme Torras,2
+Miguel Reboiro-Jato,2
+Wenxiang Gu,2
+Francisco Jurado,2
+Eulalia Martínez,2
+Masakazu Ishihata,2
+Anthony D. Joseph,2
+Zohar Feldman,2
+Francisco Ortega,2
+Liangxiao Jiang,2
+Osvaldo Cairó,2
+Pankaj Gupta,2
+Zhao Li,2
+Yalou Huang,2
+Li-Chen Fu,2
+Erez Karpas,2
+Bruno Crémilleux,2
+Thomas Furmston,2
+Jafar Habibi,2
+Dongmei Zhang,2
+Tariq Mahmood,2
+Ruili Wang,2
+E. W. T. Ngai,2
+Nikolay Laptev,2
+Kosuke Kato,2
+Caihua Wu,2
+Palma London,2
+Minghu Ha,2
+Yaxin Bi,2
+Shahram Sarkani,2
+Tamara Menichini,2
+Muhammed Uluyol,2
+Miguel A. Salido,2
+Mohammad Reza Meybodi,2
+Nenad Bjelic,2
+Ramin Keivani,2
+Woosang Lim,2
+Andrew B. Goldberg,2
+Paul Wilkin,2
+Gordon Briggs,2
+W. T. Lin,2
+Zhenying He,2
+Zhongang Qi,2
+Raj Bhatnagar,2
+Ramesh Johari,2
+Liping Jing,2
+Yücel Saygin,2
+Gerhard Weiss,2
+Jan Mendling,2
+María José Rupérez,2
+Guang Dai,2
+Nicolas Schilling,2
+Mehreen Saeed,2
+Sheng Xu,2
+Matthew Lawlor,2
+Andrés Ubeda,2
+Scott W. Linderman,2
+Jianping Li,2
+Sihem Amer-Yahia,2
+Tingyang Xu,2
+Narayanan Unny Edakunni,2
+Olcay Taner Yildiz,2
+Michael Mateas,2
+Zongzhang Zhang,2
+María Dolores Martínez Miranda,2
+Jinn-Tsair Teng,2
+Johan de Kleer,2
+Pedro Pereira Rodrigues,2
+Mojdeh Nasir,2
+Simone Romano,2
+Guillermo Ayala,2
+Gerald Tesauro,2
+Sebastián Lozano,2
+Pierre Roy,2
+Sophie Lèbre,2
+Shanika Karunasekera,2
+Yi Wei,2
+Zoltan Kato,2
+Kevin Waugh,2
+G. Nilay Yücenur,2
+Hao Zhou,2
+Rong Yan,2
+Tao Zeng,2
+Han-Saem Park,2
+Stephen H. Muggleton,2
+Anna Drummond,2
+Youngdoo Son,2
+Marial del Carmen Pegalajar Jiménez,2
+Pablo Musé,2
+Georgios D. Evangelidis,2
+Thomas Bühler,2
+Muh-Cherng Wu,2
+Joost van de Weijer,2
+Karl Rohe,2
+Iván Gómez-Conde,2
+Mark Girolami,2
+Amir Hesam Salavati,2
+Ashish Goel,2
+Yueh-Ling Lin,2
+Reza Zafarani,2
+Diego Álvarez-Estévez,2
+Ke Zhang,2
+Stephen D. Scott,2
+Max Zwiessele,2
+Shivnarayan Patidar,2
+Jie Yuan,2
+Wei Gao,2
+Alessandro Farinelli,2
+Ivan Marsic,2
+Ashkan Jafarpour,2
+Yuanyuan Mi,2
+Giorgio Fumera,2
+David Buttler,2
+S. Gopal,2
+Brian Logan,2
+Yaniv Tenzer,2
+Juan Gómez-Romero,2
+Joris Renkens,2
+Athasit Surarerks,2
+Chun-sheng Wang,2
+Tom Chao Zhou,2
+Rodrigo Y. M. Nakamura,2
+Antonio García-Domínguez,2
+Rujing Wang,2
+Nemanja Spasojevic,2
+Adams Wai-Kin Kong,2
+Deborah F. Cook,2
+Vuk Malbasa,2
+Subhash Suri,2
+Nicolás Della Penna,2
+Tim Roughgarden,2
+Lazhar Labiod,2
+Robert Edgar Felix Piro,2
+Emery N. Brown,2
+Rachid Belaroussi,2
+Michael Mathioudakis,2
+Yutao Zhang,2
+Pyung Moon,2
+Alain Hauser,2
+Shoushun Chen,2
+S. M. Hosseini,2
+Micheline Bélanger,2
+Mark J. Embrechts,2
+Hui-Ming Wee,2
+Jenni Pulkkinen,2
+Faisal Al-Saqqar,2
+Hartmut Neven,2
+Hong Huang,2
+Chun-Hsien Chen,2
+Josep Carmona,2
+Shyue-Liang Wang,2
+Xuemei Liu,2
+Wenjie You,2
+Lifang He,2
+Adam M. Packer,2
+Masahito Kurihara,2
+Kanaan A. Faisal,2
+Hsu-Hao Tsai,2
+Olcay Kursun,2
+Anna Choromanska,2
+Daryl Lim,2
+Wil M. P. van der Aalst,2
+Paolo Viappiani,2
+Mohamed F. Mokbel,2
+Sai Kit Yeung,2
+Arman Khadjeh Nassirtoussi,2
+Martin Ehler,2
+Mohsen Bayati,2
+Tomohiro Ando,2
+Eun-Sung Chung,2
+Akihisa Sonoda,2
+Gary B. Huang,2
+Sungjin Im,2
+Yanshan Xiao,2
+Mu Zhou,2
+Franco Turini,2
+Mohammad R. Homaeinezhad,2
+Pavlos Kefalas,2
+Heyan Huang,2
+Arno Solin,2
+Falk Lieder,2
+Rémi Cuingnet,2
+Abhinav Saxena,2
+Zhishan Guo,2
+Wen-Shiung Lee,2
+Bartolomeo Cosenza,2
+Samir Khrais,2
+Tien Trong Nguyen,2
+Huseyin Polat,2
+Dongxiang Jiang,2
+Peter Liu,2
+Eric Timmons,2
+David W. Aha,2
+Iztok Perus,2
+Ran Xu,2
+Hugh Durrant-Whyte,2
+Thomas Moscibroda,2
+Hsiu-Yuan Hu,2
+Mehdi Khashei,2
+Fernando Ortega,2
+Joseph Sarkis,2
+Chrysostomos D. Stylios,2
+Mark Hasegawa-Johnson,2
+Kam-yiu Lam,2
+Peter J. Ramadge,2
+Dumitru Erhan,2
+Shuai Ma,2
+Hussain Shareef,2
+Eric Chang,2
+Pierre Moulin,2
+Paul D. McNicholas,2
+S. Venkatesh,2
+Mingxin Gan,2
+José Maria Azorín,2
+Changhai Zhang,2
+Jarno Vanhatalo,2
+Yun Chi,2
+John A. Carroll,2
+Hong Gu,2
+Pravin P. Patil,2
+Y. C. Wu,2
+S. Y. S. Leung,2
+Andreas Fischer,2
+Jost Tobias Springenberg,2
+George H. Chen,2
+Huiyong Cui,2
+Margot Lhommet,2
+Chee-Kong Chui,2
+Markus Kalisch,2
+Minyi Guo,2
+Nir Pochter,2
+Ankur Teredesai,2
+Sahil Shah,2
+Jiaxiang Wu,2
+Amir Hossein Alavi,2
+Giulio Rossetti,2
+Kristiaan Pelckmans,2
+Ronan Le Bras,2
+Adler J. Perotte,2
+Mirella Lapata,2
+Graham Williams,2
+Andrew Miller,2
+Mario Enea,2
+Shun-Sheng Wang,2
+Stefan Lessmann,2
+Rod Hook,2
+Michel Pasquier,2
+Chengrong Wu,2
+Sinead A. Williamson,2
+Phillip B. Gibbons,2
+Turker Ince,2
+Miroslav Radovanovic,2
+Kafui Dzirasa,2
+Chien-Ju Ho,2
+Efendi N. Nasibov,2
+David R. Hardoon,2
+Junae Kim,2
+Ali Ghaffari,2
+Marzyeh Ghassemi,2
+Daniel Olsher,2
+Richard M. Jiang,2
+Omar Abdel Wahab,2
+Yuxiong He,2
+Takeshi Kurashima,2
+Abdullah Saeed Balamash,2
+M. A. Hannan,2
+Sangun Park,2
+Zheng-Jun Zha,2
+Francisco Jesús Martínez-Murcia,2
+Curtis R. Pickering,2
+Liqiang Nie,2
+Heejung Lee,2
+Jiashun Jin,2
+Jiangchuan Zheng,2
+Andreas P. Streich,2
+Laibin Zhang,2
+Y. Wang,2
+Sebastian Raubach,2
+Yonatan Aumann,2
+Carlos P. Barros,2
+Barbara Caputo,2
+Reshad Hosseini,2
+Armen E. Allahverdyan,2
+Meng-Hui Lim,2
+Marco Rospocher,2
+Seongkeun Park,2
+Chang Ouk Kim,2
+Zheng-Ming Ge,2
+Cem Tekin,2
+Nahla Ben Amor,2
+Qin-Fen Shi,2
+Chien-Chih Wang,2
+Shang-Hua Teng,2
+Jussi Hakanen,2
+Amelia Zafra,2
+Voon-Hsien Lee,2
+David Tolpin,2
+Nguyen Tho Thong,2
+Federico Cismondi,2
+B. Pourvalikhan Nokhandan,2
+T. C. Wong,2
+Jorge L. V. Barbosa,2
+Joseph Tassarotti,2
+Azadeh Khaleghi,2
+Ming Yuan,2
+Varun Aggarwal,2
+Jin Tang,2
+Yacine Jernite,2
+David C. Hogg,2
+Farshad Almasganj,2
+Jingbo Shang,2
+Elena Gaudioso,2
+Jae-Sung Lee,2
+Jiaqi Yan,2
+Pranay Anchuri,2
+Dario García-García,2
+Hector J. Levesque,2
+Shuigeng Zhou,2
+Xiuli Ma,2
+Hyea Kyeong Kim,2
+Xu Zhang,2
+Bo Gao,2
+Gergely Ács,2
+Bing Xu,2
+Carlos Iván Chesñevar,2
+Arvind Ganesh,2
+Anders Martinsson,2
+Dinh Quang Truong,2
+Chao-Ton Su,2
+Ebrahim Bagheri,2
+Diego Salas-Gonzalez,2
+Suin Kim,2
+Wentong Li,2
+Huiqing Li,2
+Tobias Lang,2
+Gülgün Kayakutlu,2
+Javier de Andrés,2
+S. R. Kannan,2
+Kanchana Sethanan,2
+Yu Nishiyama,2
+Jane Yung-jen Hsu,2
+Agim Ballvora,2
+Yu-Cheng Lee,2
+Véronique Hoste,2
+Omer Weissbrod,2
+Michael Caldwell,2
+Raghuraman Gopalan,2
+Jeng-Shyang Pan,2
+Xintao Wu,2
+Joel Z. Leibo,2
+Francisco Javier Cabrerizo,2
+José Luis Aznarte,2
+Tony Tung,2
+Arash Afkanpour,2
+Amit Adam,2
+Zhanshan Li,2
+Jason Lines,2
+Tahseen Al-Khateeb,2
+Panagiotis Karras,2
+Farideh Fazayeli,2
+Arun S. Maiya,2
+Luis Del Vasto Terrientes,2
+Hanqiang Cheng,2
+Ramón Ruiz,2
+B. V. K. Vijaya Kumar,2
+Luis Martínez-López,2
+Jaideep Srivastava,2
+Terry Harris,2
+Hardy Kremer,2
+Jozef M. Zurada,2
+Marinez Isaac Marques,2
+Ravi Ramamoorthi,2
+Pierre Alquier,2
+Christoph Bregler,2
+S. K. Kwok,2
+Marc Tommasi,2
+B. Cristina Pelayo García-Bustelo,2
+Pannagadatta K. Shivaswamy,2
+Vince Lyzinski,2
+Jin-Woo Park,2
+Charles L. A. Clarke,2
+André F. T. Martins,2
+Claude Sammut,2
+Varadraj P. Gurupur,2
+Minhua Chen,2
+Roderic A. Grupen,2
+Amin Jula,2
+Hao Wu,2
+Ana-Maria Popescu,2
+Miao Liu,2
+Danny Crookes,2
+Huzefa Rangwala,2
+Jimmy Ho-Man Lee,2
+Sanvesh Srivastava,2
+Ulrich Paquet,2
+Andreu Sancho-Asensio,2
+Heiko Strathmann,2
+João F. Henriques,2
+How Jing,2
+Xiaohua Hu,2
+Parasaran Raman,2
+M. R. Martínez-Torres,2
+Qiong Yan,2
+Taher Niknam,2
+Gábor Lugosi,2
+Andrew E. Waters,2
+Emmanouil Antonios Platanios,2
+Ching-Ren Chiu,2
+Vasile Palade,2
+Weerawat Jitpitaklert,2
+Bolin Ding,2
+Niloy Ganguly,2
+Siti Zaiton Mohd Hashim,2
+Masrour Zoghi,2
+Sergiu Goschin,2
+Longwen Gao,2
+Mehmet Fatih Tasgetiren,2
+Chia-Tung Kuo,2
+Stefano Melacci,2
+Zaki Malik,2
+Mourad Ouzzani,2
+Fei Yan,2
+Uwe Rascher,2
+Victoria C. P. Chen,2
+Malú Castellanos,2
+Todor D. Ganchev,2
+Federico Morán,2
+Hyun Joon Lee,2
+V. Mukherjee,2
+Cheng-Lun Chen,2
+Jacek Tabor,2
+Xiaoran Xu,2
+Serkan Günal,2
+Aris Anagnostopoulos,2
+Katharina Morik,2
+Ari Weinstein,2
+Jérôme Euzenat,2
+Manish Mandloi,2
+Srinadh Bhojanapalli,2
+Emilio Corchado,2
+Marie-Francine Moens,2
+Francisco Javier de Cos Juez,2
+Michael Mitzenmacher,2
+Sara Silva,2
+Miguel A. Patricio,2
+Lawson L. S. Wong,2
+Marcos del Pozo-Baños,2
+Ata Allah Taleizadeh,2
+Oliver Kroemer,2
+James P. Delgrande,2
+S. Ravikumar,2
+Kyle Klein,2
+Srikumar Ramalingam,2
+S. K. Goswami,2
+David R. Hunter,2
+Che-Jung Chang,2
+Manolis Koubarakis,2
+April H. Liu,2
+David Diaz,2
+Jiacai Ni,2
+Chien-Lung Chan,2
+Mohammad Ehsan Basiri,2
+Pearl Pu,2
+Taoufik Bdiri,2
+Simon Fong,2
+Bo Geng,2
+Jeonghee Yi,2
+Mohammad Hossein Zarifia,2
+Dawei Jiang,2
+Yung-Kuan Chan,2
+Ryan Adams,2
+Juan-Zi Li,2
+Mong-Li Lee,2
+Ole J. Mengshoel,2
+Xiong Li,2
+Konstantinos Metaxiotis,2
+Christopher Amato,2
+Dorien Herremans,2
+Roman Vaculín,2
+Bernardo A. Huberman,2
+Stanislas Lauly,2
+Ying-Hsiu Chen,2
+Mutlu Avci,2
+Satish C. Jain,2
+Yuemeng Li,2
+Ruijiang Li,2
+Xingguo Li,2
+Thomas J. Fuchs,2
+Dongwen Zhang,2
+Nasser M. Nasrabadi,2
+Yu Ting Wen,2
+Russell Paulet,2
+Hsun-Ping Hsieh,2
+Kai Fan,2
+Vladimir N. Minin,2
+Biao Qin,2
+Sougata Chaudhuri,2
+Ritanjali Majhi,2
+Demetrios Zeinalipour-Yazti,2
+Fang Zhou,2
+Weiren Yu,2
+Yue Huang,2
+Vinayaka Pandit,2
+Xiaotong Yuan,2
+Rajeev Sharma,2
+Ian Endres,2
+Benjamin Taskar,2
+Yong Jae Lee,2
+Ryo Yoshinaka,2
+Xiaoyan Zhu,2
+Ning Zhong,2
+Altigran Soares da Silva,2
+Jun Ye,2
+Francisco Muñoz-Leiva,2
+Luca Bascetta,2
+Zhonghua Li,2
+Hai-Son Le,2
+Zalinda Othman,2
+Ivan Budiselic,2
+Chiaki Sakama,2
+Guoqing Zhang,2
+Xiuzhuang Zhou,2
+Abhay Kumar Jha,2
+Philemon Brakel,2
+Ann E. Nicholson,2
+Tatsuya Harada,2
+Froduald Kabanza,2
+Zhilin Yang,2
+Shuai Yuan,2
+Dohyung Park,2
+Wenbin Cai,2
+Peter E. Latham,2
+Yeow Meng Chee,2
+Ming J. Zuo,2
+Hengshuai Yao,2
+Hanmo Wang,2
+Brigitte Charnomordic,2
+Sebastian Ernst,2
+Yichang James Tsai,2
+Claude Castelluccia,2
+Bertrand Michel,2
+Dorothea Wiesmann,2
+Tai-Yue Wang,2
+David Quintana,2
+A. Espín Estrella,2
+Xiaofei Zhang,2
+Guido Montúfar,2
+R. Rakkiyappan,2
+Pritam Gundecha,2
+Jianming Li,2
+Julia E. Vogt,2
+Ana L. C. Bazzan,2
+Thierry Artières,2
+Jiafu Tang,2
+Peter F. Patel-Schneider,2
+Christoph Schnörr,2
+Yingjie Yang,2
+Marko Mitic,2
+Yinhai Wang,2
+Tania Cerquitelli,2
+Shashank Singh,2
+Pentti Kujala,2
+David López-Paz,2
+Yongfeng Huang,2
+Bokyoung Kang,2
+Charles Dubout,2
+Alfredo Vaccaro,2
+Shane R. Reti,2
+Vibhav G. Gogate,2
+Basilio Sierra,2
+Jingyuan Yang,2
+Janko Seljak,2
+Juan-Manuel Torres-Moreno,2
+Wubai Zhou,2
+Kristin P. Bennett,2
+Yoshio Momouchi,2
+Qiong Fang,2
+Mohammed Hindawi,2
+Ronen Basri,2
+Guang Meng,2
+Andrew S. Lan,2
+Xixian Han,2
+Xiao-Qin Fan,2
+Mohammad Saniee Abadeh,2
+Joseph J. Pfeiffer III,2
+Jigar Patel,2
+Manuel Palomo-Duarte,2
+Wanli Ouyang,2
+Carlos Angel Iglesias,2
+Kenneth White,2
+Roman Kontchakov,2
+Hongzhi Wang,2
+Nikos Pelekis,2
+Tam T. Nguyen,2
+Shudong Sun,2
+Parang Saraf,2
+Shlomo Berkovsky,2
+Pushpak Bhattacharyya,2
+Si Liu,2
+Rickey Dubay,2
+Venkata M. V. Gunturi,2
+Christoph Brune,2
+Prakash Panangaden,2
+Gediminas Adomavicius,2
+Edgar Reséndiz,2
+Narasimha Bolloju,2
+Roy Rada,2
+Xiao-Ming Wu,2
+Hamid R. Rabiee,2
+Qinfeng Shi,2
+Pedro Sampaio,2
+Amy J. C. Trappey,2
+Richard Dazeley,2
+Ljupco Todorovski,2
+Sungwoong Kim,2
+Rui Li,2
+Jorge G. Silva,2
+Toke Jansen Hansen,2
+Javier Romero,2
+Whei-Min Lin,2
+Pierre Flener,2
+Oksam Chae,2
+Sigal Sina,2
+Mohammad Rastegari,2
+Eric Tzeng,2
+Jana Schmidt,2
+Olaf Jahn,2
+Luana Batista,2
+Daniel J. McDonald,2
+Christian Gagné,2
+Bin Fu,2
+Milan Vojnovic,2
+Wei-Chih Wang,2
+Toshimitsu Takahashi,2
+Zhenhua Wang,2
+Enrique Costa-Montenegro,2
+David Verstraeten,2
+Hongsheng Li,2
+Joonhong Park,2
+Letícia Fleck Fadel Miguel,2
+Joohyung Lim,2
+Feipeng Zhao,2
+Kai Li,2
+Zsolt Bitvai,2
+Lidan Wang,2
+Yannis Theodoridis,2
+Delin Chu,2
+Mingyu Guo,2
+Shirish Krishnaj Shevade,2
+Tiancheng Li,2
+Young Jun Ko,2
+Oscar Herrera-Restrepo,2
+Xiaoye Miao,2
+Catarina Silva,2
+Bernard C. Jiang,2
+Ferenc Huszar,2
+Miran Strus,2
+Markus Peters,2
+Ming Liu,2
+Goran Oreski,2
+Ke Jiang,2
+Bruce Graves,2
+Zhoujing Wang,2
+Leonardo Vanneschi,2
+Andreas Martin Lisewski,2
+Keisuke Yamazaki,2
+Lin Ma,2
+David Koloseni,2
+Ronald K. Klimberg,2
+Byoung-Tak Zhang,2
+Ziv Bar-Joseph,2
+Bin Dai,2
+Adem Acir,2
+S. P. Ghoshal,2
+José Rodríguez,2
+Zhifeng Bao,2
+Sébastien Destercke,2
+Michael A. King,2
+Takanori Inazumi,2
+Abdenour Bouzouane,2
+Wai Lam,2
+Yuejie Chi,2
+Banafsheh Zahraie,2
+Sandra Alemany,2
+Olavo Holanda,2
+Carlos Delgado Kloos,2
+Franci Kovacic,2
+Piotr Krzysztof Skowron,2
+Jennifer Corcoran,2
+Xinyu Xing,2
+Patrice Koehl,2
+Yu-Ru Lin,2
+Wagner Emanoel Costa,2
+Faisal AlThobiani,2
+Peter Dzurman,2
+Siddhartha Ghosh,2
+Wouter Verbeke,2
+Sascha Ossowski,2
+Jenn Tang,2
+Alexandre X. Falcão,2
+Nikunj C. Oza,2
+Victor E. Lee,2
+Keith Henderson,2
+Ivo Danihelka,2
+Moshe Y. Vardi,2
+Ghassan Beydoun,2
+Pelin Gundes Bakir,2
+María Rosa Galli,2
+Peter Carr,2
+Antonio Blanco-Oliver,2
+Felix Richter,2
+Tae-Chon Ahn,2
+Jeremias Berg,2
+María Laura Caliusco,2
+Anthony G. Cohn,2
+Shuheng Zhou,2
+Edurne Barrenechea Tartas,2
+Guodong Long,2
+David J. Weiss,2
+Michael Pacer,2
+Velimir Cirovic,2
+Flávio Keidi Miyazawa,2
+Cindy Marling,2
+Meysam Aghighi,2
+Xiaolei Ma,2
+Alessandro Antonucci,2
+Kostyantyn M. Shchekotykhin,2
+Marco Tagliasacchi,2
+J. Marcos Moreno-Vega,2
+Raffay Hamid,2
+Luiz V. O. Dalla Valentina,2
+Maciej Dabrowski,2
+Zhi-Hua Hu,2
+Rongkai Xia,2
+Tai-Peng Tian,2
+Ferdinando Chiacchio,2
+Hui-Fei Lin,2
+Stavros Theodorakis,2
+Oren Freifeld,2
+David Haglin,2
+Shane Jensen,2
+Agma J. M. Traina,2
+Richard Bowden,2
+Adrian Barbu,2
+Qing Zhou,2
+Müjde Güzelkaya,2
+Michael Stark,2
+María Jesús Verdú,2
+Miroslav Hudec,2
+Juan Serrano-Cuerda,2
+Tapani Raiko,2
+Danilo P. Mandic,2
+Nor Ashidi Mat Isa,2
+Matjaz Gams,2
+Eric Medvet,2
+Arnd Christian König,2
+Xiguo Ma,2
+V. Castellanos,2
+Minghui Qiu,2
+Tom Dhaene,2
+Junchi Yan,2
+Ping Hou,2
+Pedro Neto,2
+Martijn R. K. Mes,2
+Sharon Wulff,2
+Richard C. Wilson,2
+Xiaohang Jin,2
+Norman Kim,2
+Yisong Wang,2
+Mónica G. Larese,2
+Latif Salum,2
+Kyung-Soo Jun,2
+Tom De Smedt,2
+Budhaditya Saha,2
+Lie Wang,2
+Kristian Lum,2
+Shun-ichi Azuma,2
+Adam A. Margolin,2
+José María Peña,2
+Son Thanh To,2
+Feng Shi,2
+Chi Zhang,2
+Xue-jing Lee,2
+Sudeep Sarkar,2
+Yingming Li,2
+Kibeom Lee,2
+Renata M. C. R. de Souza,2
+Daniele Calandriello,2
+Xu Chen,2
+Panos Liatsis,2
+Jérémie Jakubowicz,2
+Hunjae Yoo,2
+Alnur Ali,2
+Barry O'Sullivan,2
+Jinfeng Zhuang,2
+Changho Son,2
+Sandhya Saisubramanian,2
+Florian Stimberg,2
+Abbas S. Milani,2
+Benjamin Packer,2
+Xin Yang,2
+Marina Lloberes,2
+Pong C. Yuen,2
+Konstantinos Liagkouras,2
+Wenli Xu,2
+Joshua L. Moore,2
+Chin-Hsing Cheng,2
+Girish Kulkarni,2
+James C. Bezdek,2
+Daniel J. Navarro,2
+Cristiana Rastellini,2
+Vadim Bulitko,2
+Banu Diri,2
+Süreyya Özögür-Akyüz,2
+Nenad T. Pavlovic,2
+Silvia N. Schiaffino,2
+Kai Meng Tay,2
+Ronggen Yang,2
+Jin Xu,2
+Fang Chen,2
+Arthur Guez,2
+Sheng Gao,2
+Xiaojian Wu,2
+Yu-Ren Lai,2
+Jun-Ki Min,2
+Sylvain Calinon,2
+Raz Lin,2
+Zhenguo Li,2
+Panos M. Pardalos,2
+Dougal Maclaurin,2
+Diana Manjarres,2
+Tam Le,2
+Chuang Lin,2
+Jing Dai,2
+Andrei Soeanu,2
+Haiyan Lu,2
+Robin J. Evans,2
+David Yew-Kwong Woon,2
+Jose B. Escario,2
+Hannan Amoozad Mahdiraji,2
+Adam Pocock,2
+Zhengping Che,2
+Abhradeep Thakurta,2
+Varun Mithal,2
+José Javier Samper Zapater,2
+Thomas Emrys Williams,2
+Hung-Ming Chen,2
+Jiuping Xu,2
+Ryan Gomes,2
+Konrad P. Koerding,2
+Jonathan Scholz,2
+Samuel Gerber,2
+George Ferguson,2
+Xuefeng Chen,2
+Carter T. Butts,2
+Kathryn Mazaitis,2
+Natasha Alechina,2
+Nikhil R. Devanur,2
+Hai-Guang Li,2
+Julio Ortega,2
+Gabriela Csurka,2
+Julien Henriet,2
+Arjen P. de Vries,2
+Rafael Dueire Lins,2
+Brais Cancela,2
+Yun Xiong,2
+Ivan Bratko,2
+Xiuli Geng,2
+Mahmut Hekim,2
+Eric Yi Liu,2
+Sarat Kumar Sahoo,2
+Eftychios A. Pnevmatikakis,2
+Sven Seuken,2
+Dong Yang,2
+Alberto Prieto,2
+An-Jin Shie,2
+Frank Chongwoo Park,2
+Yuhua Li,2
+Mingyu Fan,2
+Shantanu Chakraborty,2
+Namhyoung Kim,2
+Xiao-Jun Zeng,2
+Stanislav Zivny,2
+Gregory S. Corrado,2
+Alex Krizhevsky,2
+Shanshan Wu,2
+Julián Conesa,2
+Patrick Pletscher,2
+Kenichi Kurihara,2
+Kemal Polat,2
+Hyunwoo Kim,2
+Charles V. Trappey,2
+Phong Nguyen,2
+Phil Blunsom,2
+Walter Daelemans,2
+Sander Dieleman,2
+Manish Singh,2
+Javier Albusac,2
+Zhuang Ma,2
+Christopher Genovese,2
+Monica Rani,2
+Daisuke Hatano,2
+Andrés Gago Alonso,2
+Yue-Hsun Lin,2
+Fengqin Yang,2
+Kaoru Shimada,2
+O. Rabaza,2
+Yuqing Zhu,2
+Judy Hoffman,2
+Zuoguan Wang,2
+Aasa Feragen,2
+Bonnie Kirkpatrick,2
+Dimitris Samaras,2
+Antonio LaTorre,2
+Ananth Grama,2
+Nihan Çetin Demirel,2
+José A. Mocholí,2
+Joanne Yip,2
+Rupert Freeman,2
+Dalisio de Santi Neto,2
+David Grangier,2
+Pedro Couto,2
+Cristian Pinzón,2
+Avishek Saha,2
+Frans Coenen,2
+Juan L. Reutter,2
+Francisco Guil,2
+Liangliang Wang,2
+Shu Tao,2
+Felix Naumann,2
+Hector Muñoz-Avila,2
+Alfred M. Bruckstein,2
+Nebojsa J. Bojovic,2
+Guillaume Hennequin,2
+Michal Melosik,2
+Srikumar Krishnamoorthy,2
+Hugo Jair Escalante,2
+Chunjiang Zhang,2
+Suxin Guo,2
+Hung-Hsuan Chen,2
+Wenxuan Xie,2
+Christopher Torpelund-Bruin,2
+David P. Reichert,2
+Adam K. Usadi,2
+Min-Chul Yang,2
+Wei Zheng,2
+Ben Tan,2
+Quan Zhou,2
+Mehdi Hosseinzadeh Aghdam,2
+Alexandre Bernardino,2
+Sutharshan Rajasegarar,2
+Jun Huang,2
+Hector Yee,2
+Vitaly Schetinin,2
+Ronny Luss,2
+Zivile Kalsyte,2
+Pyari Mohan Pradhan,2
+Konstantinos Bousmalis,2
+Krzysztof Geras,2
+Chayan Chakrabarti,2
+Tarek Helmy,2
+Aristófanes Corrêa Silva,2
+Miguel González-Mendoza,2
+Nikos Papageorgiou,2
+Elizabeth Sklar,2
+Sören Sonnenburg,2
+Sasan Barak,2
+Kit-lun Yick,2
+Simon Fletcher,2
+Hoang Nguyen,2
+Steven Ehrlich,2
+Zhengyuan Zhou,2
+Alexandra Coman,2
+Jimmy Xiangji Huang,2
+Charu Chandra,2
+Chen Zhang,2
+Ali Taylan Cemgil,2
+Stéphane Mallat,2
+Risheng Liu,2
+Manuel P. Cuéllar,2
+Yuqiang Fang,2
+Nicholas D. Lane,2
+Amir Sani,2
+Inma Garcia,2
+Austin H. Chen,2
+Baoxin Li,2
+Gemma C. Garriga,2
+Michel Speiser,2
+Thomas Becker,2
+Min Li,2
+Amol Kapila,2
+Ezequiel López-Rubio,2
+Yonghong Liu,2
+Roy Gelbard,2
+Elmar Wolfgang Lang,2
+Mauricio Araya-López,2
+Alessio Lomuscio,2
+Lizhu Zhou,2
+Yung-Shen Lin,2
+Liangliang Cao,2
+Tao Wang,2
+Nicolas Thome,2
+Hossein Mobahi,2
+Gregory Shakhnarovich,2
+S. Muthukrishnan,2
+Dimitris Papadias,2
+Vicente Ordonez,2
+YuanHsu Lin,2
+Subhabrata Mukherjee,2
+Kevin J. Cannons,2
+Giorgio Davanzo,2
+David S. González-González,2
+V. Lakshmana Gomathi Nayagam,2
+Anh-Duc Pham,2
+Ali Jadbabaie,2
+Fengyi Lin,2
+Dan Klein,2
+Songfang Huang,2
+Mahdi Bashiri,2
+Xinlei Chen,2
+Jonathan Chang,2
+Dongqing Yang,2
+Kais Allab,2
+Hariharan Narayanan,2
+Liming Wang,2
+Nathan Liu,2
+Shalabh Bhatnagar,2
+Jorge Luis Victória Barbosa,2
+Pascal Bercher,2
+Matt Perkins,2
+Niao He,2
+Marco Montali,2
+Yash Deshpande,2
+Alejandro Jaimes,2
+Jonathan R. Wells,2
+Uriel Feige,2
+Joaquin Vanschoren,2
+Thomas Degris,2
+John Walker Orr,2
+Festus Oluseyi Oderanti,2
+Ana Fernández Vilas,2
+Andrew Ball,2
+Teodor Mihai Moldovan,2
+Bo Hsiao,2
+Hong-Jey Gow,2
+Rodney A. Stewart,2
+Sergio Segura,2
+Alper Bilge,2
+Mohammad R. Akbarzadeh-Totonchi,2
+Daniel N. Rockmore,2
+Juliana Y. Leung,2
+Rui Xia,2
+JooSeuk Kim,2
+Paul Vernaza,2
+Yong Man Ro,2
+Divyakant Agrawal,2
+M. P. Kuznetsov,2
+Rodrigo Pérez-Rodríguez,2
+Meihui Zhang,2
+Chung-Ho Wang,2
+Jo-Anne Ting,2
+John K. Pate,2
+Jianping Luo,2
+Dmytro Korzhyk,2
+Carlos R. García-Alonso,2
+Aron Laszka,2
+Anirban Sengupta,2
+Jae Kyeong Kim,2
+Kenneth W. Latimer,2
+Dagoberto Castellanos Nieves,2
+Yuyu Zhang,2
+Fernando Ordóñez,2
+Michael Mahoney,2
+Wooi Ping Cheah,2
+Biljana Petreska,2
+Athanasios Tsakonas,2
+Peter Z. Yeh,2
+Kaisa Miettinen,2
+M. H. Fazel Zarandi,2
+Ke Tang,2
+Ignacio Requena,2
+Xiaoli Zhang Fern,2
+Wei-Kang Wang,2
+Luc Van Gool,2
+Kuan Liu,2
+Weiyi Meng,2
+Aihua Wang,2
+Wenzhe Li,2
+Lai-Ying Leong,2
+Manuel Fogue,2
+Mahdi Tabassian,2
+Zaifang Zhang,2
+Vicky Froyen,2
+Fabrizio Costa,2
+G. Barrera,2
+William K. Cheung,2
+Tomás Werner,2
+Asja Fischer,2
+Barbara Carminati,2
+Zhe Gan,2
+Yongzhen Huang,2
+Montserrat Casanovas,2
+Liping Chen,2
+J. A. Pérez-Benitez,2
+Nadia Fawaz,2
+Yu Liu,2
+Jianbin Huang,2
+Guoping Xia,2
+Xin Zhang,2
+Roy Frostig,2
+Yiyo Kuo,2
+Carlos Miguel Tavares Calafate,2
+Walid Krichene,2
+Hiroshi Kajino,2
+Xiaoli Wang,2
+Rodrigo Pereira Ramos,2
+Ke Zhai,2
+Emmanouil E. Zachariadis,2
+Bernd Gutmann,2
+Rui Jiang,2
+Fei Tony Liu,2
+Jens Leon,2
+Liang Ge,2
+The Duc Kieu,2
+Zhaoguo Xuan,2
+Shiqi Zhang,2
+Zuping Zhang,2
+Victor Naroditskiy,2
+Dávid Pál,2
+Agma Juci Machado Traina,2
+Jacob Feldman,2
+Gideon Dror,2
+Dan Schonfeld,2
+Jincheng Mei,2
+Chi-Jie Lu,2
+Gencai Chen,2
+Kaushik Mitra,2
+Kuei-Hsiang Chao,2
+Nicolas Maudet,2
+Nathan Huynh,2
+Peng Tang,2
+Bernard Zenko,2
+Chieh-Yen Lin,2
+Eduardo F. Morales,2
+Y. C. Tsim,2
+Qiaojun Wang,2
+Emre Sefer,2
+Sofia Ceppi,2
+S. Basavarajappa,2
+Xu-Zhi Lai,2
+Thomas Desautels,2
+Jason Yosinski,2
+Sang-Hong Lee,2
+Siliang Tang,2
+Elena Hernández-Pereira,2
+Li Liu,2
+Philip Thomas,2
+Brian C. Lovell,2
+Jiushuo Wang,2
+Henrik Boström,2
+Daniel Glez-Peña,2
+Sebastian Goebl,2
+Rui Kuang,2
+JianXun Cui,2
+Hadi Mokhtari,2
+Kanghoon Lee,2
+Walter S. Lasecki,2
+Chih-Yao Chien,2
+Swee Chuan Tan,2
+Debmalya Mandal,2
+Cheng-Ying Yang,2
+Yain-Whar Si,2
+Jos De Brabanter,2
+Bernardo Avila Pires,2
+Wei Yan,2
+Wei Xiong,2
+Marie Chupin,2
+C. Okan Sakar,2
+Tong Shu,2
+Zahir Irani,2
+Shu Liao,2
+Felix X. Yu,2
+Youlin Lu,2
+Sixin Zhang,2
+Abbas Z. Kouzani,2
+Thiago M. Nunes,2
+Walmir M. Caminhas,2
+Björn Ommer,2
+Matthew D. Zeiler,2
+Bipin Suresh,2
+Robby Goetschalckx,2
+Georgios Tzimiropoulos,2
+Paul W. Schermerhorn,2
+Yuji Matsumoto,2
+Jean-Michel Morel,2
+Junichiro Hirayama,2
+Shuzi Niu,2
+Steven Loscalzo,2
+Ramachandra Kota,2
+Pa-Chun Wang,2
+Yong Chen,2
+Marine Depecker,2
+Li Yan,2
+David G. T. Barrett,2
+Magdalena Ortiz,2
+Miguel Cienfuegos,2
+David Madigan,2
+Krzysztof Kaczmarek,2
+Zhicheng Dou,2
+Zhong Chen,2
+Rebecca Strachan,2
+Ender M. Eksioglu,2
+ZhongYang Huang,2
+Zhongmou Li,2
+Luiz Satoru Ochi,2
+Guadalupe Ortiz,2
+Wen-Yuan Zhu,2
+Josep Domingo-Ferrer,2
+Bernal Rodríguez-Herrera,2
+Carlos A. B. Mello,2
+Maarten de Rijke,2
+Jong Hwa Kim,2
+Junfeng Wen,2
+Xun Yi,2
+Reinhard Pichler,2
+Konstantina Chrysafiadi,2
+Jianhua Xu,2
+Talal Rahwan,2
+Chi-Yuan Yeh,2
+Alex Tank,2
+Fuchun Sun,2
+Dustin Lang,2
+Yiqiao Cai,2
+Nick Hawes,2
+Neal Lathia,2
+Ioannis Gkioulekas,2
+Luis Mengual,2
+Neda Karimi,2
+Jim Jing-Yan Wang,2
+Alessandro Colantonio,2
+Henry Dalgleish,2
+Tok Wang Ling,2
+Loo Hay Lee,2
+Ryan J. Tibshirani,2
+Ting Guo,2
+Suhang Wang,2
+Ann Sung Lee,2
+Samir Ouchani,2
+Xuehua Zhao,2
+Marianne Winslett,2
+Vaninha Vieira,2
+Nuno Mendes,2
+Hakan Isik,2
+Eric Anyung Shieh,2
+Horst Bischof,2
+Heng Luo,2
+Zhigang Wang,2
+K. M. Y. Law,2
+Luciana S. Buriol,2
+Michael C. Mozer,2
+Zhen Lin,2
+Orlando Ohashi,2
+Hoda Eldardiry,2
+Fabian H. Sinz,2
+Lisa Friedland,2
+Kien Ming Ng,2
+Nicola Basilico,2
+Kang Zhao,2
+Congfu Xu,2
+Wei Di,2
+Youssef Mroueh,2
+Aaron Roth,2
+Steven Reece,2
+Mikhail Soutchanski,2
+Patricia Henríquez,2
+Christopher J. Gatti,2
+Rajiv Kapoor,2
+Zuren Feng,2
+Michael Steinbach,2
+Vladimir Grupcev,2
+Prodromos Tsinaslanidis,2
+Yijun Liu,2
+Hans van der Heijden,2
+Adrião Duarte Dória Neto,2
+Sudheendra Vijayanarasimhan,2
+Quoc Bao Vo,2
+Pradipta K. Dash,2
+Sin C. Ho,2
+Sou-Sen Leu,2
+Luoqi Liu,2
+Ana Lelescu,2
+Jiani Hu,2
+Xiaowei Jia,2
+Anoop Cherian,2
+Kashif Javed,2
+Mingwu Ren,2
+Dong-Sik Jang,2
+Qing Song,2
+Juan P. Torreglosa,2
+Hongwei Liu,2
+Dragan Djurdjanovic,2
+Fajwel Fogel,2
+Sara Rodríguez,2
+Éric Gaussier,2
+Stefan Roth,2
+Jur van den Berg,2
+Norman M. Sadeh,2
+Ilias Petrounias,2
+Shih-Yu Li,2
+Ilangko Balasingham,2
+Bryan Perozzi,2
+Georg Gottlob,2
+Bing-Yu Sun,2
+Fernando Pereira,2
+Yu-Fang Chung,2
+Anastasios Zouzias,2
+Lina Yao,2
+Sanjoy Das,2
+Hossein Omrani,2
+Sergio Ortega,2
+Jason Pacheco,2
+Hao-Heng Chien,2
+Boulbaba Ben Amor,2
+Bala Chandra,2
+Mohammad Tanvir Irfan,2
+Zhiming Ma,2
+Martin Slawski,2
+Peter Szolovits,2
+Shouyi Wang,2
+Michael A. Goodrich,2
+Bojana Dalbelo Basic,2
+Chen Fang,2
+Flip Korn,2
+Pavel Sevastianov,2
+Petra Mutzel,2
+Marzieh Mostafavizadeh Ardestani,2
+Mohammad Davarpanah Jazi,2
+Yassine Ruichek,2
+Pei Lee,2
+Chi-Kong Chan,2
+Steven Bottone,2
+Ariel E. Bayá,2
+José Manuél Gómez-Pérez,2
+M. M. López,2
+Yangyong Zhu,2
+Kunjie Xu,2
+Björn W. Schuller,2
+Adil Alpkocak,2
+Bijaya K. Panigrahi,2
+Alexandra M. Carvalho,2
+Noemie Elhadad,2
+Cristopher Moore,2
+Yi-Kai Liu,2
+Adolfo Guzmán-Arenas,2
+Rajprasad Rajkumar,2
+Jacek Sroka,2
+Zhigang Zheng,2
+Koray Altun,2
+Gabriel Krummenacher,2
+Benjamin J. Bachman,2
+Yoon-Joo Park,2
+Chong Un Pyon,2
+Jernej Mencinger,2
+Joseph H. M. Tah,2
+Panos Kalnis,2
+Sofus A. Macskassy,2
+Guoji Zhang,2
+Mikaela Keller,2
+Hanjiang Lai,2
+Yaping Li,2
+Chang-Zhong Pan,2
+Guy Rosman,2
+Zdravko Dovedan Han,2
+Yue Zhang,2
+Graham Sexton,2
+Kazuyuki Murase,2
+Peter Welinder,2
+Hua-ling Zhao,2
+Peter Orbanz,2
+Stephen P. Boyd,2
+Yong-Hai Li,2
+Daan Fierens,2
+Tarek El-Gaaly,2
+Toniann Pitassi,2
+Jun Ren,2
+Hoda Heidari,2
+Johannes Klaus Fichte,2
+Ryo Asaoka,2
+Shahla Nemati,2
+Richard E. Turner,2
+Yung-Mu Chen,2
+Torab Torabi,2
+Marius-Lucian Tomescu,2
+Ghim-Eng Yap,2
+Grégoire Mesnil,2
+Kumar Dubey,2
+Yves Grandvalet,2
+David Martín,2
+Xingzheng Wang,2
+Ming-Shin Kuo,2
+Euntai Kim,2
+Aloysius K. Mok,2
+David Gotz,2
+Wei-Chang Yeh,2
+B. Naderi,2
+José María Armingol,2
+Matías Gámez,2
+Koen W. De Bock,2
+Tengjiao Wang,2
+Amnon Shashua,2
+Saad Alqithami,2
+Aarón Henríquez,2
+Lora Weiss,2
+Jeong Han,2
+Rua-Huan Tsaih,2
+Cynthia Matuszek,2
+Liming Chen,2
+Xinhai Liu,2
+Che-Chern Lin,2
+Sven Kurras,2
+Matthias Nickles,2
+Jordi Rello,2
+Manoj Agarwal,2
+Albrecht Striffler,2
+Pedro Francisco Ferraz de Arruda,2
+Qi-Xing Huang,2
+Zhongmin Jin,2
+Wolfgang Minker,2
+Gianluca Antonini,2
+Senjian An,2
+Kun Deng,2
+John Moeller,2
+Hong Ma,2
+Khalid Sultan,2
+Tai-Pang Wu,2
+A. S. Camanho,2
+Xuan Vinh Nguyen,2
+Michael P. Friedlander,2
+Shasha Li,2
+Yoav Y. Schechner,2
+Tung-Ching Su,2
+Fan Sun,2
+Fabian Moerchen,2
+Katharina Mülling,2
+Belén Melián-Batista,2
+Junping Zhang,2
+Marinez Ferreira de Siqueira,2
+Jeremy Howard,2
+Beatriz Pérez-Sánchez,2
+Liang Bai,2
+Marcelo Gattass,2
+Jordán Pascual Espada,2
+Xiao-Lin Wang,2
+Szymon Szczesny,2
+Cecilio Angulo,2
+Shengqi Yang,2
+Jaihie Kim,2
+Glenn Fung,2
+Yunfeng Xu,2
+Nicolas Chopin,2
+Mohammad Javad Saberian,2
+Mario P. Prado,2
+Mooyoung Jung,2
+Ugur Demiryurek,2
+Behnam Neyshabur,2
+Ping Ma,2
+Adarsh Prasad,2
+Ming-yuan Chen,2
+Haibo Wu,2
+Huapin Chen,2
+Matthew Johnson,2
+Aviv Segev,2
+Maytal Saar-Tsechansky,2
+Kevin Murphy,2
+Andrew K. C. Wong,2
+Wen-Hsien Ho,2
+Guangxia Li,2
+Eneko Osaba,2
+David Mares,2
+Francisco Pereira,2
+Antonio Ortega,2
+Chien-Ho Ko,2
+Jia-Lang Seng,2
+Abhradeep Guha Thakurta,2
+Pierre Gaillard,2
+Rodrigo Ruas Oliveira,2
+Seung Kim,2
+Jian Guo,2
+Chuen Tse Kuah,2
+Z. M. Ma,2
+Alice X. Zheng,2
+Christoph Römer,2
+Xutao Li,2
+Ferit Akova,2
+Yan Karklin,2
+Saket Anand,2
+Fabrizio Lecci,2
+Ryan A. Rossi,2
+Jun Luo,2
+Alexander Tuzhilin,2
+Frederico Gadelha Guimarães,2
+Mohsen Jamali,2
+Rasmus Pagh,2
+Ioannis Mitliagkas,2
+Jean-Paul A. Barthès,2
+Jorge García-Gutiérrez,2
+Tao Cheng,2
+Jingbo Zhou,2
+Siamak (Moshen) Ravanbakhsh,2
+Sofia Tsekeridou,2
+John Alexander Hawkin,2
+Cho-Wei Shih,2
+Lena Pietruczuk,2
+Arnold P. Boedihardjo,2
+Evandro Costa,2
+Shin Matsushima,2
+Matthieu Devin,2
+Behrooz Arbabshirani,2
+M. A. Rafiee,2
+Jun Gao,2
+Rémi Lajugie,2
+Prem Melville,2
+Felix Brandt,2
+Karsten Steinhaeuser,2
+Xenofon D. Koutsoukos,2
+Yun Peng,2
+Luís Torgo,2
+Mahantesh Halappanavar,2
+Peyman Milanfar,2
+Ming Tan,2
+Joyce C. Ho,2
+Márcio Ribeiro,2
+Paola Vicard,2
+Phayung Meesad,2
+Zhe Jiang,2
+José Manuel Rodríguez Ascariz,2
+Daniel Berend,2
+Jordan Louviere,2
+Gerwin Schalk,2
+Chang-Chien Chou,2
+Djalel Benbouzid,2
+Hwang Ho Kim,2
+Jim C. Huang,2
+David Maier,2
+Mingxi Zhang,2
+Yuqiang Chen,2
+Yaser Sheikh,2
+Jeffrey Forrest,2
+Michael P. Wellman,2
+Ugur Kuter,2
+Ajoy Kumar Ray,2
+Ricardo de Córdoba,2
+Renee Laubscher,2
+Feng Lu,2
+Alex K. Susemihl,2
+Edward Meeds,2
+Trevor Cohn,2
+Debra T. Burhans,2
+Marleen de Bruijne,2
+Md. Golam Kaosar,2
+Adam Sadilek,2
+Francisco C. Pereira,2
+John A. Doucette,2
+Lawrence A. Donehower,2
+Guoyong Cai,2
+Fuqing Zhao,2
+Ecir U. Küçüksille,2
+Ricardo García Martín,2
+Zhenyu Chen,2
+A. Peña-García,2
+Nina Hubig,2
+Andrea Esuli,2
+Octavian Arsene,2
+Mauro Castelli,2
+Robert Cohn,2
+José Luís Calvo-Rolle,2
+Rajhans Samdani,2
+Haifang Li,2
+Sebastián A. Ríos,2
+Antoon Bronselaer,2
+Frank McSherry,2
+Shan Xue,2
+Gaofeng Meng,2
+Sicheng Xiong,2
+Mehdi Piltan,2
+Weili Wu,2
+Roberto H. W. Pinheiro,2
+Bongki Moon,2
+Sharad Mehrotra,2
+Yijun Zhao,2
+Dingding Wang,2
+Ming-Jie Zhao,2
+Prabir Bhattacharya,2
+João Marques-Silva,2
+Nahum Shimkin,2
+M. R. Jamli,2
+Tiejun Huang,2
+K. Kotecha,2
+Chunhui He,2
+Min Chen,2
+Che-Chang Hsu,2
+Ming-Hung Shih,2
+Chin-Chen Chang,2
+Mehtap Dursun,2
+Dragan Aleksendric,2
+Jianzhou Wang,2
+Junjie Yao,2
+Luca Chiarandini,2
+Jinpeng Wang,2
+Huida Qiu,2
+Leen-Kiat Soh,2
+Dmitriy Fradkin,2
+Nic Wilson,2
+Ahmed Metwally,2
+Christopher Makoto Wilt,2
+Linyun Yu,2
+Florian Yger,2
+Li Xiong,2
+Zhuo Wang,2
+Edward Hsiao,2
+Yin David Yang,2
+Yoshiki Suzuki,2
+Carl Kingsford,2
+IlKyeong Moon,2
+Bruno Bouchard,2
+Navin Goyal,2
+Bingsheng He,2
+Shanshan Wang,2
+Tein-Yaw Chung,2
+Alistair Moffat,2
+Mohamed F. Ghalwash,2
+Qiang Meng,2
+Inmaculada Mora-Jiménez,2
+Mile Pavlic,2
+Qiang Zeng,2
+Yaqiong Wang,2
+Peter Kairouz,2
+Xufei Wang,2
+Tianshi Gao,2
+Robinson Piramuthu,2
+Pei-Pei Li,2
+Qiudan Li,2
+James C. Ross,2
+Eric Klassen,2
+Geraldo Zimbrão,2
+Zhigang Ma,2
+Harold Boley,2
+Suman Nath,2
+Jure Rejc,2
+Lifei Chen,2
+Zhenyue Zhang,2
+Xianghua Ying,2
+Matthias Grossglauser,2
+Leopoldo Eduardo Cárdenas-Barrón,2
+Ting Chen,2
+J. J. García Adeva,2
+Anthony Chen,2
+Alberto Bartoli,2
+Tim Kovacs,2
+Juán I. Guerrero,2
+Haobo Qiu,2
+Carlo Gatta,2
+Ahmet Arslan,2
+Björn E. Ottersten,2
+Radu Sion,2
+Paolo Medici,2
+Mohan Sridharan,2
+Sriram Srinivasan,2
+Defu Zhang,2
+David H. Reiley,2
+Timothy C. Havens,2
+Sandhya Prabhakaran,2
+Duy Quang Vu,2
+Júlio C. Nievola,2
+Gwo-Jiun Horng,2
+Ilaria Bartolini,2
+Yu-Ying Wang,2
+Leopoldo Carro-Calvo,2
+Julián Luengo,2
+Zhanyu Ma,2
+Ning An,2
+Julián Garrido,2
+Gautham J. Mysore,2
+Sungmook Lim,2
+Robert Bredereck,2
+Jane You,2
+Sambit Sahu,2
+Anirban Roychowdhury,2
+Ming-Yang Su,2
+Shahar Golan,2
+Rauf Izmailov,2
+Wei Feng,2
+Rui Huang,2
+Deepak Ramachandran,2
+Hoyt A. Koepke,2
+Gilles Chabert,2
+Jussi Kantola,2
+Jean Ponce,2
+F. Henry Abanda,2
+Syed Khairuzzaman Tanbeer,2
+Wei-Hsun Lee,2
+V. Vaidehi,2
+Daniel Paurat,2
+Su-Fen Yang,2
+Bo Waggoner,2
+Xinghua Lou,2
+Jiliu Zhou,2
+Isabel M. Horta,2
+TaeHoon Hong,2
+Jichang Zhao,2
+Antonio Artés-Rodríguez,2
+Daniel Kifer,2
+Nathan Nan Liu,2
+Chusak Limsakul,2
+Qingming Huang,2
+Marios Hadjieleftheriou,2
+Fernando Sánchez Lasheras,2
+Hongtao Hu,2
+Yung-Chia Chang,2
+L. R. Padovese,2
+D. G. Fernández-Pacheco,2
+Dan Goldwasser,2
+Huayan Wang,2
+Alexandru Niculescu-Mizil,2
+Mariusz Naumowicz,2
+Nima Taghipour,2
+Geoffrey Holmes,2
+Tanmoy Chakraborty,2
+J. M. de la Cruz,2
+Geert Poels,2
+Prithviraj Sen,2
+Anne E. James,2
+Luca Anselma,2
+Clement T. Yu,2
+Seyed Hessameddin Zegordi,2
+Dongsheng Duan,2
+Chao Wang,2
+Yandong Liu,2
+Francesco Di Maio,2
+Shizhong Liao,2
+Wieland Brendel,2
+Mark O. Riedl,2
+Shi Zhi,2
+Christoph Studer,2
+Yue Wang,2
+Toby Sharp,2
+Jianxin Liao,2
+Ron Appel,2
+Luis E. Agustín-Blas,2
+David Vázquez,2
+Swaprava Nath,2
+Chi-Leung Hui,2
+Zhi He,2
+Sven J. Dickinson,2
+Jamie Shotton,2
+Anifowose Fatai,2
+George Papadakis,2
+Xingwei Yang,2
+Elisabet Golobardes,2
+Milos Tanasijevic,2
+Yuan Li,2
+Chen Luo,2
+Helon Vicente Hultmann Ayala,2
+Omar Al-Araidah,2
+Adrian Boteanu,2
+Ethan L. Schreiber,2
+Christopher Expósito Izquierdo,2
+Sojung Kim,2
+Zhongping Wan,2
+David Bindel,2
+Vineet Kumar,2
+Young-Koo Lee,2
+Scott Kiesel,2
+Yili Fang,2
+Kwanho Kim,2
+Jie Yu,2
+Randall Davis,2
+Zheng-Jie Yin,2
+Xingyu Gao,2
+Harish Garg,2
+Yao-Chi Hsu,2
+Beatriz Rey,2
+Cliff T. Ragsdale,2
+Chi-Jen Lu,2
+Min Huang,2
+Eduard Barbu,2
+Benigno Uria,2
+Josiel Maimone de Figueiredo,2
+Hung-Cheng Chen,2
+Tian Zhu,2
+Fabio Fassetti,2
+Dan Jurafsky,2
+Francisco J. R. Ruiz,2
+Giorgio Stefanoni,2
+Xianwang Wang,2
+Jan Adamowski,2
+Javier Sanchis,2
+Jen-Chun Lee,2
+S. F. Ghaderi,2
+Vicente Moret-Bonillo,2
+Ke Liu,2
+Zhenan Sun,2
+Liessman Sturlaugson,2
+M. C. Rodriguez-Sanchez,2
+Qi Rose Yu,2
+Juho Lee,2
+Noelia García Rubio,2
+Shekhar Gupta,2
+David Gamarnik,2
+Wei-Yu Han,2
+Suju Rajan,2
+Michael Zakharyaschev,2
+Or Sheffet,2
+Samuel Varas,2
+Diego Andina,2
+Zhengyou Zhang,2
+Robert F. Harrison,2
+Yang Tang,2
+Ansaf Salleb-Aouissi,2
+Jaime S. Cardoso,2
+David L. Small,2
+Guy Shani,2
+Mirwaes Wahabzada,2
+Illah Reza Nourbakhsh,2
+John W. Sheppard,2
+Alen Jakupovic,2
+Vito Claudio Ostuni,2
+Engin Yesil,2
+Jorge Lobo,2
+Feng-Yi Yang,2
+Hae-Chang Rim,2
+Gopikrishnan Maniachari,2
+D. Sculley,2
+Yi Pan,2
+Frank Yeong-Sung Lin,2
+Deron Liang,2
+Jessica K. Hodgins,2
+Andy Song,2
+Bing Qin,2
+Kuang-chih Lee,2
+Mohamed Abdel-Mottaleb,2
+Cheng Yang,2
+Zhanpeng Fang,2
+Daniel Foreman-Mackey,2
+Yongqiang Wang,2
+Mahsa Alishahi,2
+Ignacio J. Pérez,2
+Pengnian Wang,2
+Charles Bergeron,2
+Philipp Krähenbühl,2
+Seyed Farid Ghaderi,2
+Bo Long,2
+Ying Zhou,2
+Tengfei Liu,2
+Huasha Zhao,2
+Narendra Ahuja,2
+Rajesh Kumar Ravi,2
+Jegar Pitchforth,2
+Pavle Obid,2
+Nima Jafari Navimipour,2
+Hsin-Chia Fu,2
+Erhardt Barth,2
+Kuang-Ku Chen,2
+Dong Woo Seo,2
+Magnus Rattray,2
+Juan Lara-Rubio,2
+Lukasz Golab,2
+Lili Wang,2
+Iasonas Kokkinos,2
+Zhihao Yang,2
+Fabio Tozeto Ramos,2
+Gillian Dobbie,2
+Michael John Schofield,2
+Hala Mostafa,2
+Brian Williams,2
+Fusun Yaman,2
+Gartheeban Ganeshapillai,2
+Jan Claes,2
+Peifeng Yin,2
+Shulin Yang,2
+Frédéric Koriche,2
+Arun Iyer,2
+Tuong Le,2
+Weifeng Zhi,2
+Tristan Naumann,2
+Emiliano Reynares,2
+Michael Chertkov,2
+Dries F. Benoit,2
+Elena González,2
+Liyun Ru,2
+Vinay K. Chaudhri,2
+Yonggang Wen,2
+Bahram Amini,2
+Chin-Chang Yang,2
+Sudeshna Sarkar,2
+Mitsunori Ogihara,2
+James H. von Brecht,2
+Ramakrishnan Ramanathan,2
+Zhenwen Dai,2
+Willy Susilo,2
+Craig A. Knoblock,2
+Maghsoud Amiri,2
+Kuo-Qin Yan,2
+Varun Chandola,2
+Yau-Tarng Juang,2
+Alex Seret,2
+Hsueh-Chien Cheng,2
+Marcos E. Orchard,2
+Florian T. Hecker,2
+Stephen Giguere,2
+Cane Wing-ki Leung,2
+Sahin Cem Geyik,2
+Yiming Ying,2
+C. K. Cheng,2
+Christoph Lippert,2
+Edward Challis,2
+Thyago Tenório,2
+Bei Chen,2
+Martina Freiberg,2
+John K. Williams,2
+Marco Cristo,2
+Úrsula Costa,2
+Aris Filos-Ratsikas,2
+Maria Polukarov,2
+Amir-Reza Abtahi,2
+Antonio Manuel López,2
+Xudong Liu,2
+Xiao-Feng Yin,2
+W. L. Yeung,2
+Kun Yue,2
+Yusu Wang,2
+Brody Huval,2
+Changsheng Xu,2
+Yankui Liu,2
+Yanping Xiang,2
+Rebecca A. Hutchinson,2
+Yiping Ke,2
+Dinggang Shen,2
+Eduardo Iáñez,2
+Amirmohammad Rooshenas,2
+Joan Cabestany,2
+Dilek Küçük,2
+José A. Troyano,2
+Evandro de Barros Costa,2
+Mohamed Lamine Mekhalfi,2
+Koji Tsuda,2
+Mirko Vujosevic,2
+Jong-Ryul Lee,2
+Van-Nam Huynh,2
+George A. Vouros,2
+Abbas Ali Noora,2
+Chao-Hung Lin,2
+Jianqiang Shen,2
+Xingsi Xue,2
+Hideitsu Hino,2
+João Paulo Costeira,2
+Suriya Gunasekar,2
+Tsan-Ming Choi,2
+Melih Kandemir,2
+Javier Peña,2
+Jonathan E. Taylor,2
+Marcos Ortega,2
+Chun-Hao Chen,2
+Chia-Nan Ko,2
+Punam Bedi,2
+Hassan Basri,2
+Tak Kuen Siu,2
+Volodymyr Kuleshov,2
+Theo Gevers,2
+Tianxiang Gao,2
+Aníbal R. Figueiras-Vidal,2
+Lovekesh Vig,2
+Zitian Wang,2
+Chung-I. Li,2
+Jiabing Wang,2
+Yiqiang Chen,2
+Ziming Zhang,2
+Guochen Cai,2
+Rocio de Oña,2
+Ramgopal R. Mettu,2
+Duygu Çalisir,2
+Tim Kraska,2
+Seok-Beom Roh,2
+Keshav P. Dahal,2
+Xiaofeng Zhou,2
+Yao-Chen Kuo,2
+M.-N. Mokhtarian,2
+Dongwoo Kang,2
+Megasthenis Asteris,2
+Katherine J. Lai,2
+Jun-Ching Liu,2
+Shuo Yang,2
+Daniel P. Huttenlocher,2
+Osmar R. Zaïane,2
+Diego Sáez-Trumper,2
+Lihua Yue,2
+Rafael Pino-Mejías,2
+Xiaoming Liu,2
+Jendrik Seipp,2
+Aleksander Aristovnik,2
+Changhu Wang,2
+Carl Henrik Ek,2
+Moisés Díaz Cabrera,2
+Massimiliano Albanese,2
+Bei Pan,2
+Pietro Colombo,2
+Hyoungjoo Lee,2
+Leandro Daniel Vignolo,2
+Yongmei Liu,2
+Massih-Reza Amini,2
+Ulf Johansson,2
+Olivier Sigaud,2
+Ales Leonardis,2
+David Chek Ling Ngo,2
+Stefan Zanon,2
+Arif Ghafoor,2
+Vikram V. Appia,2
+Noga Alon,2
+J. Saketha Nath,2
+Zoran Bosnic,2
+Khalid Benabdeslem,2
+Amr Badr,2
+Zhi-xin Su,2
+Morteza Ibrahimi,2
+Selin Soner Kara,2
+Natalia Flerova,2
+María T. López,2
+Maria Hänninen,2
+Ilgu Yun,2
+Shuai Zheng,2
+Brian McFee,2
+Min Yang,2
+Ming-Yu Liu,2
+Jian-Guang Lou,2
+Juan-Carlos Cano,2
+Stoyan Tanev,2
+V. V. Strijov,2
+David P. Helmbold,2
+Patrick J. Flynn,2
+Thomas Brennan,2
+Jian-Tao Sun,2
+Muhammad Aamir Cheema,2
+Ying He,2
+Chris Christodoulou,2
+Sadik Kara,2
+Zhaowei Shang,2
+Raquel Barco,2
+Julien Velcin,2
+Michael Johanson,2
+Alejandro Javier García,2
+Min-Rong Chen,2
+Shazia Wasim Sadiq,2
+Jacek Skorupski,2
+Darren Homrighausen,2
+Simon Lucey,2
+John W. Fisher,2
+Muhammad Atif Tahir,2
+Kacper Chwialkowski,2
+Joan Bruna,2
+Junbiao Wang,2
+Bin Yao,2
+David Benavides,2
+Shaoting Zhang,2
+Yoon-Sik Cho,2
+Edward Y. Chang,2
+Li Wan,2
+Richard Szeliski,2
+José Antonio Orosa,2
+Stefan Mathe,2
+Aditya Tayal,2
+Frank C. Meinecke,2
+Luisa M. Regueras,2
+Milica Selmic,2
+Tong Xu,2
+Christoph M. Wintersteiger,2
+Tülin Inkaya,2
+Krystian Mikolajczyk,2
+Zafer Bingül,2
+Yuan Ge,2
+Michal Ptaszynski,2
+Benjamin Sapp,2
+Roliana Ibrahim,2
+Tamás Sarlós,2
+Xu-Cheng Yin,2
+Steven J. Simske,2
+Boluwaji A. Akinnuwesi,2
+Guei-Yin Lin,2
+Edoardo M. Airoldi,2
+Sakti Pramanik,2
+Ahmad Hawalah,2
+Alessio Bottrighi,2
+Dhruv Mahajan,2
+Michael Mampaey,2
+Lu Zhang,2
+Dongxiao He,2
+Sandy Moens,2
+Michael H. Coen,2
+Teppo Mikael Niinimäki,2
+Pierre Dupont,2
+Jo-Ting Wei,2
+Adarsh Kowdle,2
+Miguel Rocha,2
+Konstantinos Christidis,2
+Inés María Galván,2
+Angélica de Antonio,2
+Gong-Qing Wu,2
+Karl-L. Schuchmann,2
+Daniel J. Geschwender,2
+Kelvin Sim,2
+Silvia Jiménez-Fernández,2
+Valeria Fionda,2
+Sung-Jin Kim,2
+Matthieu Guillaumin,2
+Walter Stephen Lasecki,2
+Luis Sánchez,2
+Ryan P. Browne,2
+Saisakul Chernbumroong,2
+Peng Yang,2
+Evangelos E. Milios,2
+Sergey Feldman,2
+A. Mohamadghasemi,2
+Fredrik Thuring,2
+Gavin Taylor,2
+Yalan Zhou,2
+Zhi-Li Zhang,2
+Cesar F. Caiafa,2
+Osmar Possamai,2
+Fred Morstatter,2
+Bamdev Mishra,2
+Lu Ren,2
+Pannagadatta Shivaswamy,2
+M. Fatih Talu,2
+Gerson Zaverucha,2
+Jianping Fan,2
+Nicolás Garrido,2
+Jiaming Xu,2
+Yuliya Lierler,2
+Costas Panagiotakis,2
+Dragan Stojanovic,2
+Xiaoxiao Guo,2
+Jonathon Shlens,2
+Jinghe Zhang,2
+Ron Kimmel,2
+Nikos Papadakis,2
+Alon Zweig,2
+Jens Lagergren,2
+Dexuan Zou,2
+Maneesh Bhand,2
+Ninh Pham,2
+Arash Vahdat,2
+Suresh Chandra,2
+Nguyen Xuan Vinh,2
+David Lo,2
+Skyler Speakman,2
+Hongbin Dong,2
+Sen Wang,2
+Gabriele Manno,2
+Yoelle Maarek,2
+Anita Raja,2
+Linjun Yang,2
+Antonio Bahamonde,2
+Maxime Gasse,2
+Stefano Baccianella,2
+Boris S. Gutkin,2
+Bichen Zheng,2
+Ardavan Saeedi,2
+Sun Park,2
+Ferhat Kurtulmus,2
+Jason I. Hong,2
+Francisco J. Martinez,2
+Richard Turner,2
+Lian Duan,2
+Virgilijus Uloza,2
+Rodolfo Lourenzutti,2
+Lydia E. Kavraki,2
+Moacir Fernandes de Godoy,2
+Bing Duan,2
+Juan Zapata,2
+Martin Neil,2
+Francisca López-Granados,2
+Philippe De Wilde,2
+Przemyslaw Grzegorzewski,2
+Q. M. Jonathan Wu,2
+Stjepan Oreski,2
+Gwenn Englebienne,2
+Pedro Larrañaga,2
+Vennila Ramalingam,2
+Pablo Garcia Bringas,2
+Georgios Meditskos,2
+Boris Cule,2
+Jennifer Dy,2
+Rui Caseiro,2
+Zengshan Tian,2
+Guy Ben-Yosef,2
+Brooks Paige,2
+Teck-Soon Hew,2
+Yun Seon Kim,2
+Shiji Song,2
+Ravi Kant,2
+Jianping Yin,2
+Saumyakant Padhee,2
+Morteza Lahijanian,2
+Hong-Sen Yan,2
+Si-Chi Chin,2
+Saurabh Paul,2
+Zhi Cai,2
+Kyoung Kwan Ahn,2
+Emilio G. Ortíz-García,2
+Thomas Acton,2
+A. Kazemi,2
+Anuj Karpatne,2
+Philippe De Maeyer,2
+Mohammad Mahdian,2
+Federico Barber,2
+Özgür Sümer,2
+Basar Öztaysi,2
+Jesús Arias-Fisteus,2
+Wen Jiang,2
+Alvis Cheuk M. Fong,2
+Bert C. Huang,2
+Yan Luo,2
+Alexandre Termier,2
+Clifton Phua,2
+Issa J. Dahabreh,2
+Shuaiqiang Wang,2
+Ramakrishnan Kannan,2
+Radha Chitta,2
+Shu-Ching Wang,2
+Kang Liu,2
+Asier Perallos,2
+Yang Yi,2
+Andreas Maurer,2
+Oscar Marbán,2
+Colin Keng-Yan Tan,2
+S. P. Sharma,2
+André Mayers,2
+Andrei C. Jalba,2
+Guangfei Yang,2
+Jie Tian,2
+Gregory M. Moore,2
+Céline Robardet,2
+Jaldert O. Rombouts,2
+Joon S. Lim,2
+Di Jin,2
+M. Victoria Ibáñez,2
+Mansoor Rezghi,2
+Ryan R. Curtin,2
+Kongkiti Phusavat,2
+Petr Husek,2
+Kwang-Jae Kim,2
+Richard J. Radke,2
+Petros Maragos,2
+Sun-pui Ng,2
+Trong Nghia Hoang,2
+Olivier Colliot,2
+Irene Castellón,2
+Mohammad Rashedul Hasan,2
+Cristiano André da Costa,2
+Stephen J. H. Yang,2
+Sunjoo Oh,2
+Domingos Lucas Latorre de Oliveira,2
+Xiao-Yuan Jing,2
+Patrick Pérez,2
+Yao Li,2
+Sergio López-Márquez,2
+Tsung-Yi Chen,2
+Ling Feng,2
+Stefano Ghidoni,2
+Seon Joo Kim,2
+Scott Backhaus,2
+David Forsyth,2
+Omer Barkol,2
+Shu-Mei Guo,2
+Olimpia I. Ban,2
+Francisco Javier Diaz Delgadillo,2
+Cristina Conati,2
+Bin Fan,2
+Okan K. Ersoy,2
+Mahashweta Das,2
+Luis Emmi,2
+Geoff Jiang,2
+Nicolas Lachiche,2
+Zhi-Qiang Liu,2
+David M. Pennock,2
+Kerrie L. Mengersen,2
+Mahmoud Omid,2
+S. G. Deshmukh,2
+En-Hsu Yen,2
+Nicolas Boumal,2
+Stephen Muggleton,2
+Zhenhua Guo,2
+Beat Pfister,2
+Ingo Thon,2
+Thomas R. Hinrichs,2
+Alper Ayvaci,2
+Zhenglu Yang,2
+Joel Pinho Lucas,2
+Gisung Kim,2
+Otis Smart,2
+Taehwan Kim,2
+Ting Yu,2
+Reza Bosagh Zadeh,2
+Filipe Rodrigues,2
+Christopher Painter-Wakefield,2
+Yeonjoo Kim,2
+Konstantinos G. Derpanis,2
+Roy Fox,2
+Vijay Devabhaktuni,2
+Michael L. Wick,2
+Peter F. Sturm,2
+Antonio Ruiz Cortés,2
+Isabelle Stanton,2
+Yukio Ohsawa,2
+Nima Asadi,2
+P. Radha Krishna,2
+Eunice Yuh-Jie Chen,2
+Chi-Chun Lo,2
+Shuyang Gao,2
+Nijat R. Isazade,2
+Ruggiero Cavallo,2
+Stanley Kok,2
+Heng Zhang,2
+Floriana Esposito,2
+Aditya Telang,2
+Mingyang Li,2
+Ming-Wey Yang,2
+Daniela Rus,2
+Kirupa Ganapathy,2
+Ju Cheng Yang,2
+Xinjie Zhou,2
+Ralf Eggeling,2
+Vimal Bhatia,2
+Caro Lucas,2
+Sheng-Long Lv,2
+Maseud Rahgozar,2
+Lucila Ohno-Machado,2
+Xi Zhang,2
+Chi-Yung Lee,2
+Anuj Prakash,2
+Eduardo José da S. Luz,2
+Anders Søgaard,2
+Amichai Painsky,2
+Zahra Zamani,2
+Kata Sanguansat,2
+Leto Peel,2
+Ruibin Bai,2
+Karen Livescu,2
+Jana Schaich Borg,2
+Guodong Tian,2
+David J. Miller,2
+Yadati Narahari,2
+Shumin Guo,2
+Xu-Yao Zhang,2
+Yuefen Wang,2
+Carl Doersch,2
+A. K. Ariffin,2
+Adel Hatami-Marbini,2
+Asdrúbal López Chau,2
+Marco Bozzano,2
+Pramod Viswanath,2
+Louiqa Raschid,2
+Hamdi Yahyaoui,2
+Yu-Kuo Chung,2
+Hongpeng Yin,2
+Jiang Jiang,2
+Kuo Zhang,2
+Carlos Monserrat,2
+Ryan Luna,2
+Zirui Zhou,2
+Ashkan Rahimi-Kian,2
+Jose Jesus Castro-Schez,2
+Ling Hu,2
+Bülent Güven,2
+Leandro Fleck Fadel Miguel,2
+Cesar Augusto Tacla,2
+Xiaowei Zhang,2
+Alexandre M. Bayen,2
+Aidong Lu,2
+Zhitang Chen,2
+Rubén Fuentes-Fernández,2
+Dawei Tang,2
+Sang Won Yoon,2
+Tias Guns,2
+Fernando Martínez Santiago,2
+Álvaro Rodrigo,2
+Elena Verdú,2
+Marko Munih,2
+Bikram Sengupta,2
+Ashok Kumar Das,2
+Itziar Landa-Torres,2
+Mario Frank,2
+Jonathan Grizou,2
+Timos K. Sellis,2
+Shian-Chang Huang,2
+Laura Sebastia,2
+Siti Norul Huda Sheikh Abdullah,2
+Hong-Wei Hao,2
+Hiroshi Murata,2
+Mathijs de Weerdt,2
+Brian Moon,2
+Susana Borromeo,2
+André S. Fialho,2
+Luciano Boquete,2
+Cláudio Rosito Jung,2
+Arne Leijon,2
+Andrej Karpathy,2
+Josue Cabrera,2
+Rikiya Takahashi,2
+Zoran Miljkovic,2
+Wynne Hsu,2
+Ran Gu,2
+Eric Granger,2
+Chen-Chung Liu,2
+John Halloran,2
+America Chambers,2
+Sundaram Suresh,2
+Youssef Hamadi,2
+Andreas Stuhlmüller,2
+Dragomir R. Radev,2
+Jiann-Der Lee,2
+Rajat Monga,2
+Carlos Carvalho,2
+Seyda Topaloglu,2
+Lav R. Varshney,2
+Koh Takeuchi,2
+Javier Torres Niño,2
+Turgay Ibrikci,2
+Gregory F. Cooper,2
+Ching-Hsue Cheng,2
+Krzysztof Chalupka,2
+Sima Taheri,2
+Burr Settles,2
+Ting Hua,2
+Yunpeng Cai,2
+Hamid Yaghobi,2
+Marc Solé,2
+Kyogu Lee,2
+Anand Rangarajan,2
+Jiangzhuo Chen,2
+Cheng Long,2
+Andrew M. Saxe,2
+Canyi Lu,2
+Ted E. Senator,2
+Roberto Di Pietro,2
+Paul Stursberg,2
+Tongliang Liu,2
+Jaime Roberto Ticay-Rivas,2
+Ildar Z. Batyrshin,2
+Vidhya Navalpakkam,2
+Oren Somekh,2
+Jing He,2
+Taco Cohen,2
+Roman Matousek,2
+Show-Jane Yen,2
+Myeong-Jo Son,2
+Silvere Bonnabel,2
+Pedro J. García-Laencina,2
+Prantik Bhattacharyya,2
+C. Lawrence Zitnick,2
+Ahmad Makui,2
+Anurag Bhardwaj,2
+Huajin Tang,2
+Antonio Rodríguez,2
+Karin C. Knudson,2
+Wen-Hsien Tsai,2
+Shervin Javdani,2
+Mu-Chun Su,2
+Yufeng Liu,2
+Füsun Ülengin,2
+Ruonan Li,2
+Horst Samulowitz,2
+Rodrigo Martínez-Béjar,2
+Hongfei Lu,2
+Yariv Dror Mizrahi,2
+Daniel Huang,2
+Jonathan D. Linton,2
+Tuan Anh Nguyen,2
+Jarder Luo,2
+Farid García-Lamont,2
+Johannes Lederer,2
+Alberto Cano,2
+Alejandro Correa Bahnsen,2
+Changwei Hu,2
+Hongtai Li,2
+Darwin G. Caldwell,2
+Thomas Laurent,2
+Mao-Yuan Pai,2
+Vincent Oria,2
+Timothy Wiley,2
+Jeremy C. Weiss,2
+Shengping Zhang,2
+Kalev Kask,2
+Khang Nhut Lam,2
+Mitra Mohtarami,2
+Verónica López-Ludeña,2
+Renaud Keriven,2
+Yi-Cheng Tu,2
+Mohammed Azmi Al-Betar,2
+Adam Sedziwy,2
+A. Ben Hamza,2
+Finale Doshi,2
+Bingbing Ni,2
+Christian Andersson Naesseth,2
+Yagil Engel,2
+Andrew J. Wang,2
+Francesco Marcelloni,2
+Guang-Yu Zhu,2
+Duo Zhang,2
+Sergio Alejandro Gómez,2
+Steven W. Zucker,2
+David Danks,2
+Jose Costa Pereira,2
+Ligeng Zou,2
+Chong Peng,2
+Jianxin Wu,2
+Iria da Cunha,2
+Mohammad Haghighat,2
+Geoffrey M. Voelker,2
+Diego Colombo,2
+Flávio Celso Trigo,2
+Babak Ahmadi,2
+Howard Lee,2
+Danny Bickson,2
+Lianghao Li,2
+Ming-Hung Shu,2
+N. Alp Erilli,2
+Tommaso Di Noia,2
+Solomon Tesfamariam,2
+Sim Heng Ong,2
+Jin-Hyuk Hong,2
+Ranga Raju Vatsavai,2
+Saima Aman,2
+Esteban Alfaro Cortés,2
+Kuo-Chung Chu,2
+Jed Irvine,2
+Ruey-Chyn Tsaur,2
+Osmar Norberto de Souza,2
+Ari Pakman,2
+Lei Yu,2
+Lotfi Ben Romdhane,2
+Xiangyang Zhou,2
+Ignacio Álvarez,2
+Matthias Broecheler,2
+Lei Cao,2
+Torsten J. Gerpott,2
+Maximilian Nickel,2
+Francisco Chiclana,2
+Ran Taig,2
+Lina Zemeckyte,2
+Carmine Ventre,2
+Guo-Xian Yu,2
+Andrey Bernstein,2
+Sungchan Park,2
+Daehyung Lee,2
+Robson Leonardo Ferreira Cordeiro,2
+Rupinder Paul Khandpur,2
+Giorgios Kollias,2
+Alexander Van Esbroeck,2
+Srinivas C. Turaga,2
+Antonio J. Serrano-López,2
+Hong Gao,2
+David C. Yen,2
+Pedro Melo-Pinto,2
+Li Zhou,2
+Juhua Hu,2
+Gerardo Treviño-Garza,2
+Jianmin Xu,2
+Christoph Strecha,2
+Eugenio Di Sciascio,2
+Hongyi Zhang,2
+Gaurav Bhatnagar,2
+Luis Javier García-Villalba,2
+Shuo Chen,2
+Yannis Manolopoulos,2
+Wen-Chung Kao,2
+S. N. Omkar,2
+Jafar Tanha,2
+Sheng Li,2
+Qin-Lian Lin,2
+Jakub M. Tomczak,2
+Hao Su,2
+Maria Silvia Pini,2
+Jeffrey Ho,2
+Zaiwu Gong,2
+Linda C. Schmidt,2
+Milind R. Naphade,2
+José Maria Giron-Sierra,2
+Alireza Tamaddoni-Nezhad,2
+Tun-Yu Chang,2
+Xinqi Chu,2
+Nick Koudas,2
+Ivan Laptev,2
+David E. Smith,2
+Muddassar Farooq,2
+Ravi Sundaram,2
+Stefano A. Saetta,2
+Yong-Dong Li,2
+Prabhat,2
+Tung-Kuan Liu,2
+Charalampos Nikolaou,2
+Matthew Urry,2
+François Pachet,2
+Joseph Knight,2
+George A. Papakostas,2
+David N. Olivieri,2
+Marwan A. Mattar,2
+Francesco Camastra,2
+Hugh Perkins,2
+Yetian Chen,2
+Zefang Li,2
+Jun Xie,2
+Inci Batmaz,2
+Ann B. Ragin,2
+Bonny Banerjee,2
+Chongjun Yan,2
+Desheng Dash Wu,2
+Stanley J. Osher,2
+Dennis Sundvik,2
+Yusuf Kenan Yilmaz,2
+Dora M. Ballesteros L,2
+Juan Boubeta-Puig,2
+Neil Immerman,2
+Vikash K. Mansinghka,2
+Fernando C. N. Pereira,2
+Chiun-Sin Lin,2
+Chao Ma,2
+Yaojia Zhu,2
+Shen-Chien Chen,2
+Junbo Zhang,2
+Jae Young Choi,2
+Soma Biswas,2
+Sanjay Purushotham,2
+Sebastien Bratieres,2
+Huyen Do,2
+Anton Schwaighofer,2
+Yuto Yamaguchi,2
+Mingwang Tang,2
+Serkan Altuntas,2
+Sung-Shick Kim,2
+Iosif Mporas,2
+Peter Spirtes,2
+Yuanjun Bi,2
+Patrice Buche,2
+Barbara J. Grosz,2
+Alan Paul Fern,2
+Chin-Wan Chung,2
+Yingbo Zhou,2
+Jianzhu Ma,2
+Wen-Chin Chou,2
+Tal Beja,2
+Iftekhar Naim,2
+Rodrigo de Salvo Braz,2
+Trung-Thanh Pham,2
+András Antos,2
+Bilson J. L. Campana,2
+Sangyeon Lee,2
+Yusheng Xie,2
+Shan Liu,2
+Mehmet Akin,2
+Alexander L. Strehl,2
+Shahin Shahrampour,2
+Tingni Sun,2
+David Warde-Farley,2
+Quanzeng You,2
+Shiang-Tai Liu,2
+Joo-Hwee Lim,2
+Hongteng Xu,2
+Chunguang Bai,2
+Ron J. Weiss,2
+Jiun-Hung Chen,2
+M. P. Schoen,2
+H. R. Abdolmohammadi,2
+Takuya Matsuzaki,2
+Jiahui Wen,2
+Rajesh Hemant Chitnis,2
+Anlei Dong,2
+Halid Ziya Yerebakan,2
+Necmettin Sezgin,2
+Jan-Ray Liao,2
+Jesús Bobadilla,2
+Frada Burstein,2
+Xiaojun Wu,2
+Edgardo Manuel Felipe Riverón,2
+Yu Tang,2
+Shin-Yeu Lin,2
+Adrian I. Ban,2
+Keith McGreggor,2
+Robert J. Durrant,2
+Csaba Domokos,2
+Jon Hills,2
+Hsinchun Chen,2
+Rong Zhu,2
+Andries Petrus Engelbrecht,2
+Shin Ishii,2
+Di Wang,2
+Éric Grégoire,2
+Jeong-Hun Lee,2
+Seyyed Mahdi Hossein Motlagh,2
+Peter Gregory,2
+Ming-Tang Tsai,2
+Humberto Bustince Sola,2
+Tuve Löfström,2
+Xiaoming Sun,2
+Minyoung Kim,2
+Juan Domingo,2
+François Goasdoué,2
+Enric Junqué de Fortuny,2
+Changle Zhou,2
+Zhi Pei,2
+Ning Liu,2
+Shaddin Dughmi,2
+Celine Vens,2
+MohamadAli Torkamani,2
+Ismail Esen,2
+Nina Balcan,2
+Dong-Yuh Yang,2
+Yansong Feng,2
+Yubo Wang,2
+Rhonda Hoenigman,2
+Ibrahim Dogan,2
+Yuncai Liu,2
+Paea LePendu,2
+Chen Gong,2
+Matteo Santoro,2
+Mohamed A. Sharaf,2
+Yuanzhuo Wang,2
+Miloslav Konopík,2
+Xinyang Yi,2
+Juntao Liu,2
+Sébastien Giguère,2
+Ahmad Akbari,2
+Yu-Chen Lu,2
+Sam Ganzfried,2
+Aurel A. Lazar,2
+Yingjie Tian,2
+Soumyadeep Chatterjee,2
+Qingbo Hu,2
+Wolfgang Glänzel,2
+E. Busra Celikkaya,2
+Kalliopi Kravari,2
+Aurélien Lucchi,2
+Mario Boley,2
+Ashraf A. Kassim,2
+Stephanie Rosenthal,2
+Alan Qi,2
+Angela Ribeiro,2
+Agnes Radl,2
+Shieh-Shing Lin,2
+Xiaofeng He,2
+Sanja Petrovic,2
+Zhigeng Pan,2
+Gilles Meyer,2
+Jin Li,2
+Peter J. Sadowski,2
+Guillermo Cortes Robles,2
+Chie-Bein Chen,2
+Fang-Ming Hsu,2
+Haibin Ling,2
+Yevgeniy B. Slutskiy,2
+Atakan Yücel,2
+Dinesh R. Pai,2
+Georgina Stegmayer,2
+Hao Xia,2
+Zhangyang Wang,2
+Toby Walker,2
+Viktor K. Prasanna,2
+Xianfeng Gu,2
+Yi-Cheng Chen,2
+Wongun Choi,2
+Thomas Peel,2
+Ahmad Hemmati,2
+Xiaofeng Ding,2
+Austin R. Benson,2
+Fanjiang Xu,2
+William T. Freeman,2
+André Carlos Ponce Leon Ferreira de Carvalho,2
+Mariano Luque,2
+Montserrat Guillén,2
+Michele Lanzetta,2
+Andreas Geiger,2
+Nick Gisolfi,2
+Yoonseong Kim,2
+Wingyan Chung,2
+Vipul Jain,2
+Marcos André Gonçalves,2
+Ali Turkyilmaz,2
+J. Norberto Pires,2
+Wei Kuang,2
+Gérard Biau,2
+Luke S. Zettlemoyer,2
+Jin Young Choi,2
+Savvas A. Chatzichristofis,2
+Mohammad Hossein Fazel Zarandi,2
+Yanshuai Cao,2
+Carlos Arizmendi,2
+Slobodan Ilic,2
+Steve Kelling,2
+Linlin Zong,2
+Álvaro Barbero Jiménez,2
+Kyriakos Mouratidis,2
+Aurelio Ponz,2
+Hasan Selim,2
+Louis Theran,2
+Ginger Y. Ke,2
+Qian Zhang,2
+Archie C. Chapman,2
+Meghyn Bienvenu,2
+Chao Zhou,2
+Minyi Li,2
+Polina Golland,2
+Wendelin Böhmer,2
+Chia-Hung Lin,2
+Georges G. E. Gielen,2
+Ruofei Zhang,2
+Tatsuya Imai,2
+Angela D. Wilkins,2
+Sheila M. Lawrence,2
+Florence d'Alché-Buc,2
+Nicholas Hay,2
+Tracy Anne Hammond,2
+Kang Ye,2
+Bruno Scarpa,2
+Sebastian Link,2
+Pedro Lorca,2
+Ioannis Patiniotakis,2
+Meenakshi Mishra,2
+Vivek Kaul,2
+Dong-Her Shih,2
+Changying Du,2
+Vishal M. Patel,2
+Thomas Kollar,2
+Morten Mørup,2
+Simon Parkinson,2
+Churn-Jung Liau,2
+Rashish Tandon,2
+Kuo-Kuang Chu,2
+Qiang Wang,2
+Zhiqiang Xie,2
+Ismail Ben Ayed,2
+Sinem Kulluk,2
+Long Wu,2
+Raphaël Feraud,2
+Feng Niu,2
+Tao Mei,2
+Stefan Schaal,2
+Chunqiao Tan,2
+Shih-Cheng Horng,2
+Sethu Vijayakumar,2
+Onur Atan,2
+Piotr Katarzynski,2
+Yuying Li,2
+Dimitris Kugiumtzis,2
+Derek Long,2
+Stanislav Minsker,2
+Stella Heras,2
+Imari Sato,2
+Wei Geng,2
+Chu Kiong Loo,2
+Dinesh Garg,2
+Nan Zhang,2
+Jinliang Wei,2
+Xi-Zhao Wang,2
+Siamak Ravanbakhsh,2
+Xiaotong Zhang,2
+Ruilin Liu,2
+Qixia Jiang,2
+Francesca Petralia,2
+Luis Miguel Soria-Morillo,2
+Federico Bolaños,2
+Gustavo Alonso,2
+Aditya Khosla,2
+Umberto Panniello,2
+Albert Hung-Ren Ko,2
+Eric SanJuan,2
+Sebastian Rudolph,2
+Tan Yan,2
+Magdalene Marinaki,2
+Roee Litman,2
+Lefteris Angelis,2
+Shuyan Chen,2
+Kaushik Sinha,2
+Song Chun Zhu,2
+Omer Tamuz,2
+Jason Jingshi Li,2
+Ching-Chan Cheng,2
+Paul Harrenstein,2
+Silviu Maniu,2
+Chiao-Wen Liu,2
+Stefano V. Albrecht,2
+Daniel Yamins,2
+Yue-Shi Lee,2
+David D. Jensen,2
+Fang Jin,2
+Eric Huang,2
+David Matheson,2
+Yu Peng,2
+Ibrahim Khalil,2
+Wei Zhou,2
+Aurélien Garivier,2
+Vicent J. Ribas,2
+Jia-qing Zhao,2
+Lizhu Wang,2
+Lorenzo Orecchia,2
+Ramón Fuentes,2
+De Wang,2
+Steven Schockaert,2
+Nils Kriege,2
+Juan Carlos Ruiz-Rodríguez,2
+Shaul Druckmann,2
+Shuo-Yan Chou,2
+Nicola Rebagliati,2
+Rajiv Khanna,2
+Michael Häusser,2
+Peter Broomhead,2
+Ling-Jyh Chen,2
+Henry Lam,2
+Srinivasan H. Sengamedu,2
+Hsin-Hung Wu,2
+Ahamad Tajudin Khader,2
+Ahmed Musa,2
+Daniel Rodríguez,2
+Kun Gai,2
+Brian Coltin,2
+Andreas Harth,2
+Maria Vanrell,2
+Juan Humberto Sossa Azuela,2
+Hui Jiang,2
+Debadeepta Dey,2
+Lucio Compagno,2
+Tsuyoshi Ueno,2
+Juan Manuel Górriz,2
+Mahmudur Rahman,2
+Ya-huei Wang,2
+Tian-Wei Sheu,2
+Prashant Doshi,2
+Çaglar Gülçehre,2
+Werner Kristjanpoller,2
+Timon C. Du,2
+Robert Kleinberg,2
+Yue Lu,2
+Chang Dong Yoo,2
+Joseph K. Liu,2
+Hongyang Zhang,2
+Luciano Favaro,2
+YongHong Tian,2
+Yu Sun,2
+Reza Ghaderi,2
+Chien Chin Chen,2
+Jeffrey P. Bigham,2
+Motoaki Kawanabe,2
+Huanan Zhang,2
+Li-Jia Li,2
+José T. Palma,2
+Zhongwei Jiang,2
+Munindar P. Singh,2
+Lieyun Ding,2
+Kenneth Bollen,2
+Jixue Liu,2
+Ferran Diego Andilla,2
+Chin-Yuan Fan,2
+Jung-Yi Jiang,2
+Hongbo Zhou,2
+Jonathan Sorg,2
+Hilmar Finnsson,2
+Sang-Chan Park,2
+Bettina Konte,2
+Shaoyi Liao,2
+Aaron Hertzmann,2
+Xuan Zhu,2
+Hongxing Wang,2
+Javier Ferreiros,2
+Izchak Sharfman,2
+Laurianne Sitbon,2
+Nazaraf Shah,2
+John Blitzer,2
+William W. Guo,2
+Robert William Wright,2
+Andrew Turpin,2
+Nicolas Kourtellis,2
+Sreenivas R. Sukumar,2
+Mark Herbster,2
+Bing Fang,2
+Manuel Montes-y-Gómez,2
+Zoltán Bankó,2
+Bongshin Lee,2
+Bekir Karlik,2
+Tao Sun,2
+Chenghua Lin,2
+Aharon Birnbaum,2
+Mohammad Abdollahi,2
+Liang Yin,2
+Svitlana Volkova,2
+Nam Yeon Lee,2
+Paul Kidwell,2
+Stijn Viaene,2
+Amr El Abbadi,2
+Santosh K. Suram,2
+Manuel Luque,2
+Shin-ichi Maeda,2
+Víctor Fresno,2
+Guanghua Xu,2
+Zhanghui Wang,2
+Weiru Liu,2
+Shyam Boriah,2
+Shuang Song,2
+Rashed Khanjani Shiraz,2
+Takashi Matsuyama,2
+Botond Cseke,2
+Michiel Hermans,2
+Michail Vlachos,2
+Ju Fan,2
+David Leake,2
+Rafael Bello,2
+Daniel Sanchez-Valdes,2
+Po-Ruey Lei,2
+Vadlamani Ravi,2
+Shubhomoy Das,2
+Omer Lev,2
+Nayyar A. Zaidi,2
+Yibo Qi,2
+Jonghun Park,2
+Jiantao Wang,2
+Michael Young,2
+Chien-Feng Huang,2
+Ranchao Wu,2
+José A. Pino,2
+Alexander David Styler,2
+Kartik Talamadupula,2
+Thomas A. Mazzuchi,2
+Stan N. Finkelstein,2
+Juan Pablo Munoz,2
+John A. Bohada,2
+Gunnar Rätsch,2
+Zhao Kang,2
+H. S. Wang,2
+Jian Luo,2
+Guy De Tré,2
+Jingchao Ni,2
+Alba Fernández,2
+Muhammad Mustafa Kamal,2
+Ana Granados,2
+Ping-Chen Chang,2
+Suh-Yin Lee,2
+Kostas Daniilidis,2
+Sahar Araghi,2
+Saïd Hanafi,2
+Michael R. DeWeese,2
+Yao-Chung Fan,2
+Jair Cervantes,2
+Tarek Al-Hawari,2
+Stefanie Tellex,2
+Kleanthis-Nikolaos Kontonasios,2
+Kevin W. Bowyer,2
+Abdallah Saffidine,2
+Arash Termehchy,2
+Habib Benali,2
+Minh N. Do,2
+Ben Kao,2
+Andrew C. Gallagher,2
+Mao-Jiun J. Wang,2
+David W. Jacobs,2
+Scott Evans,2
+Yoshiteru Nakamori,2
+Michal Rosen-Zvi,2
+Panagiotis G. Ipeirotis,2
+Andreas Pieris,2
+Mingyi Zhang,2
+Chowdhury Mofizur Rahman,2
+Yanping Huang,2
+Hemant Tyagi,2
+Sergio L. Toral Marín,2
+José Juan Carbajal Hernández,2
+Jan Van Haaren,2
+Ming Lei,2
+Ognjen Rudovic,2
+Hongkun Yu,2
+Laxmidhar Behera,2
+César Ferri,2
+Xiting Wang,2
+Elizabeth A. Jensen,2
+Srihari Reddy,2
+Han Xiao,2
+Umut Simsekli,2
+Ziqi Wang,2
+Vedat Topuz,2
+Hongzhi Yin,2
+Duncan A. J. Blythe,2
+Martha A. Zaidan,2
+Michele Gorgoglione,2
+Justin Solomon,2
+Xiaobo Qu,2
+Dominic Palmer-Brown,2
+Chien-Ming Chen,2
+Fatma Kilinç-Karzan,2
+Kun-Hu Luo,2
+Ata Kabán,2
+Tanveer A. Faruquie,2
+Shravan M. Narayanamurthy,2
+Juan Pablo de Castro Fernández,2
+Livia Jakaite,2
+HweeHwa Pang,2
+Weiwei Liu,2
+Anshul Gupta,2
+Weixin Li,2
+S. M. T. Fatemi Ghomi,2
+Xin Sui,2
+Aonan Zhang,2
+Sébastien Lahaie,2
+Shang-Tse Chen,2
+Shankar Vembu,2
+Hod Lipson,2
+Olivier Lichtarge,2
+David Inouye,2
+Pierre-Antoine Absil,2
+Jay Liebowitz,2
+Piotr Duda,2
+Ferdous Ahmed Sohel,2
+Yilun Cai,2
+Jongwon Yoon,2
+Mohd Ashraf Ahmad,2
+Yujia Li,2
+Sherry Shanshan Ruan,2
+Vinay Deolalikar,2
+Rajeev Rastogi,2
+Forrest Briggs,2
+Jinhan Kim,2
+Marco Saerens,2
+Shin Ando,2
+Zi Wang,2
+Daniel Boley,2
+Egor V. Kostylev,2
+Daniel S. Levine,2
+Yang Xiang,2
+Pari Delir Haghighi,2
+Hsiang-Cheh Huang,2
+Braxton Osting,2
+Li-Minn Ang,2
+Leandro L. Minku,2
+Bin Liu,2
+M. Tamer Özsu,2
+Shou Chen,2
+Jürgen Dunkel,2
+M. Monica Subashini,2
+Richard Bernstein,2
+Ruoyi Jiang,2
+Xinggang Wang,2
+Katia P. Sycara,2
+Sahely Bhadra,2
+Moez Draief,2
+Judy Goldsmith,2
+Andrea Cavallaro,2
+Chia-Hui Chang,2
+Junhui Wang,2
+Francesco Bianconi,2
+Graham Katz,2
+Stefan Harmeling,2
+Jian-Xin You,2
+Huajing Fang,2
+Appu Shaji,2
+Ekaterini Ioannou,2
+Sakir Esnaf,2
+Giuseppe Pirrò,2
+Barnan Das,2
+Hui Cheng,2
+Michel Dumontier,2
+Evaggelia Pitoura,2
+Stephen E. Fienberg,2
+Ethan Fetaya,2
+Ascensión Gallardo-Antolín,2
+Vaibhav A. Narayan,2
+Dongyan Zhao,2
+Viktoriia Sharmanska,2
+Ying Xiong,2
+Yucheng Kao,2
+S. Kumar,2
+Li-min Wang,2
+Jun Xu,2
+Bartosz Swiderski,2
+Juan M. Moreno A,2
+Feng Zhou,2
+Arthur Szlam,2
+Markus Ettl,2
+Chun-Wei Seah,2
+Steven de Rooij,2
+Mansurul Bhuiyan,2
+Deepak Bhatt,2
+Zhongyang Fu,2
+Alexandre Proutière,2
+Melanie Herschel,2
+I-En Liao,2
+Salvatore Ruggieri,2
+Sandeep Pandey,2
+Yiming Ma,2
+Sang-Min Choi,2
+Yiwen Bian,2
+Pritish Mohapatra,2
+Alexander Zien,2
+Shipeng Li,2
+Nan Liu,2
+Petros Xanthopoulos,2
+Peng-Jen Lai,2
+Monique Snoeck,2
+Hui Lin,2
+Ricardo Aler,2
+Charu Aggarwal,2
+Guoqiang Han,2
+Jun-Ming Xu,2
+Didier Dubois,2
+Ying-Wu Chen,2
+Albert Yu,2
+Avleen Singh Bijral,2
+Iñaki Iturrate,2
+Hongjing Lu,2
+Wei Xu,2
+Amelia Simó,2
+Luis Ibarra,2
+Alessandro Sordoni,2
+Chengqing Zong,2
+Reyes Pavón,2
+Yahya Forghani,2
+Ryan D. Turner,2
+Hao Xu,2
+Sofia Mosci,2
+M. A. Martínez,2
+Jaime Arredondo,2
+Bogdan Savchynskyy,2
+Ashesh Jain,2
+Min-Soo Kim,2
+Leszek Kotulski,2
+Henri Pierreval,2
+Pradeep Shenoy,2
+Arif Tuna Ozgelen,2
+José Ramón Padilla-López,2
+Hengqing Tong,2
+Wendy Hui Wang,2
+Babis Theodoulidis,2
+Xavier Muller,2
+Joon Hee Han,2
+Lee H. Dicker,2
+David G. Andersen,2
+Allison Chang,2
+Young-Jou Lai,2
+Andrés R. Masegosa,2
+Andrea Vattani,2
+Jean-Yves Audibert,2
+Jiangtao Yin,2
+Chin Heng Wan,2
+Mikalai Tsytsarau,2
+Abderrahim Labbi,2
+Dmitry Vetrov,2
+Yeliz Ekinci,2
+Yejin Choi,2
+Ming Jiang,2
+Ali Rahimi,2
+Vassilis Pitsikalis,2
+Roberto Carballedo,2
+Congyan Lang,2
+Pradipta Maji,2
+Rohit Joshi,2
+Jon Sporring,2
+Jeongin Koo,2
+Marija Kuzmanovic,2
+Mohamed Adel Serhani,2
+Fengjiao Wang,2
+Reza Akbarinia,2
+Danilo Rejc,2
+Emad A. El-Sebakhy,2
+Lourdes Araujo,2
+Thanh Thi Nguyen,2
+Shih-Hao Wang,2
+Hoang-Hiep Vu,2
+Arkadiusz Jachnik,2
+James S. Cope,2
+Solomon Eyal Shimony,2
+Kenneth Sörensen,2
+Zheng Li,2
+Zheng Lu,2
+Dae-Won Kim,2
+L. Bartkiene,2
+Jui-Yu Wu,2
+Peter Kontschieder,2
+Dan Olteanu,2
+Bijan Raahemi,2
+Dongmo Zhang,2
+Robert Michael Young,2
+Patricio A. Vela,2
+Régis Sabbadin,2
+Guoli Ji,2
+Chih-Hsing Liu,2
+Chyouhwa Chen,2
+Kai Zhong,2
+Ana Maria Tomé,2
+Wai Kean Yap,2
+Byeonghwa Park,2
+C. Santhosh Kumar,2
+Boxin Shi,2
+Yang Song,2
+Hyunbo Cho,2
+Abram L. Friesen,2
+Yuval Elovici,2
+Bernard Yannou,2
+Ian J. Wassell,2
+Rahimeh Rouhi,2
+Himabindu Lakkaraju,2
+Louis-Philippe Morency,2
+Tao Zhang,2
+Swakkhar Shatabda,2
+Meng-Chun Kao,2
+Miguel Ángel Rodríguez-García,2
+Verónica Bolón-Canedo,2
+Chun-Chieh Chen,2
+Tae-Hyoung Kim,2
+Zhiping Chen,2
+Josh Attenberg,2
+Elena García Barriocanal,2
+Jason Stanley,2
+Dana H. Ballard,2
+Agnieszka Grabska-Barwinska,2
+Cong Leng,2
+Grazieli Luiza Costa Carosio,2
+Oleksiy B. Pogrebnyak,2
+Jacques J. Labrie,2
+J. Rafiee,2
+Ricardo Silva,2
+Hsiao-Yu Tung,2
+F. P. R. Martins,2
+Bin Xu,2
+David Buchman,2
+D. K. Banwet,2
+Amioy Kumar,2
+Claire Monteleoni,2
+Michael R. Evans,2
+Jean-Baptiste Tristan,2
+Byeong Ho Kang,2
+Margarita Osadchy,2
+Jiarong Jiang,2
+Peter Meer,2
+Kobbi Nissim,2
+Weiwei Shen,2
+Zhe Chen,2
+Achim Rettinger,2
+Julia Clemente,2
+Keith W. Hipel,2
+Qinghua Hu,2
+Peter J. Fleming,2
+Ana Belén Barragáns-Martínez,2
+Raif M. Rustamov,2
+Lazim Abdullah,2
+Yongchuan Zhang,2
+Salvador Sánchez Alonso,2
+Rasoul Irani,2
+Shonali Krishnaswamy,2
+Perng-Hwa Kung,2
+Tahir Khaniyev,2
+María Pilar Martínez-Ruiz,2
+Jean Pouget-Abadie,2
+Zicheng Liu,2
+Ralf Herbrich,2
+Hing Kai Chan,2
+José Antonio Pérez-Carrasco,2
+Xuan S. Yang,2
+Luigi Portinale,2
+Lloyd T. Elliott,2
+Xin Yuan,2
+Jason Sheng Hong Tsai,2
+Yahaya Yusuf,2
+Felix Hernandez-del-Olmo,2
+Chaitanya Ekanadham,2
+Antonio Portilla-Figueras,2
+Jeong-Hoon Lee,2
+Chin-Tsai Lin,2
+Jooseoung Park,2
+Juan Manuel Cueva Lovelle,2
+John S. Edwards,2
+Jimmy Ba,2
+Jason Xu,2
+Oscar Luaces,2
+Ying Yu,2
+Kuo-Ping Lin,2
+Irfan A. Essa,2
+Michael Werman,2
+Bao-Liang Lu,2
+Song Han,2
+Erich Schubert,2
+Martin Renqiang Min,2
+Marek Sikora,2
+Andrea Rossi,2
+Vikash Mansinghka,2
+Xin Tong,2
+Mehdi Jafari,2
+Shun-Jhong Niou,2
+Yingying Zhu,2
+Hong Yu,2
+Davide Martinenghi,2
+Gilberto Reynoso-Meza,2
+Elena Ikonomovska,2
+José G. Dias,2
+Hao Ma,2
+Jose M. Juarez,2
+Wittawat Jitkrittum,2
+Tomi Silander,2
+Gerardo I. Simari,2
+Tingting Zhao,2
+Murat Ceylan,2
+Rinaldo Lima,2
+Igor Santos,2
+Bianca Zadrozny,2
+Hassan A. Sleiman,2
+Daniel Cremers,2
+Wen-Rong Jerry Ho,2
+Oguzhan Karahan,2
+Lixin Gao,2
+Sandrine Anthoine,2
+Josefina Sierra-Santibáñez,2
+Wanxiang Che,2
+Ngo Anh Vien,2
+Mohammad Shokoohi-Yekta,2
+Jun Long,2
+Abdel-Illah Mouaddib,2
+Rita Cucchiara,2
+Nang-Fei Pan,2
+Qiang Qiu,2
+Otmane Aït Mohamed,2
+Qicong Chen,2
+Roung-Shiunn Wu,2
+Tao Zhou,2
+Ioannis A. Kakadiaris,2
+Mingyang Zhong,2
+Manuela I. Martín-Vicente,2
+Xiaoxue Zhao,2
+Gian Piero Zarri,2
+Nicholas Bartlett,2
+Nalin B. Dev Choudhury,2
+Yanpeng Li,2
+Christian Widmer,2
+Sau Dan Lee,2
+Hanmin Jung,2
+Behtash Babadi,2
+David D. Cox,2
+Yoram Singer,2
+Ian A. Kash,2
+Maciej Zieba,2
+Mark Kaminski,2
+Luciano de Souza Cabral,2
+Xiao Lin,2
+Adithya Rao,2
+Agapito Ledezma,2
+Jiyan Yang,2
+Serdar Kadioglu,2
+Ankur Moitra,2
+Mehdi Baradaran Nia,2
+Riccardo Rosati,2
+Tuncer I. Ören,2
+Zhiqi Shen,2
+Houssam Salmane,2
+Zeynep D. U. Durmusoglu,2
+Katerina Marazopoulou,2
+Francesco Ricci,2
+Luis Prieto,2
+Satyaveer Singh Chauhan,2
+Elke A. Rundensteiner,2
+Seungyong Doh,2
+Jbid Arsenyan,2
+Mung Chiang,2
+Mario Vanhoucke,2
+Qing Qu,2
+Michael Mozer,2
+Mark Crowley,2
+Wenhan Luo,2
+Xiang Yu,2
+Jeremy Karp,2
+Young Chol Song,2
+Jochen De Weerdt,2
+Kazuo Hara,2
+Haomin Li,2
+David Camacho,2
+David John Gagne II,2
+Leo Guelman,2
+Creighton Heaukulani,2
+Wen-Min Lu,2
+Huayu Li,2
+Francisco Javier Gimeno-Blanes,2
+Bradley Malin,2
+Zhanglong Ji,2
+Jing-Ning Hsu,2
+Jose M. Peña,2
+Athina Spiliopoulou,2
+Jimi Siekkinen,2
+Takahiro Okabe,2
+Jongin Son,2
+Peixiang Zhao,2
+Wei-Bo Zhang,2
+Jesús R. Campaña,2
+David R. Kaeli,2
+Miao Zhang,2
+Ying Kei Tse,2
+Hasan Çam,2
+Bo Luo,2
+Vassilios S. Verykios,2
+Theodore Dalamagas,2
+Xiaohui Bei,2
+Yu-Feng Lin,2
+Pratik Roy,2
+Antti Airola,2
+Sang Woo Kim,2
+Semih Ergin,2
+Zhaojun Liu,2
+Hongfei Li,2
+Murat Alper Basaran,2
+Marcel C. Minutolo,2
+Ron van der Meyden,2
+Yuan Liu,2
+Marko Kovacevic,2
+Shian-Hua Lin,2
+Eric Hsueh-Chan Lu,2
+Claiton M. S. Scherer,2
+Hao Wei,2
+Cuiping Li,2
+Habib Chabchoub,2
+Ze Tian,2
+Yao-Tien Wang,2
+Tsung-Che Chiang,2
+Theodoros Damoulas,2
+Dag Sonntag,2
+Zhen Lei,2
+Shengli Wu,2
+Vincent Thomas,2
+Gary C. L. Li,2
+Alejandro Catalá,2
+Fangzhao Wu,2
+Fred Freitas,2
+Kai-Yang Chiang,2
+Michaël Mathieu,2
+Cristian R. Munteanu,2
+Sebastián Ventura,2
+Marek Kropidlowski,2
+Wei Hu,2
+Norman E. Fenton,2
+Shiwei Yu,2
+Shumo Chu,2
+Suraj Prakash Harsha,2
+James G. Shanahan,2
+Satoshi Morinaga,2
+Chenyi Zhang,2
+Sebastian Kurtek,2
+Shan-Wei Lin,2
+Reza Nasimi,2
+Shubhendu Trivedi,2
+Carlotta Orsenigo,2
+Yanmei Hu,2
+Yin Song,2
+Rosane Maria Maffei Vallim,2
+Adelaida Lillo-Bañuls,2
+Amin Shokrollahi,2
+Martin F. Arlitt,2
+Ming-Lang Tseng,2
+Shuo Shang,2
+Chris M. Lloyd,2
+Wen-Hsiang Wu,2
+Phillip Isola,2
+Flavio Mari,2
+Anthony Bagnall,2
+Anton Riabov,2
+Yiannis Aloimonos,2
+Seyed Hossein Razavi Hajiagha,2
+Andrea Lockerd Thomaz,2
+Xin-She Yang,2
+Paul von Bünau,2
+Qingwei Lin,2
+Qingcai Chen,2
+María Arancha Simón Hurtado,2
+Naonori Kakimura,2
+David Applegate,2
+Victoria López,2
+Changzheng He,2
+Pau Climent-Pérez,2
+Chao Dong,2
+Eibe Frank,2
+Yan Li,2
+Ziqiang Cao,2
+Naveen Kumar,2
+Dmitry Malioutov,2
+Hong Cao,2
+Assaf Hallak,2
+Gamini Dissanayake,2
+Yi Ding,2
+Elina Havia,2
+Henry C. B. Chan,2
+Francesca Toni,2
+Weixiong Rao,2
+Ponnuthurai Nagaratnam Suganthan,2
+Blair D. Sullivan,2
+Josep Medina,2
+Murat A. Erdogdu,2
+A. T. Fleury,2
+Abdüsselam Altunkaynak,2
+Liheng Xu,2
+Patrick J. Wolfe,2
+Xavier Blasco Ferragud,2
+Manuel Gómez-Río,2
+Donniell E. Fishkind,2
+Tomas Balezentis,2
+Jesus Bernal,2
+Jiashen You,2
+Brian Frasca,2
+Thomas Mensink,2
+Milos Madic,2
+Kyuseok Shim,2
+Vahid Johari Majd,2
+Martin Azizyan,2
+Zhangzhang Si,2
+Samuel H. Huang,2
+J. Aguilera,2
+Behnam Ganji,2
+Santiago Ontañón,2
+Jianjun He,2
+Gül E. Okudan,2
+Omer Bilhan,2
+Heli Sun,2
+Juan Luis Castro,2
+Alessandro Prest,2
+Huiyou Chang,2
+Pavan K. Turaga,2
+Ziyu Wang,2
+José Antonio Parejo,2
+Nagaraj Kota,2
+Marco Pennacchiotti,2
+Zhaonian Zou,2
+Arvind Agarwal,2
+Xiaokui Xiao,2
+Mohammad Amin Sadeghi,2
+Tzuu-Hseng S. Li,2
+Robert J. Elliott,2
+Kun-Jen Chung,2
+David Riaño,2
+Junbao Li,2
+Ricard Gavaldà,2
+Xiaobing Yu,2
+João Miguel da Costa Sousa,2
+Ying Luo,2
+Julio López,2
+Yi-Ping Cheng,2
+Mohd Shahizan Othman,2
+Yu Xin,2
+Ashok K. Goel,2
+Leszek Rutkowski,2
+Cristina Soguero-Ruiz,2
+Kyoung-Don Kang,2
+Stefan Liess,2
+Djamila Aouada,2
+Sang Uk Lee,2
+Pavel Laskov,2
+Tian Lin,2
+David Robert Martin Thompson,2
+Luis Pastor Sánchez Fernández,2
+A. Albiter,2
+Paramesran Raveendran,2
+Noah Pettit,2
+Pablo Muñoz Luengo,2
+Yong He,2
+Shiwei Lan,2
+Guangquan Zhang,2
+Amulya Yadav,2
+Gökhan Torlak,2
+Hayaru Shouno,2
+Peggy Seriès,2
+Siu Cheung Hui,2
+Hai H. Nguyen,2
+Karl Stratos,2
+Zhonghua Ni,2
+Jonghyun Choi,2
+Pei-Chann Chang,2
+Drausin Wulsin,2
+Donghun Lee,2
+Diego D'Urso,2
+Christof Koch,2
+Yujing Wang,2
+Kenny Q. Zhu,2
+Luke Bermingham,2
+Narayanan Chatapuram Krishnan,2
+Peter N. Belhumeur,2
+Meir Goldenberg,2
+Georgios Exarchakis,2
+Deepa Anand,2

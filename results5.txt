@@ -1,0 +1,374 @@
+Philip S. Yu,69
+Jieping Ye,67
+Jiawei Han,63
+Eric P. Xing,58
+Zoubin Ghahramani,57
+Rong Jin,55
+Lawrence Carin,47
+Bernhard Schölkopf,46
+Michael I. Jordan,44
+Hui Xiong,42
+Masashi Sugiyama,42
+Zhi-Hua Zhou,41
+Yoshua Bengio,40
+David M. Blei,36
+Alexander J. Smola,36
+Shie Mannor,36
+Jie Tang,36
+Inderjit S. Dhillon,36
+Rémi Munos,34
+Dacheng Tao,34
+Christos Faloutsos,34
+Feiping Nie,33
+Csaba Szepesvári,33
+Xindong Wu,33
+Huan Xu,33
+Han Liu,32
+Kilian Q. Weinberger,32
+Shuicheng Yan,32
+Heng Huang,32
+Jun Zhu,32
+Qiang Yang,31
+Yan Liu,31
+Francis R. Bach,31
+Enhong Chen,31
+Ruslan Salakhutdinov,31
+Steven C. H. Hoi,31
+Le Song,30
+Fei Wang,29
+Jeff G. Schneider,29
+Andreas Krause,29
+Wei Wang,29
+Jun Wang,29
+Chris H. Q. Ding,27
+Jeff A. Bilmes,27
+Wei Fan,27
+David B. Dunson,27
+Max Welling,26
+Xingquan Zhu,26
+Shyi-Ming Chen,26
+Ping Li,26
+Kristian Kersting,26
+Yang Liu,25
+Alan Fern,25
+Tong Zhang,25
+Prateek Jain,24
+Shai Shalev-Shwartz,24
+Tao Li,24
+Ohad Shamir,24
+Barnabás Póczos,24
+Tianbao Yang,24
+Lise Getoor,23
+Huan Liu,23
+Hanghang Tong,23
+Yee Whye Teh,23
+Arindam Banerjee,23
+Koby Crammer,23
+Jian Pei,23
+Pradeep D. Ravikumar,23
+Richard S. Zemel,23
+Wei Chen,23
+Ariel D. Procaccia,22
+Andrew Y. Ng,22
+Peilin Zhao,22
+Ambuj Tewari,22
+Larry A. Wasserman,22
+Lijun Zhang,22
+Yong Ge,21
+Xiaofei He,21
+Alexander T. Ihler,21
+Martin J. Wainwright,21
+Ryan P. Adams,21
+Witold Pedrycz,21
+Arthur Gretton,21
+Doina Precup,20
+Hal Daumé III,20
+Aarti Singh,20
+Ivor W. Tsang,20
+Fei Sha,20
+Neil D. Lawrence,20
+Charu C. Aggarwal,20
+Dirk Van den Poel,20
+Prasad Tadepalli,19
+Jure Leskovec,19
+Daniel Hsu,19
+Mohammad Ghavamzadeh,19
+Joydeep Ghosh,19
+Sarit Kraus,19
+Francesco Bonchi,19
+Anil K. Jain,19
+Jing Gao,19
+Lei Chen,19
+Ming-Syan Chen,19
+Judea Pearl,19
+Milind Tambe,19
+Nathan Srebro,19
+Pushmeet Kohli,19
+Dominik Janzing,19
+Zhihua Zhang,19
+Hongyuan Zha,19
+Naren Ramakrishnan,18
+Mehryar Mohri,18
+Lei Zhang,18
+Yu Zheng,18
+Bo Zhang,18
+Elad Hazan,18
+Peter Stone,18
+Xifeng Yan,18
+Shenghuo Zhu,18
+Yi Yang,18
+Geoffrey E. Hinton,18
+Wei Ding,17
+Thomas G. Dietterich,17
+Yuhong Guo,17
+Chengqi Zhang,17
+Kristen Grauman,17
+Carla P. Gomes,17
+S. V. N. Vishwanathan,17
+Erik B. Sudderth,17
+Michael W. Mahoney,17
+Joelle Pineau,17
+Wang-Chien Lee,17
+Xiaofang Zhou,17
+Yangqiu Song,17
+Yong Yu,17
+Tamir Hazan,17
+Hugo Larochelle,17
+Pedro M. Domingos,17
+Raquel Urtasun,17
+José Miguel Hernández-Lobato,17
+Jingrui He,17
+Jonathan W. Pillow,17
+Dale Schuurmans,17
+Wei Liu,17
+Lei Li,17
+Trevor Darrell,17
+Cho-Jui Hsieh,17
+Tzung-Pei Hong,17
+Michael Bowling,17
+Dan Roth,17
+Longbing Cao,17
+Yaoliang Yu,17
+Nicholas R. Jennings,17
+Jun Liu,17
+Hisashi Kashima,16
+Deng Cai,16
+Craig Boutilier,16
+Kwangsoo Kim,16
+Gao Cong,16
+Ryota Tomioka,16
+Hua Wang,16
+Eyke Hüllermeier,16
+Shou-De Lin,16
+Nicolò Cesa-Bianchi,16
+King Lun Choy,16
+Amir Globerson,16
+Nuno Vasconcelos,16
+Yixin Chen,16
+Loris Nanni,16
+Nando de Freitas,16
+Ning Chen,16
+Cynthia Rudin,15
+George T. S. Ho,15
+Taiji Suzuki,15
+Eamonn J. Keogh,15
+Ben Taskar,15
+David C. Parkes,15
+Guy Van den Broeck,15
+Vincent Conitzer,15
+Feng Chen,15
+Hao Wang,15
+Jimeng Sun,15
+Yu Zhang,15
+John D. Lafferty,15
+Tony Jebara,15
+Alessandro Lazaric,15
+Ian Davidson,15
+Daniel Tarlow,15
+Pascal Fua,15
+Tomoharu Iwata,15
+Vincent S. Tseng,15
+Shivani Agarwal,15
+Thorsten Joachims,15
+Francesco Orabona,15
+Animashree Anandkumar,15
+Yang Yang,15
+Geoffrey I. Webb,15
+Gert R. G. Lanckriet,14
+Gang Chen,14
+Jun Guo,14
+Ming Zhou,14
+Shi-Jinn Horng,14
+Stefano Ermon,14
+James T. Kwok,14
+Dean P. Foster,14
+Ping Luo,14
+Jiliang Tang,14
+Venkatesh Saligrama,14
+Kun Zhang,14
+Tommi S. Jaakkola,14
+Jeffrey Xu Yu,14
+Chiranjib Bhattacharyya,14
+Nan Du,14
+Tie-Yan Liu,14
+Dit-Yan Yeung,14
+Padhraic Smyth,14
+Guy Lebanon,14
+Sriraam Natarajan,14
+Bart Selman,14
+Quanquan Gu,14
+Xi Chen,14
+Claudia Plant,14
+Ling Wang,14
+Emily B. Fox,14
+Shlomo Zilberstein,14
+Tuomas Sandholm,14
+Alekh Agarwal,14
+Nizar Bouguila,14
+Toby Walsh,13
+Sujay Sanghavi,13
+Aristides Gionis,13
+Xing Xie,13
+Jie Wang,13
+Vibhav Gogate,13
+Jason J. Jung,13
+Yizhou Sun,13
+Alexander G. Gray,13
+Scott Sanner,13
+Lirong Xia,13
+Stefanie Jegelka,13
+Shih-Fu Chang,13
+Peng Zhang,13
+Alessandra Lumini,13
+Xinhua Zhang,13
+Ken-ichi Kawarabayashi,13
+Volkan Cevher,13
+Li Zhang,13
+Bruno Scherrer,13
+Suvrit Sra,13
+Carlos Guestrin,13
+Chong Wang,13
+Thomas S. Huang,13
+Felix T. S. Chan,13
+Roman Garnett,13
+Jason Weston,13
+Branislav Kveton,13
+Karthik Sridharan,13
+Jianliang Xu,13
+Stephan Günnemann,13
+Yudong Chen,13
+Qiang Liu,13
+Kenji Fukumizu,13
+Lei Shi,13
+Stuart J. Russell,13
+Rishabh K. Iyer,12
+David P. Wipf,12
+Xiaoou Tang,12
+Aaron C. Courville,12
+Kevin Swersky,12
+Chunhua Shen,12
+Zhi-Hong Deng,12
+Wenlin Chen,12
+Alexander Rakhlin,12
+Jie Zhou,12
+Satyen Kale,12
+Christopher D. Manning,12
+Vipin Kumar,12
+Peng Cui,12
+Elisa Bertino,12
+Fang Han,12
+Xiangnan Kong,12
+Philipp Hennig,12
+David Sontag,12
+Bin Li,12
+Jaewook Lee,12
+Leandro dos Santos Coelho,12
+Guandong Xu,12
+Nikos Mamoulis,12
+Man Lung Yiu,12
+Jie Zhang,12
+David A. Knowles,12
+Alex Kulesza,12
+Jan Peters,12
+Shinichi Nakajima,12
+Jianmin Wang,12
+Yun Fu,12
+Adnan Darwiche,12
+Thomas L. Griffiths,12
+Sivan Sabato,12
+Haesun Park,12
+Liang Gao,12
+Yann LeCun,12
+Claudio Gentile,12
+Wei Wu,11
+Irwin King,11
+Aram Galstyan,11
+Maria-Florina Balcan,11
+So Young Sohn,11
+Sheryl Brahnam,11
+Chao Zhang,11
+Adil Baykasoglu,11
+Slobodan Vucetic,11
+Corinna Cortes,11
+Hady Wirawan Lauw,11
+Miguel Delgado,11
+Wei Zhang,11
+Odalric-Ambrym Maillard,11
+Rama Chellappa,11
+Peter Wonka,11
+Naonori Ueda,11
+Michael L. Littman,11
+Lihong Li,11
+Jennifer Neville,11
+Dirk Thorleuchter,11
+Brian Kulis,11
+Ilya Sutskever,11
+Piyush Rai,11
+Jing Li,11
+Andrea Montanari,11
+Guillermo Sapiro,11
+Haixun Wang,11
+Weiming Hu,11
+Jiajun Bu,11
+Jianyong Wang,11
+Johan A. K. Suykens,11
+Thomas Seidl,11
+Chuanren Liu,11
+Qi Liu,11
+Jamal Bentahar,11
+Gülçin Büyüközkan,11
+András György,11
+Kewen Wang,11
+Tao Xiang,11
+Deepak Agarwal,11
+Jinfeng Yi,11
+Percy Liang,11
+Yi-Dong Shen,11
+Dong Xu,11
+Samuel Kaski,11
+Changshui Zhang,11
+Linli Xu,11
+Ji Liu,11
+Chih-Jen Lin,11
+Jing Zhang,11
+Harikrishna Narasimhan,11
+Sancho Salcedo-Sanz,11
+Xuemin Lin,11
+Bo Liu,11
+Alexandra Carpentier,11
+Mark D. Reid,11
+Ashish Sabharwal,11
+John Langford,11
+Michael R. Lyu,11
+Chi Wang,11
+Yevgeniy Vorobeychik,11
+Peter L. Bartlett,11
+Mehrdad Mahdavi,11
+Hua Xu,11
+Jiayu Zhou,11
+Xueqi Cheng,11
+Yang Wang,11
+Sham M. Kakade,11
+Hiroshi Nakagawa,11
+Kamalika Chaudhuri,11
+François Laviolette,11
