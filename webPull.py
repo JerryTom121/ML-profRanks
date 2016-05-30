@@ -103,8 +103,16 @@ for pub in pubs:
 	    		nameDict[name] = {}
 	    		nameDict[name][pub[1]] = 1
 
-for name in nameDict:
-	print name, nameDict[name]
+#for name in nameDict:
+#	print name, nameDict[name]
+
+from pandas import *
+
+df = DataFrame(nameDict).T.fillna(0)
+
+#print df
+df.to_csv("test.csv", encoding='utf-8')
+
 '''
 	cj = ""
 	for char in pub[1]:
