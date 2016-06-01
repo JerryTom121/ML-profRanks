@@ -1,0 +1,94 @@
+name,school,dept
+Dean P. Foster,Amazon Research - New York,CS
+Sarit Kraus,Bar-llan University,CS
+Erik B. Sudderth,Brown University,CS
+Eric P. Xing,Carnegie Mellon University,ML
+Ruslan Salakhutdinov,Carnegie Mellon University,ML
+Alexander J. Smola,Carnegie Mellon University,ML
+Larry A. Wasserman,Carnegie Mellon University,ML
+Jeff G. Schneider,Carnegie Mellon University,ML
+Ariel D. Procaccia,Carnegie Mellon University,ML
+David M. Blei,Columbia University,CS
+Daniel J. Hsu,Columbia University,CS
+Kilian Q. Weinberger,Cornell University,CS
+Yudong Chen,Cornell University,ORIE
+Lawrence Carin,Duke University,ECE
+David B. Dunson,Duke University,Stat
+Andreas Krause,ETH Zurich,CS
+Francis R. Bach,French Institute for Research,CS
+Mohammad Ghavamzadeh,French Institute for Research,CS
+Alessandro Lazaric,French Institute for Research,CS
+Le Song,Georgia Institute of Technology,CSE
+Rémi Munos,Google Research,CS
+Ryan P. Adams,Harvard University,CS
+Shai Shalev-Shwartz,Hebrew University,CSE
+Qiang Yang,Hong Kong University,CS
+Nicholas R. Jennings,Imperial College,CS
+Shivani Agarwal,Indian Institute of Science,CS
+Stefanie Jegelka,Massachusetts Institute of Technology,EECS
+Bernhard Schölkopf,Max Planck Institute,IS
+Dominik Janzing,Max Planck Institute,IS
+Doina Precup,McGill University,CS
+Rong Jin,Michigan State University,CSE
+Pushmeet Kohli,Microsoft Research,CS
+Prateek Jain,Microsoft Research - India,CS
+Alekh Agarwal,Microsoft Research - New York,CS
+Zhi-Hua Zhou,Nanjing University,CS
+Mehryar Mohri,New York University,CS
+Alan Fern,Oregon State University,EECS
+Prasad Tadepalli,Oregon State University,EECS
+Han Liu,Princeton University,ORFE
+Elad Hazan,Princeton University,CS
+Jonathan W. Pillow,Princeton University,Psych
+Tong Zhang,Rutgers University,Stat
+Ping Li,Rutgers University,Stat
+Andrew Y. Ng,Stanford University,CS
+Percy Liang,Stanford University,CS
+Shie Mannor,Technion,EE
+Taiji Suzuki,Tokyo Institute of Technology,CS
+Jun Zhu,Tsinghua University,CS
+Hugo Larochelle,Twitter Research,CS
+Bruno Scherrer,Université de Lorraine,CS
+Yoshua Bengio,Université de Montréal,CS
+Csaba Szepesvári,University of Alberta,CS
+Dale Schuurmans,University of Alberta,CS
+Max Welling,University of Amsterdam,CS
+Michael I. Jordan,University of California—_Berkeley ,EECS
+Martin J. Wainwright,University of California—_Berkeley ,EECS
+Michael W. Mahoney,University of California—_Berkeley ,EECS
+Peter L. Bartlett,University of California—_Berkeley ,EECS
+Cho-Jui Hsieh,University of California—_Davis ,Stat
+Animashree Anandkumar,University of California—_Irvine ,EECS
+Alexander T. Ihler,University of California—_Irvine ,CS
+Fei Sha,University of California—_Los Angeles ,CS
+Zoubin Ghahramani,University of Cambridge,Eng
+José Miguel Hernández-Lobato,University of Cambridge,Eng
+John D. Lafferty,University of Chicago,Stat
+Arthur Gretton,University of College London,CS
+Jun Wang,University of College London,CS
+Tianbao Yang,University of Iowa,CS
+Hal Daumé III,University of Maryland—_College Park ,CS
+Jieping Ye,University of Michigan,EECS
+Ambuj Tewari,University of Michigan,Stat
+Honglak Lee,University of Michigan,CSE
+Arindam Banerjee,University of Minnesota,CS
+Yee Whye Teh,University of Oxford,Stat
+Neil D. Lawrence,University of Sheffield,CS
+Huan Xu,University of Singapore,CS
+Shuicheng Yan,University of Singapore,CS
+Milind Tambe,University of Southern California,CS
+Ivor W. Tsang,University of Technology Sydney,CS
+Dacheng Tao,University of Technology Sydney,CS
+Heng Huang,University of Texas—_Arlington ,CSE
+Chris H. Q. Ding,University of Texas—_Arlington ,CSE
+Pradeep Ravikumar,University of Texas—_Austin ,CS
+Inderjit S. Dhillon,University of Texas—_Austin ,CS
+Kristen Grauman,University of Texas—_Austin ,CS
+Masashi Sugiyama,University of Tokyo,CS
+Richard S. Zemel,University of Toronto,CS
+Raquel Urtasun,University of Toronto,CS
+Geoffrey E. Hinton,University of Toronto,CS
+Jeff A. Bilmes,University of Washington,EE
+Sham M. Kakade,University of Washington,CS
+Ohad Shamir,Weizmann Institute,CS
+Feiping Nie,Xi'an Polytechnical University,CS
